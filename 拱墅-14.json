@@ -1,0 +1,222 @@
+[
+  {
+    "name": "袁家新院",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2015",
+    "price": "29105",
+    "onSale": "0"
+  },
+  {
+    "name": "小河路1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1996",
+    "price": "38589",
+    "onSale": "1"
+  },
+  {
+    "name": "莫干山路528号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1995",
+    "price": "34312",
+    "onSale": "1"
+  },
+  {
+    "name": "假山路73号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "德胜",
+    "builtYear": "1990",
+    "price": "38536",
+    "onSale": "1"
+  },
+  {
+    "name": "中环大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2000",
+    "price": "22697",
+    "onSale": "3"
+  },
+  {
+    "name": "莫干巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1990",
+    "price": "36314",
+    "onSale": "1"
+  },
+  {
+    "name": "电炉生活区",
+    "sold": "1",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "1975",
+    "price": "21319",
+    "onSale": "3"
+  },
+  {
+    "name": "田园牧歌揽翠苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2014",
+    "price": "35743",
+    "onSale": "13"
+  },
+  {
+    "name": "锦江大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "耀江国际大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1999",
+    "price": "40372",
+    "onSale": "3"
+  },
+  {
+    "name": "小河直街29号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1990",
+    "price": "52485",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅北路35号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "中交财富中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "大兜路198号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "天悦时代",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "三墩",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "田园秋韵苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "香积寺巷",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "金典家园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "运河ONE",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "万达广场",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "登云路154号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1989",
+    "price": "27233",
+    "onSale": "0"
+  },
+  {
+    "name": "小河东河下79号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "1990",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "小河直街53-1",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "未知年建成",
+    "price": "77010",
+    "onSale": "0"
+  }
+]

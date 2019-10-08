@@ -1,0 +1,302 @@
+[
+  {
+    "name": "江南商城",
+    "sold": "0",
+    "rent": "1",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2000",
+    "price": "12984",
+    "onSale": "18"
+  },
+  {
+    "name": "香樟名苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2000",
+    "price": "15141",
+    "onSale": "7"
+  },
+  {
+    "name": "锦福新村",
+    "sold": "0",
+    "rent": "3",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1995",
+    "price": "12925",
+    "onSale": "9"
+  },
+  {
+    "name": "世纪都市雅苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1999",
+    "price": "15128",
+    "onSale": "7"
+  },
+  {
+    "name": "金城华府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2013",
+    "price": "16263",
+    "onSale": "19"
+  },
+  {
+    "name": "太阳城花园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2000",
+    "price": "15075",
+    "onSale": "18"
+  },
+  {
+    "name": "天目观山月",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "蓝城春风燕语",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "旭辉东原吴越府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "宋都如意溪湖",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "苕溪壹号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "亲和家园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2000",
+    "price": "9971",
+    "onSale": "2"
+  },
+  {
+    "name": "森林湖山庄南区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1999",
+    "price": "15153",
+    "onSale": "16"
+  },
+  {
+    "name": "金基青云山居",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2009",
+    "price": "23332",
+    "onSale": "12"
+  },
+  {
+    "name": "林泉流韵",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1980",
+    "price": "25489",
+    "onSale": "10"
+  },
+  {
+    "name": "金盾花园",
+    "sold": "0",
+    "rent": "2",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1996",
+    "price": "11982",
+    "onSale": "7"
+  },
+  {
+    "name": "汇锦华庭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2004",
+    "price": "15729",
+    "onSale": "13"
+  },
+  {
+    "name": "恒晟云中绿园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2003",
+    "price": "14403",
+    "onSale": "14"
+  },
+  {
+    "name": "於潜镇青兰阁",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2012",
+    "price": "9331",
+    "onSale": "9"
+  },
+  {
+    "name": "樱花府第西园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2009",
+    "price": "17080",
+    "onSale": "20"
+  },
+  {
+    "name": "葡萄园小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1988",
+    "price": "14287",
+    "onSale": "8"
+  },
+  {
+    "name": "锦都嘉园",
+    "sold": "0",
+    "rent": "2",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1980",
+    "price": "13236",
+    "onSale": "27"
+  },
+  {
+    "name": "西雅园",
+    "sold": "0",
+    "rent": "3",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2000",
+    "price": "15030",
+    "onSale": "23"
+  },
+  {
+    "name": "临安宝龙广场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "浅水湾庄园(城中街)",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2017",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "锦竹苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2006",
+    "price": "14865",
+    "onSale": "3"
+  },
+  {
+    "name": "星港9月",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2005",
+    "price": "16039",
+    "onSale": "10"
+  },
+  {
+    "name": "东方公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2006",
+    "price": "14347",
+    "onSale": "1"
+  },
+  {
+    "name": "黄金水岸",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2003",
+    "price": "14168",
+    "onSale": "3"
+  },
+  {
+    "name": "枫林晓城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2004",
+    "price": "17712",
+    "onSale": "7"
+  }
+]

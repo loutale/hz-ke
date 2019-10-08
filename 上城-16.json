@@ -1,0 +1,282 @@
+[
+  {
+    "name": "蕲王路11号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1993",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "火药局弄35号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1990",
+    "price": "46232",
+    "onSale": "0"
+  },
+  {
+    "name": "火药局弄39号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1987",
+    "price": "46659",
+    "onSale": "0"
+  },
+  {
+    "name": "江城路18号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "1998",
+    "price": "44431",
+    "onSale": "0"
+  },
+  {
+    "name": "秋涛路157号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "未知年建成",
+    "price": "34442",
+    "onSale": "0"
+  },
+  {
+    "name": "广厦西湖时代广场",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "2003",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "中闽大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "1998",
+    "price": "19071",
+    "onSale": "0"
+  },
+  {
+    "name": "浙江国贸大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1995",
+    "price": "25888",
+    "onSale": "0"
+  },
+  {
+    "name": "中山南路293号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "斗富一桥东河下",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "未知年建成",
+    "price": "107623",
+    "onSale": "0"
+  },
+  {
+    "name": "太平坊巷",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1995",
+    "price": "35708",
+    "onSale": "0"
+  },
+  {
+    "name": "定安路130号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1995",
+    "price": "41310",
+    "onSale": "0"
+  },
+  {
+    "name": "吴山名楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "2002",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "大马厂巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "未知年建成",
+    "price": "86610",
+    "onSale": "0"
+  },
+  {
+    "name": "甘王路18号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "2005",
+    "price": "40003",
+    "onSale": "0"
+  },
+  {
+    "name": "爱丁堡假日酒店",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "龙翔大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "红门局4号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1990",
+    "price": "40409",
+    "onSale": "0"
+  },
+  {
+    "name": "元宝街小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "2000",
+    "price": "28292",
+    "onSale": "0"
+  },
+  {
+    "name": "伟星世纪大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "万松岭路90号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "岳王路19号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1981",
+    "price": "57730",
+    "onSale": "0"
+  },
+  {
+    "name": "太庙巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1990",
+    "price": "45511",
+    "onSale": "0"
+  },
+  {
+    "name": "江城路393号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1997",
+    "price": "38432",
+    "onSale": "1"
+  },
+  {
+    "name": "江城路316号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1997",
+    "price": "41323",
+    "onSale": "1"
+  },
+  {
+    "name": "吴山路1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1995",
+    "price": "74967",
+    "onSale": "1"
+  },
+  {
+    "name": "丰家兜35号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1990",
+    "price": "43846",
+    "onSale": "1"
+  },
+  {
+    "name": "五圣堂",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1985",
+    "price": "42100",
+    "onSale": "2"
+  }
+]

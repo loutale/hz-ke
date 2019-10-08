@@ -1,0 +1,252 @@
+[
+  {
+    "name": "精工新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "1987",
+    "price": "16413",
+    "onSale": "1"
+  },
+  {
+    "name": "荷裕庭",
+    "sold": "0",
+    "rent": "9",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1992",
+    "price": "18181",
+    "onSale": "0"
+  },
+  {
+    "name": "东湖中路92号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "19468",
+    "onSale": "4"
+  },
+  {
+    "name": "竹海雅苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "未知年建成",
+    "price": "15460",
+    "onSale": "2"
+  },
+  {
+    "name": "龙王塘路81号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1992",
+    "price": "19246",
+    "onSale": "1"
+  },
+  {
+    "name": "铁流公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1998",
+    "price": "20499",
+    "onSale": "0"
+  },
+  {
+    "name": "朝阳西路小区",
+    "sold": "0",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1986",
+    "price": "19471",
+    "onSale": "4"
+  },
+  {
+    "name": "华励花苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1997",
+    "price": "20160",
+    "onSale": "1"
+  },
+  {
+    "name": "崇贤上亿广场",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "崇贤",
+    "builtYear": "2016",
+    "price": "18615",
+    "onSale": "5"
+  },
+  {
+    "name": "兴惠家园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2000",
+    "price": "21169",
+    "onSale": "2"
+  },
+  {
+    "name": "梅堰路13号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "16360",
+    "onSale": "2"
+  },
+  {
+    "name": "藕花洲大街西段623号",
+    "sold": "0",
+    "rent": "5",
+    "zone": "余杭",
+    "subzone": "星桥",
+    "builtYear": "2000",
+    "price": "18544",
+    "onSale": "6"
+  },
+  {
+    "name": "宏丰家具城小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2007",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "江南国际丝绸城",
+    "sold": "0",
+    "rent": "7",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2018",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "北大街231号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1990",
+    "price": "17308",
+    "onSale": "1"
+  },
+  {
+    "name": "仁合银庭",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "仁和",
+    "builtYear": "2014",
+    "price": "20350",
+    "onSale": "8"
+  },
+  {
+    "name": "南大街21-1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "17753",
+    "onSale": "0"
+  },
+  {
+    "name": "海创人才公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "南大街38号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "17276",
+    "onSale": "0"
+  },
+  {
+    "name": "武林小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1996",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文一雅苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "1996",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "国开东方未来科技城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2013",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "胜稼红星嘉园一区",
+    "sold": "0",
+    "rent": "28",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "2018",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "美人弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1994",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "人民大道473号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1999",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

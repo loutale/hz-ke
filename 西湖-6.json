@@ -1,0 +1,302 @@
+[
+  {
+    "name": "西鉴枫景",
+    "sold": "0",
+    "rent": "5",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2003",
+    "price": "48755",
+    "onSale": "12"
+  },
+  {
+    "name": "石灰桥新村",
+    "sold": "3",
+    "rent": "21",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1983",
+    "price": "57814",
+    "onSale": "25"
+  },
+  {
+    "name": "南都花园一区",
+    "sold": "2",
+    "rent": "6",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "1996",
+    "price": "43318",
+    "onSale": "9"
+  },
+  {
+    "name": "五洲国际广场",
+    "sold": "1",
+    "rent": "15",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "2000",
+    "price": "29953",
+    "onSale": "37"
+  },
+  {
+    "name": "沈塘新村",
+    "sold": "1",
+    "rent": "6",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1980",
+    "price": "64821",
+    "onSale": "9"
+  },
+  {
+    "name": "西荡苑桃苑",
+    "sold": "2",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2003",
+    "price": "44227",
+    "onSale": "15"
+  },
+  {
+    "name": "春天花园",
+    "sold": "1",
+    "rent": "8",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "2000",
+    "price": "45848",
+    "onSale": "30"
+  },
+  {
+    "name": "坤和求是里",
+    "sold": "1",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2016",
+    "price": "48438",
+    "onSale": "12"
+  },
+  {
+    "name": "融创河滨之城水澜轩",
+    "sold": "1",
+    "rent": "7",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2016",
+    "price": "59153",
+    "onSale": "27"
+  },
+  {
+    "name": "都市阳光乐苑",
+    "sold": "2",
+    "rent": "10",
+    "zone": "西湖",
+    "subzone": "良渚",
+    "builtYear": "2000",
+    "price": "28223",
+    "onSale": "16"
+  },
+  {
+    "name": "星洲花园红树林",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "2000",
+    "price": "52202",
+    "onSale": "7"
+  },
+  {
+    "name": "银马公寓",
+    "sold": "0",
+    "rent": "12",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2006",
+    "price": "70846",
+    "onSale": "7"
+  },
+  {
+    "name": "星洲花园花柏美舍",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "2000",
+    "price": "51674",
+    "onSale": "9"
+  },
+  {
+    "name": "天湖公寓",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "1998",
+    "price": "35342",
+    "onSale": "9"
+  },
+  {
+    "name": "嘉绿文苑",
+    "sold": "0",
+    "rent": "23",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "2004",
+    "price": "46317",
+    "onSale": "8"
+  },
+  {
+    "name": "西溪名园",
+    "sold": "0",
+    "rent": "10",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2000",
+    "price": "46060",
+    "onSale": "9"
+  },
+  {
+    "name": "外东山弄",
+    "sold": "0",
+    "rent": "13",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1986",
+    "price": "63171",
+    "onSale": "32"
+  },
+  {
+    "name": "嘉绿南苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "1999",
+    "price": "49172",
+    "onSale": "16"
+  },
+  {
+    "name": "山水人家清水湾",
+    "sold": "0",
+    "rent": "7",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2004",
+    "price": "40249",
+    "onSale": "7"
+  },
+  {
+    "name": "华元天鹅堡",
+    "sold": "0",
+    "rent": "18",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2011",
+    "price": "24250",
+    "onSale": "25"
+  },
+  {
+    "name": "学苑春晓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "2003",
+    "price": "39446",
+    "onSale": "17"
+  },
+  {
+    "name": "溪畔花园",
+    "sold": "0",
+    "rent": "8",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1985",
+    "price": "52772",
+    "onSale": "8"
+  },
+  {
+    "name": "佳兆业玖珑山",
+    "sold": "0",
+    "rent": "5",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2014",
+    "price": "34490",
+    "onSale": "25"
+  },
+  {
+    "name": "下宁巷",
+    "sold": "0",
+    "rent": "18",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1983",
+    "price": "84359",
+    "onSale": "18"
+  },
+  {
+    "name": "留庄",
+    "sold": "0",
+    "rent": "10",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2007",
+    "price": "28801",
+    "onSale": "12"
+  },
+  {
+    "name": "庆丰新村",
+    "sold": "0",
+    "rent": "18",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1985",
+    "price": "47058",
+    "onSale": "17"
+  },
+  {
+    "name": "中天之江诚品",
+    "sold": "0",
+    "rent": "18",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2016",
+    "price": "41482",
+    "onSale": "26"
+  },
+  {
+    "name": "天河西苑",
+    "sold": "0",
+    "rent": "5",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "1997",
+    "price": "43811",
+    "onSale": "13"
+  },
+  {
+    "name": "科技新村",
+    "sold": "0",
+    "rent": "8",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2000",
+    "price": "42702",
+    "onSale": "7"
+  },
+  {
+    "name": "景城花园",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "2005",
+    "price": "48138",
+    "onSale": "7"
+  }
+]

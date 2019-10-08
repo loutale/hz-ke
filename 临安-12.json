@@ -1,0 +1,62 @@
+[
+  {
+    "name": "城中府",
+    "sold": "0",
+    "rent": "2",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2000",
+    "price": "17486",
+    "onSale": "10"
+  },
+  {
+    "name": "观唐花园F区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "阳光苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1998",
+    "price": "11728",
+    "onSale": "1"
+  },
+  {
+    "name": "钱王公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2002",
+    "price": "13981",
+    "onSale": "2"
+  },
+  {
+    "name": "钱景路47号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "13933",
+    "onSale": "1"
+  },
+  {
+    "name": "临天路九弄49号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  }
+]

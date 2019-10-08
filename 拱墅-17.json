@@ -1,0 +1,272 @@
+[
+  {
+    "name": "乐富智汇园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "万达广场",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "大关苑路4-4",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1990",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "体育大厦",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅北路2号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1983",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅南路261号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "和睦路128号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1988",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "上塘路411号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1986",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅北路77号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1999",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "莫干山路558号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1992",
+    "price": "32663",
+    "onSale": "0"
+  },
+  {
+    "name": "中联大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2007",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "双荡弄56号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅南路268号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "未知年建成",
+    "price": "150390",
+    "onSale": "0"
+  },
+  {
+    "name": "锦绣大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "华浙大厦",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅南路427号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "信义·商街",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1995",
+    "price": "34428",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅南路441号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1987",
+    "price": "94666",
+    "onSale": "0"
+  },
+  {
+    "name": "嘉墅街5号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "蔡马新苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "美达丽阳国际商务中心",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2006",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "天行国际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "德胜路292号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "德胜",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "假山路30号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "德胜",
+    "builtYear": "未知年建成",
+    "price": "52692",
+    "onSale": "0"
+  },
+  {
+    "name": "小河直街9-4",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "小河直街39号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "未知年建成",
+    "price": "63194",
+    "onSale": "0"
+  },
+  {
+    "name": "假山路93号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "德胜",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅南路394号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1980",
+    "price": "30426",
+    "onSale": "0"
+  }
+]

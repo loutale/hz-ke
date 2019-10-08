@@ -1,0 +1,262 @@
+[
+  {
+    "name": "金鸡岭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "未知年建成",
+    "price": "22017",
+    "onSale": "0"
+  },
+  {
+    "name": "中山中路321号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1998",
+    "price": "38523",
+    "onSale": "0"
+  },
+  {
+    "name": "江城路402号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "直河头39号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "1998",
+    "price": "39132",
+    "onSale": "0"
+  },
+  {
+    "name": "延安路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1991",
+    "price": "52059",
+    "onSale": "0"
+  },
+  {
+    "name": "金峰大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1999",
+    "price": "14038",
+    "onSale": "0"
+  },
+  {
+    "name": "佑圣观路44号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "1985",
+    "price": "35351",
+    "onSale": "0"
+  },
+  {
+    "name": "中山南路423-445号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1978",
+    "price": "43365",
+    "onSale": "1"
+  },
+  {
+    "name": "秋涛路168号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "1998",
+    "price": "48169",
+    "onSale": "0"
+  },
+  {
+    "name": "下华光巷72号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1988",
+    "price": "36805",
+    "onSale": "1"
+  },
+  {
+    "name": "青年路42-1号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1990",
+    "price": "60165",
+    "onSale": "1"
+  },
+  {
+    "name": "清江路196号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "1989",
+    "price": "47378",
+    "onSale": "1"
+  },
+  {
+    "name": "金钱巷32号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1993",
+    "price": "35004",
+    "onSale": "2"
+  },
+  {
+    "name": "抽分厂路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "1990",
+    "price": "27532",
+    "onSale": "1"
+  },
+  {
+    "name": "复兴里街站前路25号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "复兴",
+    "builtYear": "1988",
+    "price": "38080",
+    "onSale": "2"
+  },
+  {
+    "name": "东太平巷",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1990",
+    "price": "51999",
+    "onSale": "1"
+  },
+  {
+    "name": "候潮路37号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "2008",
+    "price": "40855",
+    "onSale": "1"
+  },
+  {
+    "name": "凤山路125号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "南瓦子巷19号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "秋涛发展大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "凤山路93号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "九星里建筑群",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "江城路283.285号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "中河南路17号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "比胜庙巷18号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "水澄路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "西湖景区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

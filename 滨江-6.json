@@ -1,0 +1,302 @@
+[
+  {
+    "name": "印月尚庭",
+    "sold": "0",
+    "rent": "6",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2008",
+    "price": "42587",
+    "onSale": "5"
+  },
+  {
+    "name": "中南公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "1996",
+    "price": "39841",
+    "onSale": "3"
+  },
+  {
+    "name": "火炬小区",
+    "sold": "0",
+    "rent": "3",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2004",
+    "price": "30295",
+    "onSale": "1"
+  },
+  {
+    "name": "拾排里125号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "1994",
+    "price": "34788",
+    "onSale": "3"
+  },
+  {
+    "name": "官河公寓",
+    "sold": "0",
+    "rent": "6",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "1996",
+    "price": "36255",
+    "onSale": "4"
+  },
+  {
+    "name": "江南国美家园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "2000",
+    "price": "36297",
+    "onSale": "2"
+  },
+  {
+    "name": "龙禧boss港",
+    "sold": "0",
+    "rent": "7",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2000",
+    "price": "17873",
+    "onSale": "10"
+  },
+  {
+    "name": "中赢云际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "滨兴西苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "1990",
+    "price": "33308",
+    "onSale": "2"
+  },
+  {
+    "name": "新浦苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2000",
+    "price": "28882",
+    "onSale": "1"
+  },
+  {
+    "name": "浦沿公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2008",
+    "price": "32805",
+    "onSale": "1"
+  },
+  {
+    "name": "古塘路30号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "1998",
+    "price": "34731",
+    "onSale": "2"
+  },
+  {
+    "name": "周家园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "1999",
+    "price": "35095",
+    "onSale": "0"
+  },
+  {
+    "name": "兴耀星澜之城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2015",
+    "price": "48600",
+    "onSale": "16"
+  },
+  {
+    "name": "滨兴小区东区",
+    "sold": "0",
+    "rent": "6",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "1990",
+    "price": "35594",
+    "onSale": "0"
+  },
+  {
+    "name": "钱塘福苑",
+    "sold": "0",
+    "rent": "25",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "龙湖滨江天街",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2016",
+    "price": "45421",
+    "onSale": "0"
+  },
+  {
+    "name": "长虹苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2009",
+    "price": "31658",
+    "onSale": "2"
+  },
+  {
+    "name": "缤纷东院",
+    "sold": "0",
+    "rent": "46",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2005",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "新浦路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "1985",
+    "price": "34571",
+    "onSale": "3"
+  },
+  {
+    "name": "六眼井",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "1980",
+    "price": "34720",
+    "onSale": "2"
+  },
+  {
+    "name": "浦沿电化宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "1995",
+    "price": "35624",
+    "onSale": "0"
+  },
+  {
+    "name": "红门家园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "人民路25号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "2012",
+    "price": "25484",
+    "onSale": "0"
+  },
+  {
+    "name": "海威新界",
+    "sold": "0",
+    "rent": "124",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2018",
+    "price": "50449",
+    "onSale": "19"
+  },
+  {
+    "name": "尚城墅",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2003",
+    "price": "73506",
+    "onSale": "3"
+  },
+  {
+    "name": "大同公寓",
+    "sold": "0",
+    "rent": "11",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "人民路19号(西兴路)",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "1998",
+    "price": "33078",
+    "onSale": "0"
+  },
+  {
+    "name": "联庄公寓",
+    "sold": "0",
+    "rent": "7",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2000",
+    "price": "33021",
+    "onSale": "2"
+  },
+  {
+    "name": "新世界柏悦轩",
+    "sold": "0",
+    "rent": "9",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2000",
+    "price": "27959",
+    "onSale": "2"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "绿城杨柳郡",
+    "sold": "1",
+    "rent": "24",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "1977",
+    "price": "45164",
+    "onSale": "10"
+  },
+  {
+    "name": "保利罗兰香谷",
+    "sold": "10",
+    "rent": "38",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2014",
+    "price": "25900",
+    "onSale": "50"
+  },
+  {
+    "name": "滨江曙光之城",
+    "sold": "2",
+    "rent": "12",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2008",
+    "price": "43189",
+    "onSale": "34"
+  },
+  {
+    "name": "万科魅力之城",
+    "sold": "3",
+    "rent": "20",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2009",
+    "price": "30511",
+    "onSale": "62"
+  },
+  {
+    "name": "蓝桥名苑",
+    "sold": "6",
+    "rent": "35",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2006",
+    "price": "26630",
+    "onSale": "27"
+  },
+  {
+    "name": "金雅苑社区",
+    "sold": "7",
+    "rent": "64",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2008",
+    "price": "28537",
+    "onSale": "24"
+  },
+  {
+    "name": "宋都阳光国际",
+    "sold": "4",
+    "rent": "22",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2013",
+    "price": "34660",
+    "onSale": "71"
+  },
+  {
+    "name": "德信东望",
+    "sold": "1",
+    "rent": "13",
+    "zone": "江干",
+    "subzone": "城东新城",
+    "builtYear": "2016",
+    "price": "44700",
+    "onSale": "28"
+  },
+  {
+    "name": "万科中央公园",
+    "sold": "1",
+    "rent": "16",
+    "zone": "江干",
+    "subzone": "城东新城",
+    "builtYear": "2017",
+    "price": "46243",
+    "onSale": "7"
+  },
+  {
+    "name": "红街公寓",
+    "sold": "12",
+    "rent": "49",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "1985",
+    "price": "38545",
+    "onSale": "93"
+  },
+  {
+    "name": "丽江公寓",
+    "sold": "3",
+    "rent": "24",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2008",
+    "price": "37233",
+    "onSale": "58"
+  },
+  {
+    "name": "北城枫景园",
+    "sold": "9",
+    "rent": "18",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2012",
+    "price": "26225",
+    "onSale": "40"
+  },
+  {
+    "name": "新江花园",
+    "sold": "0",
+    "rent": "32",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2007",
+    "price": "29628",
+    "onSale": "19"
+  },
+  {
+    "name": "天运花园",
+    "sold": "0",
+    "rent": "11",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "1984",
+    "price": "40517",
+    "onSale": "39"
+  },
+  {
+    "name": "金基晓庐",
+    "sold": "0",
+    "rent": "48",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2009",
+    "price": "63125",
+    "onSale": "28"
+  },
+  {
+    "name": "雍和府",
+    "sold": "0",
+    "rent": "34",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2017",
+    "price": "38714",
+    "onSale": "33"
+  },
+  {
+    "name": "世茂东壹号",
+    "sold": "0",
+    "rent": "5",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2010",
+    "price": "38028",
+    "onSale": "14"
+  },
+  {
+    "name": "万科大家钱塘府",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "2016",
+    "price": "62798",
+    "onSale": "8"
+  },
+  {
+    "name": "阳光逸城",
+    "sold": "0",
+    "rent": "6",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "1999",
+    "price": "27207",
+    "onSale": "36"
+  },
+  {
+    "name": "万科紫台",
+    "sold": "0",
+    "rent": "8",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2015",
+    "price": "38467",
+    "onSale": "32"
+  },
+  {
+    "name": "阳光城普升",
+    "sold": "0",
+    "rent": "8",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2016",
+    "price": "35246",
+    "onSale": "27"
+  },
+  {
+    "name": "盛世钱塘",
+    "sold": "0",
+    "rent": "55",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "1998",
+    "price": "63302",
+    "onSale": "25"
+  },
+  {
+    "name": "滨江凯旋门",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "2014",
+    "price": "72608",
+    "onSale": "15"
+  },
+  {
+    "name": "金色黎明一期",
+    "sold": "0",
+    "rent": "24",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "2013",
+    "price": "42055",
+    "onSale": "37"
+  },
+  {
+    "name": "天城府",
+    "sold": "0",
+    "rent": "9",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2016",
+    "price": "40155",
+    "onSale": "11"
+  },
+  {
+    "name": "德信大家钱江府",
+    "sold": "0",
+    "rent": "45",
+    "zone": "江干",
+    "subzone": "城东新城",
+    "builtYear": "2015",
+    "price": "46099",
+    "onSale": "23"
+  },
+  {
+    "name": "原筑壹号",
+    "sold": "0",
+    "rent": "39",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "2010",
+    "price": "26266",
+    "onSale": "81"
+  },
+  {
+    "name": "沁园雅舍",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2006",
+    "price": "25206",
+    "onSale": "34"
+  },
+  {
+    "name": "远洋心里",
+    "sold": "0",
+    "rent": "12",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2014",
+    "price": "36941",
+    "onSale": "30"
+  },
+  {
+    "name": "左邻右舍",
+    "sold": "0",
+    "rent": "13",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2009",
+    "price": "32710",
+    "onSale": "32"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "一清新村",
+    "sold": "2",
+    "rent": "5",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1996",
+    "price": "40274",
+    "onSale": "16"
+  },
+  {
+    "name": "远洋公馆绿园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "2015",
+    "price": "67768",
+    "onSale": "4"
+  },
+  {
+    "name": "登云阁",
+    "sold": "2",
+    "rent": "5",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "1985",
+    "price": "35159",
+    "onSale": "12"
+  },
+  {
+    "name": "董家弄",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1973",
+    "price": "35333",
+    "onSale": "18"
+  },
+  {
+    "name": "龙门公寓",
+    "sold": "1",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "2004",
+    "price": "34167",
+    "onSale": "10"
+  },
+  {
+    "name": "大浒西苑",
+    "sold": "0",
+    "rent": "5",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "2011",
+    "price": "40194",
+    "onSale": "9"
+  },
+  {
+    "name": "塘河新村",
+    "sold": "3",
+    "rent": "10",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1985",
+    "price": "35179",
+    "onSale": "20"
+  },
+  {
+    "name": "吉庆院",
+    "sold": "1",
+    "rent": "22",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "1986",
+    "price": "36433",
+    "onSale": "19"
+  },
+  {
+    "name": "雍景湾(拱墅)",
+    "sold": "0",
+    "rent": "6",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2016",
+    "price": "45193",
+    "onSale": "0"
+  },
+  {
+    "name": "易构大厦",
+    "sold": "1",
+    "rent": "9",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2002",
+    "price": "15691",
+    "onSale": "26"
+  },
+  {
+    "name": "都市水乡水起苑",
+    "sold": "0",
+    "rent": "8",
+    "zone": "拱墅",
+    "subzone": "三墩",
+    "builtYear": "2007",
+    "price": "30031",
+    "onSale": "11"
+  },
+  {
+    "name": "杭钢北苑",
+    "sold": "0",
+    "rent": "5",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "1976",
+    "price": "26995",
+    "onSale": "33"
+  },
+  {
+    "name": "三江花园道壹号",
+    "sold": "0",
+    "rent": "9",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2012",
+    "price": "48801",
+    "onSale": "5"
+  },
+  {
+    "name": "宋都香悦郡",
+    "sold": "0",
+    "rent": "25",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2016",
+    "price": "34606",
+    "onSale": "9"
+  },
+  {
+    "name": "白马公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2000",
+    "price": "64641",
+    "onSale": "3"
+  },
+  {
+    "name": "叶青随苑",
+    "sold": "0",
+    "rent": "6",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1999",
+    "price": "42557",
+    "onSale": "14"
+  },
+  {
+    "name": "胜月院小区",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "1978",
+    "price": "35027",
+    "onSale": "9"
+  },
+  {
+    "name": "半道红小区",
+    "sold": "0",
+    "rent": "4",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1988",
+    "price": "41272",
+    "onSale": "9"
+  },
+  {
+    "name": "莫干新村",
+    "sold": "0",
+    "rent": "9",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1977",
+    "price": "40838",
+    "onSale": "14"
+  },
+  {
+    "name": "墅林苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1996",
+    "price": "39253",
+    "onSale": "6"
+  },
+  {
+    "name": "信步闲庭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2008",
+    "price": "45116",
+    "onSale": "7"
+  },
+  {
+    "name": "杭钢南苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "1984",
+    "price": "27637",
+    "onSale": "14"
+  },
+  {
+    "name": "三塘人家",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "2012",
+    "price": "35420",
+    "onSale": "7"
+  },
+  {
+    "name": "绿城运河郡",
+    "sold": "0",
+    "rent": "79",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2017",
+    "price": "29886",
+    "onSale": "53"
+  },
+  {
+    "name": "复地壹中心",
+    "sold": "0",
+    "rent": "159",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2000",
+    "price": "22838",
+    "onSale": "45"
+  },
+  {
+    "name": "阳光城文澜府",
+    "sold": "0",
+    "rent": "8",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "2018",
+    "price": "49236",
+    "onSale": "10"
+  },
+  {
+    "name": "中粮天悦大悦城",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "2017",
+    "price": "49735",
+    "onSale": "5"
+  },
+  {
+    "name": "绍兴新村",
+    "sold": "0",
+    "rent": "8",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "1988",
+    "price": "34398",
+    "onSale": "18"
+  },
+  {
+    "name": "渡驾新村",
+    "sold": "0",
+    "rent": "4",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2000",
+    "price": "34095",
+    "onSale": "5"
+  },
+  {
+    "name": "广兴新村",
+    "sold": "0",
+    "rent": "6",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1995",
+    "price": "36765",
+    "onSale": "29"
+  }
+]

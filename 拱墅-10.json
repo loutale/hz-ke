@@ -1,0 +1,282 @@
+[
+  {
+    "name": "化纤新村",
+    "sold": "1",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "1975",
+    "price": "39086",
+    "onSale": "5"
+  },
+  {
+    "name": "招商远洋春秋华庭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2019",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "华龙温泉公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2000",
+    "price": "45044",
+    "onSale": "1"
+  },
+  {
+    "name": "德胜路318号",
+    "sold": "1",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "德胜",
+    "builtYear": "1999",
+    "price": "34584",
+    "onSale": "1"
+  },
+  {
+    "name": "城西银泰城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2012",
+    "price": "26386",
+    "onSale": "0"
+  },
+  {
+    "name": "合景天銮",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2017",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "万融城",
+    "sold": "0",
+    "rent": "35",
+    "zone": "拱墅",
+    "subzone": "万达广场",
+    "builtYear": "2019",
+    "price": "23981",
+    "onSale": "0"
+  },
+  {
+    "name": "信义新村",
+    "sold": "1",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1992",
+    "price": "35073",
+    "onSale": "1"
+  },
+  {
+    "name": "明园路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "1979",
+    "price": "27296",
+    "onSale": "2"
+  },
+  {
+    "name": "上石苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "2000",
+    "price": "28666",
+    "onSale": "2"
+  },
+  {
+    "name": "豪曹巷",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1987",
+    "price": "33447",
+    "onSale": "0"
+  },
+  {
+    "name": "沈塘桥19弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1996",
+    "price": "38567",
+    "onSale": "1"
+  },
+  {
+    "name": "瑞浩珺公馆",
+    "sold": "0",
+    "rent": "8",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2010",
+    "price": "26231",
+    "onSale": "6"
+  },
+  {
+    "name": "汉港武林汇",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "和睦南苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1990",
+    "price": "34060",
+    "onSale": "1"
+  },
+  {
+    "name": "田园河畔居",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "1995",
+    "price": "27421",
+    "onSale": "4"
+  },
+  {
+    "name": "杭印路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "1995",
+    "price": "38923",
+    "onSale": "3"
+  },
+  {
+    "name": "方正360空间大厦",
+    "sold": "0",
+    "rent": "5",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2011",
+    "price": "19323",
+    "onSale": "15"
+  },
+  {
+    "name": "大关南一苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1994",
+    "price": "34669",
+    "onSale": "3"
+  },
+  {
+    "name": "碧桂园金科尚合府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "莫干山路132号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1996",
+    "price": "32425",
+    "onSale": "0"
+  },
+  {
+    "name": "平安雅苑",
+    "sold": "0",
+    "rent": "296",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "日森大厦",
+    "sold": "0",
+    "rent": "7",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2000",
+    "price": "36288",
+    "onSale": "6"
+  },
+  {
+    "name": "大兜弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1970",
+    "price": "36419",
+    "onSale": "0"
+  },
+  {
+    "name": "和睦公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "1989",
+    "price": "37222",
+    "onSale": "0"
+  },
+  {
+    "name": "西瑞大厦",
+    "sold": "0",
+    "rent": "5",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2000",
+    "price": "24407",
+    "onSale": "11"
+  },
+  {
+    "name": "大关东十苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "2000",
+    "price": "35526",
+    "onSale": "4"
+  },
+  {
+    "name": "半山路",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "1993",
+    "price": "28611",
+    "onSale": "3"
+  }
+]

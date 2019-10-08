@@ -1,0 +1,232 @@
+[
+  {
+    "name": "万乐西园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1996",
+    "price": "11978",
+    "onSale": "5"
+  },
+  {
+    "name": "水岸风华",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1980",
+    "price": "28244",
+    "onSale": "11"
+  },
+  {
+    "name": "广场花园",
+    "sold": "1",
+    "rent": "3",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1998",
+    "price": "16056",
+    "onSale": "27"
+  },
+  {
+    "name": "锦桥路85号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1990",
+    "price": "13612",
+    "onSale": "3"
+  },
+  {
+    "name": "万马公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "1998",
+    "price": "11735",
+    "onSale": "3"
+  },
+  {
+    "name": "九豪庄园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2011",
+    "price": "15144",
+    "onSale": "12"
+  },
+  {
+    "name": "怡情风景苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2000",
+    "price": "13053",
+    "onSale": "3"
+  },
+  {
+    "name": "观唐花园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2009",
+    "price": "13924",
+    "onSale": "5"
+  },
+  {
+    "name": "湖塘公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2006",
+    "price": "14839",
+    "onSale": "1"
+  },
+  {
+    "name": "中央府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2014",
+    "price": "20124",
+    "onSale": "8"
+  },
+  {
+    "name": "明月山庄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "马溪公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "佳源优樾",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "雷威沁园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2018",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "百骊府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "康宁苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "通策状元府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "百盛春天公社",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "临安宝龙城市广场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "观唐花园A区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "石镜街552-3号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "麒麟山庄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "竹悦山水轩",
+    "sold": "0",
+    "rent": "0",
+    "zone": "临安",
+    "subzone": "临安",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

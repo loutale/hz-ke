@@ -1,0 +1,252 @@
+[
+  {
+    "name": "拾排里126号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "1992",
+    "price": "33220",
+    "onSale": "1"
+  },
+  {
+    "name": "东冠路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "1992",
+    "price": "29838",
+    "onSale": "2"
+  },
+  {
+    "name": "西兴街",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "2004",
+    "price": "44149",
+    "onSale": "2"
+  },
+  {
+    "name": "天官路15号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "白马湖",
+    "builtYear": "2017",
+    "price": "26537",
+    "onSale": "0"
+  },
+  {
+    "name": "官河路44号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "1999",
+    "price": "35104",
+    "onSale": "1"
+  },
+  {
+    "name": "中赢国际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2013",
+    "price": "99499",
+    "onSale": "0"
+  },
+  {
+    "name": "润和信雅达国际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "1991",
+    "price": "24557",
+    "onSale": "0"
+  },
+  {
+    "name": "星耀中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "龙湖郦城公馆",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2016",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "省水电新村二区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "奥体",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西兴老社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "镇前路150号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "1995",
+    "price": "37129",
+    "onSale": "0"
+  },
+  {
+    "name": "协同村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "1994",
+    "price": "40343",
+    "onSale": "0"
+  },
+  {
+    "name": "滨江人才公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "镇前路26号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "未知年建成",
+    "price": "31652",
+    "onSale": "0"
+  },
+  {
+    "name": "龙湖春江荟",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "奥体",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "世茂中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2011",
+    "price": "20453",
+    "onSale": "0"
+  },
+  {
+    "name": "人民路23号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "2004",
+    "price": "25257",
+    "onSale": "1"
+  },
+  {
+    "name": "人民路10号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "1994",
+    "price": "28975",
+    "onSale": "0"
+  },
+  {
+    "name": "三花江虹国际创意园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "浦乐新苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "兴耀科技园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "白马湖小区鸿雁苑",
+    "sold": "0",
+    "rent": "8",
+    "zone": "滨江",
+    "subzone": "白马湖",
+    "builtYear": "2008",
+    "price": "28693",
+    "onSale": "0"
+  },
+  {
+    "name": "浙大网新双城国际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "滨海大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

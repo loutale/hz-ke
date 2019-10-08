@@ -1,0 +1,252 @@
+[
+  {
+    "name": "天城路199号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "三里亭东苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "艮山西路66-5号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "红菱新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1989",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "天城路62-21号院",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "杭海路201号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "普德人家",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "兴隆公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "杭州市江干区港龙城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "城东新城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "君合务楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "太平洋银座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "太平门直街116-1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "海天公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "秋涛北路339号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "太平门直街28-3号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1999",
+    "price": "42054",
+    "onSale": "0"
+  },
+  {
+    "name": "天运路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "2005",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "机场路1巷19号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2000",
+    "price": "27836",
+    "onSale": "0"
+  },
+  {
+    "name": "元华旺座中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "交运大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "秋涛北路131号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "华家池",
+    "builtYear": "1998",
+    "price": "29011",
+    "onSale": "0"
+  },
+  {
+    "name": "天城路132号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "德珠商务中心",
+    "sold": "0",
+    "rent": "2",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2013",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "机场路43号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "1990",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "迪凯国际中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "金骏大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

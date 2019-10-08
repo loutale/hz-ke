@@ -1,0 +1,32 @@
+[
+  {
+    "name": "施家弄6号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "1985",
+    "price": "36888",
+    "onSale": "1"
+  },
+  {
+    "name": "镇前路113号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "未知年建成",
+    "price": "33538",
+    "onSale": "0"
+  },
+  {
+    "name": "槐河街",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "白马湖",
+    "builtYear": "1982",
+    "price": "36779",
+    "onSale": "1"
+  }
+]

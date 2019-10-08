@@ -1,0 +1,242 @@
+[
+  {
+    "name": "文二西路248号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "保俶北路98号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1989",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路141号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "学院路60号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "教工路264号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "学院路205号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路315号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路38号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路107号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路283号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "教工路158号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文一路437号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路414号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路412号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "留和路397号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "留下",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "宏图国际二期",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "流水桥弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文一西路177号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "黄姑山路23号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文一路114号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "百脑汇科技大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "水沟巷15号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路391号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文三西路450号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

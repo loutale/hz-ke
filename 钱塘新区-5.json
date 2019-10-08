@@ -1,0 +1,292 @@
+[
+  {
+    "name": "湾南德盛东苑",
+    "sold": "0",
+    "rent": "20",
+    "zone": "钱塘新区",
+    "subzone": "工业园北",
+    "builtYear": "2000",
+    "price": "28387",
+    "onSale": "7"
+  },
+  {
+    "name": "华顺公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "1997",
+    "price": "28000",
+    "onSale": "3"
+  },
+  {
+    "name": "东方铭楼",
+    "sold": "0",
+    "rent": "8",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2011",
+    "price": "25087",
+    "onSale": "9"
+  },
+  {
+    "name": "江东阳光名城",
+    "sold": "0",
+    "rent": "7",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2013",
+    "price": "18909",
+    "onSale": "2"
+  },
+  {
+    "name": "江东锦绣名座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2010",
+    "price": "21080",
+    "onSale": "2"
+  },
+  {
+    "name": "春意江南名邸",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "东尚国际寓所",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "工业园南",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "帝凯帝景园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2008",
+    "price": "18780",
+    "onSale": "4"
+  },
+  {
+    "name": "丽泽苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "高教园区东",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "上沙永裕大厦",
+    "sold": "0",
+    "rent": "15",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "盈都五角广场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "大江东宝龙广场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "德信大江壹号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "新元金沙城",
+    "sold": "0",
+    "rent": "38",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "桑达公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "钱塘新区",
+    "subzone": "高教园区东",
+    "builtYear": "2012",
+    "price": "24190",
+    "onSale": "0"
+  },
+  {
+    "name": "如意公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2000",
+    "price": "17504",
+    "onSale": "0"
+  },
+  {
+    "name": "万泰华庭",
+    "sold": "0",
+    "rent": "4",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2013",
+    "price": "13265",
+    "onSale": "1"
+  },
+  {
+    "name": "盛都苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2009",
+    "price": "13612",
+    "onSale": "1"
+  },
+  {
+    "name": "保利唐宁十号街",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "高教园区东",
+    "builtYear": "2012",
+    "price": "57521",
+    "onSale": "0"
+  },
+  {
+    "name": "义蓬购物中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2011",
+    "price": "15239",
+    "onSale": "2"
+  },
+  {
+    "name": "和达东东城",
+    "sold": "0",
+    "rent": "5",
+    "zone": "钱塘新区",
+    "subzone": "沿江北",
+    "builtYear": "2013",
+    "price": "14788",
+    "onSale": "2"
+  },
+  {
+    "name": "汇澜公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大学城北",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "头格月雅城",
+    "sold": "0",
+    "rent": "10",
+    "zone": "钱塘新区",
+    "subzone": "九堡",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "杭州临江商贸大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "九堡",
+    "builtYear": "未知年建成",
+    "price": "14605",
+    "onSale": "0"
+  },
+  {
+    "name": "东海・橙对",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "工业园南",
+    "builtYear": "2016",
+    "price": "29586",
+    "onSale": "0"
+  },
+  {
+    "name": "天街",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "未知年建成",
+    "price": "42587",
+    "onSale": "0"
+  },
+  {
+    "name": "诚盛天际湾",
+    "sold": "0",
+    "rent": "1",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2013",
+    "price": "18919",
+    "onSale": "4"
+  },
+  {
+    "name": "景悦家苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2000",
+    "price": "14939",
+    "onSale": "1"
+  },
+  {
+    "name": "宋都相贤府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "天福花园",
+    "sold": "3",
+    "rent": "7",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "1997",
+    "price": "48102",
+    "onSale": "14"
+  },
+  {
+    "name": "中山苑",
+    "sold": "2",
+    "rent": "4",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1997",
+    "price": "40102",
+    "onSale": "9"
+  },
+  {
+    "name": "世纪坊",
+    "sold": "1",
+    "rent": "14",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "1998",
+    "price": "47932",
+    "onSale": "14"
+  },
+  {
+    "name": "马市街",
+    "sold": "2",
+    "rent": "13",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1993",
+    "price": "41142",
+    "onSale": "21"
+  },
+  {
+    "name": "钱江御府",
+    "sold": "1",
+    "rent": "12",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "2017",
+    "price": "71025",
+    "onSale": "9"
+  },
+  {
+    "name": "民安苑",
+    "sold": "1",
+    "rent": "17",
+    "zone": "上城",
+    "subzone": "复兴",
+    "builtYear": "1984",
+    "price": "42352",
+    "onSale": "21"
+  },
+  {
+    "name": "十亩田家园",
+    "sold": "0",
+    "rent": "7",
+    "zone": "上城",
+    "subzone": "复兴",
+    "builtYear": "1989",
+    "price": "39565",
+    "onSale": "22"
+  },
+  {
+    "name": "后市街",
+    "sold": "0",
+    "rent": "11",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1988",
+    "price": "49549",
+    "onSale": "34"
+  },
+  {
+    "name": "凤凰北苑",
+    "sold": "2",
+    "rent": "9",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "1999",
+    "price": "48462",
+    "onSale": "21"
+  },
+  {
+    "name": "金棕榈花园",
+    "sold": "0",
+    "rent": "6",
+    "zone": "上城",
+    "subzone": "复兴",
+    "builtYear": "2003",
+    "price": "46076",
+    "onSale": "16"
+  },
+  {
+    "name": "望江家园西园",
+    "sold": "0",
+    "rent": "10",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "2000",
+    "price": "46684",
+    "onSale": "24"
+  },
+  {
+    "name": "赞成林风和风苑",
+    "sold": "0",
+    "rent": "5",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "2011",
+    "price": "61571",
+    "onSale": "5"
+  },
+  {
+    "name": "郡亭公寓",
+    "sold": "0",
+    "rent": "15",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "2007",
+    "price": "34051",
+    "onSale": "11"
+  },
+  {
+    "name": "城南家园",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "2002",
+    "price": "39871",
+    "onSale": "12"
+  },
+  {
+    "name": "清怡花苑",
+    "sold": "0",
+    "rent": "5",
+    "zone": "上城",
+    "subzone": "复兴",
+    "builtYear": "2003",
+    "price": "40335",
+    "onSale": "13"
+  },
+  {
+    "name": "紫花苑",
+    "sold": "0",
+    "rent": "8",
+    "zone": "上城",
+    "subzone": "复兴",
+    "builtYear": "2000",
+    "price": "41318",
+    "onSale": "27"
+  },
+  {
+    "name": "阳光海岸",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "2010",
+    "price": "102426",
+    "onSale": "1"
+  },
+  {
+    "name": "清河家园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "复兴",
+    "builtYear": "2003",
+    "price": "41892",
+    "onSale": "13"
+  },
+  {
+    "name": "复兴北苑",
+    "sold": "0",
+    "rent": "9",
+    "zone": "上城",
+    "subzone": "复兴",
+    "builtYear": "1998",
+    "price": "41084",
+    "onSale": "34"
+  },
+  {
+    "name": "近江家园八园",
+    "sold": "0",
+    "rent": "5",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "2000",
+    "price": "53182",
+    "onSale": "19"
+  },
+  {
+    "name": "康都紫轩",
+    "sold": "0",
+    "rent": "10",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "2010",
+    "price": "58056",
+    "onSale": "8"
+  },
+  {
+    "name": "滨江钱塘印象",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "2016",
+    "price": "74638",
+    "onSale": "0"
+  },
+  {
+    "name": "尚筑金座",
+    "sold": "0",
+    "rent": "14",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "2009",
+    "price": "32947",
+    "onSale": "15"
+  },
+  {
+    "name": "近江家园六园",
+    "sold": "0",
+    "rent": "7",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "1996",
+    "price": "50864",
+    "onSale": "17"
+  },
+  {
+    "name": "钱塘人家",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "1999",
+    "price": "48420",
+    "onSale": "10"
+  },
+  {
+    "name": "中大吴庄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "2001",
+    "price": "123948",
+    "onSale": "0"
+  },
+  {
+    "name": "近江家园三园",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "2002",
+    "price": "49174",
+    "onSale": "11"
+  },
+  {
+    "name": "金狮苑",
+    "sold": "0",
+    "rent": "23",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1997",
+    "price": "41086",
+    "onSale": "32"
+  },
+  {
+    "name": "望江新园二园",
+    "sold": "0",
+    "rent": "5",
+    "zone": "上城",
+    "subzone": "望江",
+    "builtYear": "2009",
+    "price": "42551",
+    "onSale": "11"
+  },
+  {
+    "name": "滨江家园",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "1997",
+    "price": "45807",
+    "onSale": "4"
+  }
+]

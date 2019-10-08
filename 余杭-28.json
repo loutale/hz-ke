@@ -1,0 +1,212 @@
+[
+  {
+    "name": "车站路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1998",
+    "price": "16163",
+    "onSale": "0"
+  },
+  {
+    "name": "逸仙路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "18574",
+    "onSale": "0"
+  },
+  {
+    "name": "南渠社区南渠街",
+    "sold": "0",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2000",
+    "price": "19505",
+    "onSale": "3"
+  },
+  {
+    "name": "西溪山庄泊恩郡",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "小和山",
+    "builtYear": "2009",
+    "price": "42789",
+    "onSale": "1"
+  },
+  {
+    "name": "中泰商贸城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "运动新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "2000",
+    "price": "13043",
+    "onSale": "0"
+  },
+  {
+    "name": "朝阳西路43号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1998",
+    "price": "19245",
+    "onSale": "2"
+  },
+  {
+    "name": "中梁顺悦庭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "31636",
+    "onSale": "1"
+  },
+  {
+    "name": "碧佳公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2002",
+    "price": "17920",
+    "onSale": "1"
+  },
+  {
+    "name": "龙王公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1996",
+    "price": "21905",
+    "onSale": "2"
+  },
+  {
+    "name": "星都家园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2003",
+    "price": "20652",
+    "onSale": "5"
+  },
+  {
+    "name": "超峰小区",
+    "sold": "0",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1999",
+    "price": "19169",
+    "onSale": "2"
+  },
+  {
+    "name": "世纪广场小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "未知年建成",
+    "price": "17180",
+    "onSale": "1"
+  },
+  {
+    "name": "兴和苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "1985",
+    "price": "19406",
+    "onSale": "6"
+  },
+  {
+    "name": "水岸锦城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "2000",
+    "price": "17100",
+    "onSale": "1"
+  },
+  {
+    "name": "龙王塘路108号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "17575",
+    "onSale": "0"
+  },
+  {
+    "name": "广济公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "2001",
+    "price": "15303",
+    "onSale": "1"
+  },
+  {
+    "name": "翠园路小区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "1996",
+    "price": "14929",
+    "onSale": "1"
+  },
+  {
+    "name": "东湖中路227号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1988",
+    "price": "19541",
+    "onSale": "0"
+  },
+  {
+    "name": "胜稼公寓",
+    "sold": "0",
+    "rent": "4",
+    "zone": "余杭",
+    "subzone": "工业园北",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "新星家园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

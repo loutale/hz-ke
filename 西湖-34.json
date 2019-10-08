@@ -1,0 +1,292 @@
+[
+  {
+    "name": "教工路214号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "振华路7号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "曙光路131号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "坚果2.0",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "浙江世界世贸中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "浙大科技园紫金创业园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二西路582号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "颐高创业大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "裕都大楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2003",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "马塍路3-8-3-9号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1985",
+    "price": "19993",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路104号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文一路217号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "金顶苑商务楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "求是大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "1999",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路559号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "1988",
+    "price": "36762",
+    "onSale": "0"
+  },
+  {
+    "name": "杭大路28号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "未知年建成",
+    "price": "48139",
+    "onSale": "0"
+  },
+  {
+    "name": "体育场路557号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "未知年建成",
+    "price": "49916",
+    "onSale": "0"
+  },
+  {
+    "name": "古翠路76号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文三西路79号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "北山街99号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1986",
+    "price": "67478",
+    "onSale": "0"
+  },
+  {
+    "name": "三墩街285号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "未知年建成",
+    "price": "33593",
+    "onSale": "1"
+  },
+  {
+    "name": "文一西路77号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "1996",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "曙光路115号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1985",
+    "price": "64086",
+    "onSale": "1"
+  },
+  {
+    "name": "古墩路507号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "2001",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "宝石二路7号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "九月森林林溪园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "留下",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "曙光路101号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1989",
+    "price": "64090",
+    "onSale": "0"
+  },
+  {
+    "name": "华门商务中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2000",
+    "price": "33792",
+    "onSale": "3"
+  },
+  {
+    "name": "保俶北路95号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1988",
+    "price": "52066",
+    "onSale": "1"
+  }
+]

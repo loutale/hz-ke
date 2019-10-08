@@ -1,0 +1,132 @@
+[
+  {
+    "name": "觉苑寺巷1",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1984",
+    "price": "41268",
+    "onSale": "1"
+  },
+  {
+    "name": "清江路272号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "1999",
+    "price": "43024",
+    "onSale": "1"
+  },
+  {
+    "name": "庆春路227号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1990",
+    "price": "29316",
+    "onSale": "0"
+  },
+  {
+    "name": "西湖国贸中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "东坡路66号院",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "2007",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "兴安里",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1980",
+    "price": "62293",
+    "onSale": "1"
+  },
+  {
+    "name": "江城路318号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1997",
+    "price": "40374",
+    "onSale": "1"
+  },
+  {
+    "name": "定安路132号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1989",
+    "price": "47420",
+    "onSale": "1"
+  },
+  {
+    "name": "江城路320号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "水亭址5号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "1989",
+    "price": "39217",
+    "onSale": "0"
+  },
+  {
+    "name": "中山中路156号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1988",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "江城路452号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1996",
+    "price": "41360",
+    "onSale": "2"
+  },
+  {
+    "name": "宋城路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "西湖景区",
+    "builtYear": "1985",
+    "price": "38641",
+    "onSale": "1"
+  }
+]

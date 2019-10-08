@@ -1,0 +1,302 @@
+[
+  {
+    "name": "和平小区",
+    "sold": "1",
+    "rent": "3",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "1995",
+    "price": "42132",
+    "onSale": "26"
+  },
+  {
+    "name": "香源公寓",
+    "sold": "1",
+    "rent": "9",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "2012",
+    "price": "29685",
+    "onSale": "7"
+  },
+  {
+    "name": "绿洲吉家",
+    "sold": "0",
+    "rent": "4",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "2006",
+    "price": "33961",
+    "onSale": "12"
+  },
+  {
+    "name": "漾河人家",
+    "sold": "1",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "2000",
+    "price": "30750",
+    "onSale": "8"
+  },
+  {
+    "name": "西子铭苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "2006",
+    "price": "72928",
+    "onSale": "8"
+  },
+  {
+    "name": "领骏世界",
+    "sold": "3",
+    "rent": "11",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "2012",
+    "price": "24498",
+    "onSale": "56"
+  },
+  {
+    "name": "新华坊社区",
+    "sold": "1",
+    "rent": "24",
+    "zone": "下城",
+    "subzone": "丝绸城",
+    "builtYear": "1980",
+    "price": "41013",
+    "onSale": "35"
+  },
+  {
+    "name": "东新园望景苑",
+    "sold": "1",
+    "rent": "6",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "2004",
+    "price": "33223",
+    "onSale": "15"
+  },
+  {
+    "name": "凤起苑",
+    "sold": "2",
+    "rent": "5",
+    "zone": "下城",
+    "subzone": "潮鸣",
+    "builtYear": "1995",
+    "price": "39517",
+    "onSale": "21"
+  },
+  {
+    "name": "星都嘉苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "2004",
+    "price": "40694",
+    "onSale": "11"
+  },
+  {
+    "name": "三华园",
+    "sold": "0",
+    "rent": "7",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "1990",
+    "price": "41086",
+    "onSale": "20"
+  },
+  {
+    "name": "昆仑公馆",
+    "sold": "0",
+    "rent": "9",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "2014",
+    "price": "52504",
+    "onSale": "11"
+  },
+  {
+    "name": "九龙仓君玺",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "和平",
+    "builtYear": "2016",
+    "price": "65374",
+    "onSale": "8"
+  },
+  {
+    "name": "绿城深蓝广场",
+    "sold": "0",
+    "rent": "6",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "2002",
+    "price": "53275",
+    "onSale": "7"
+  },
+  {
+    "name": "国都公寓",
+    "sold": "0",
+    "rent": "8",
+    "zone": "下城",
+    "subzone": "众安桥",
+    "builtYear": "2000",
+    "price": "55620",
+    "onSale": "24"
+  },
+  {
+    "name": "朝晖二区",
+    "sold": "0",
+    "rent": "18",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "1984",
+    "price": "37891",
+    "onSale": "23"
+  },
+  {
+    "name": "三塘沁园",
+    "sold": "0",
+    "rent": "11",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "1998",
+    "price": "36284",
+    "onSale": "16"
+  },
+  {
+    "name": "现代雅苑",
+    "sold": "0",
+    "rent": "9",
+    "zone": "下城",
+    "subzone": "和平",
+    "builtYear": "2003",
+    "price": "44693",
+    "onSale": "21"
+  },
+  {
+    "name": "远大花园",
+    "sold": "0",
+    "rent": "8",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "1996",
+    "price": "42408",
+    "onSale": "8"
+  },
+  {
+    "name": "野风现代之窗",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "和平",
+    "builtYear": "2003",
+    "price": "33006",
+    "onSale": "10"
+  },
+  {
+    "name": "武林外滩",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "2016",
+    "price": "65627",
+    "onSale": "9"
+  },
+  {
+    "name": "杭州新天地",
+    "sold": "0",
+    "rent": "25",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "2015",
+    "price": "35277",
+    "onSale": "62"
+  },
+  {
+    "name": "紫庭花园",
+    "sold": "0",
+    "rent": "4",
+    "zone": "下城",
+    "subzone": "和平",
+    "builtYear": "2007",
+    "price": "55838",
+    "onSale": "7"
+  },
+  {
+    "name": "金都华庭",
+    "sold": "0",
+    "rent": "4",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "2002",
+    "price": "51161",
+    "onSale": "14"
+  },
+  {
+    "name": "德胜东村",
+    "sold": "0",
+    "rent": "21",
+    "zone": "下城",
+    "subzone": "德胜东",
+    "builtYear": "1990",
+    "price": "33988",
+    "onSale": "48"
+  },
+  {
+    "name": "中北西子花园",
+    "sold": "0",
+    "rent": "7",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "2000",
+    "price": "38103",
+    "onSale": "5"
+  },
+  {
+    "name": "东新园新湖苑",
+    "sold": "0",
+    "rent": "6",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "2004",
+    "price": "33246",
+    "onSale": "16"
+  },
+  {
+    "name": "欣景苑",
+    "sold": "0",
+    "rent": "9",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "2006",
+    "price": "32527",
+    "onSale": "29"
+  },
+  {
+    "name": "三里家园一区",
+    "sold": "0",
+    "rent": "9",
+    "zone": "下城",
+    "subzone": "三里亭",
+    "builtYear": "1983",
+    "price": "34688",
+    "onSale": "46"
+  },
+  {
+    "name": "中江花园",
+    "sold": "0",
+    "rent": "8",
+    "zone": "下城",
+    "subzone": "建国北路",
+    "builtYear": "2000",
+    "price": "42327",
+    "onSale": "25"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "郦城公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "迎宾苑镬子山庄迎宾苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "15514",
+    "onSale": "1"
+  },
+  {
+    "name": "三江花园(富阳)",
+    "sold": "0",
+    "rent": "1",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "清风泰安苑西区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "21469",
+    "onSale": "0"
+  },
+  {
+    "name": "阳光里",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2009",
+    "price": "23404",
+    "onSale": "3"
+  },
+  {
+    "name": "永和家苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2015",
+    "price": "17559",
+    "onSale": "1"
+  },
+  {
+    "name": "浪漫香槟东区",
+    "sold": "1",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2011",
+    "price": "19619",
+    "onSale": "0"
+  },
+  {
+    "name": "百合社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2007",
+    "price": "19869",
+    "onSale": "1"
+  }
+]

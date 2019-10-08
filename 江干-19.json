@@ -1,0 +1,82 @@
+[
+  {
+    "name": "迪凯城星国际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2017",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "华成国际发展大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "艮山西路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "华家池",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "水墩苑一区",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "秋涛北路190号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "1988",
+    "price": "36332",
+    "onSale": "0"
+  },
+  {
+    "name": "兴业商务大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1997",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "庆春东路32号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1989",
+    "price": "58612",
+    "onSale": "1"
+  },
+  {
+    "name": "新塘路292号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "1995",
+    "price": "57745",
+    "onSale": "0"
+  }
+]

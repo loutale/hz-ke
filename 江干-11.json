@@ -1,0 +1,302 @@
+[
+  {
+    "name": "世包国际中心",
+    "sold": "0",
+    "rent": "48",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2018",
+    "price": "49213",
+    "onSale": "0"
+  },
+  {
+    "name": "三里新城竹苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2002",
+    "price": "37664",
+    "onSale": "4"
+  },
+  {
+    "name": "蓝天公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "1998",
+    "price": "34292",
+    "onSale": "5"
+  },
+  {
+    "name": "世茂钱塘天誉",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "浙报宿舍",
+    "sold": "0",
+    "rent": "3",
+    "zone": "江干",
+    "subzone": "华家池",
+    "builtYear": "1995",
+    "price": "39626",
+    "onSale": "4"
+  },
+  {
+    "name": "赵家花苑",
+    "sold": "0",
+    "rent": "13",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2014",
+    "price": "26832",
+    "onSale": "0"
+  },
+  {
+    "name": "杭州来福士中心",
+    "sold": "0",
+    "rent": "14",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2016",
+    "price": "54126",
+    "onSale": "5"
+  },
+  {
+    "name": "广利佳苑",
+    "sold": "1",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2005",
+    "price": "36995",
+    "onSale": "7"
+  },
+  {
+    "name": "邮政公寓",
+    "sold": "0",
+    "rent": "3",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1993",
+    "price": "62847",
+    "onSale": "1"
+  },
+  {
+    "name": "采荷大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "2000",
+    "price": "41013",
+    "onSale": "9"
+  },
+  {
+    "name": "采荷小区金谷邨",
+    "sold": "0",
+    "rent": "3",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1985",
+    "price": "50505",
+    "onSale": "4"
+  },
+  {
+    "name": "中海钱江湾",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "东方时代中心",
+    "sold": "0",
+    "rent": "13",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2016",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "百合公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2004",
+    "price": "29903",
+    "onSale": "0"
+  },
+  {
+    "name": "采荷路33号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1990",
+    "price": "50620",
+    "onSale": "0"
+  },
+  {
+    "name": "庆春东路62号院",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1997",
+    "price": "43694",
+    "onSale": "1"
+  },
+  {
+    "name": "董家村住宅",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2000",
+    "price": "31871",
+    "onSale": "1"
+  },
+  {
+    "name": "浙商国际中心",
+    "sold": "0",
+    "rent": "10",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "2016",
+    "price": "23068",
+    "onSale": "24"
+  },
+  {
+    "name": "柏悦公馆",
+    "sold": "0",
+    "rent": "10",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2012",
+    "price": "19050",
+    "onSale": "21"
+  },
+  {
+    "name": "卓越蔚蓝领秀二期",
+    "sold": "0",
+    "rent": "5",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2017",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "思安坊",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "四季青",
+    "builtYear": "1996",
+    "price": "44848",
+    "onSale": "7"
+  },
+  {
+    "name": "采荷路17号",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1995",
+    "price": "43783",
+    "onSale": "0"
+  },
+  {
+    "name": "璞玉公馆",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "江岸邻里",
+    "sold": "0",
+    "rent": "12",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2009",
+    "price": "29845",
+    "onSale": "2"
+  },
+  {
+    "name": "凯旋路34号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "四季青",
+    "builtYear": "2000",
+    "price": "45531",
+    "onSale": "1"
+  },
+  {
+    "name": "闻皇庙社区",
+    "sold": "0",
+    "rent": "2",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "1991",
+    "price": "37775",
+    "onSale": "2"
+  },
+  {
+    "name": "草庄景墅",
+    "sold": "0",
+    "rent": "10",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "2012",
+    "price": "21871",
+    "onSale": "0"
+  },
+  {
+    "name": "钱江新城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "德信杭州之翼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "城东新城",
+    "builtYear": "2019",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "丁桥东兰轩",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2012",
+    "price": "24912",
+    "onSale": "2"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "name": "宁波大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "2010",
+    "price": "19960",
+    "onSale": "2"
+  },
+  {
+    "name": "益乐路20号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "1995",
+    "price": "42858",
+    "onSale": "2"
+  },
+  {
+    "name": "之江富城",
+    "sold": "0",
+    "rent": "13",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2006",
+    "price": "21832",
+    "onSale": "10"
+  },
+  {
+    "name": "莫干山路515号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1995",
+    "price": "56595",
+    "onSale": "6"
+  },
+  {
+    "name": "骆家庄西苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "九里松花苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西湖景区",
+    "builtYear": "2003",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "德信九溪云庄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "汇禾领府",
+    "sold": "0",
+    "rent": "15",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2000",
+    "price": "11091",
+    "onSale": "0"
+  },
+  {
+    "name": "瑞祺公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2004",
+    "price": "56252",
+    "onSale": "0"
+  },
+  {
+    "name": "曙光路123号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1986",
+    "price": "60759",
+    "onSale": "1"
+  },
+  {
+    "name": "文二路162号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1998",
+    "price": "55781",
+    "onSale": "2"
+  },
+  {
+    "name": "荷花苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1994",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "转塘家园",
+    "sold": "0",
+    "rent": "15",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "杭大路46号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1995",
+    "price": "58932",
+    "onSale": "3"
+  },
+  {
+    "name": "环城西路83号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1989",
+    "price": "52933",
+    "onSale": "3"
+  },
+  {
+    "name": "西湖高尔夫别墅",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2003",
+    "price": "64351",
+    "onSale": "2"
+  },
+  {
+    "name": "万安景月湾",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "1992",
+    "price": "53233",
+    "onSale": "1"
+  },
+  {
+    "name": "湖畔花园梦泉苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "2000",
+    "price": "51986",
+    "onSale": "2"
+  },
+  {
+    "name": "留下街13号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1989",
+    "price": "28961",
+    "onSale": "2"
+  },
+  {
+    "name": "和悦公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "2017",
+    "price": "48925",
+    "onSale": "1"
+  },
+  {
+    "name": "庆丰公寓",
+    "sold": "0",
+    "rent": "5",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "德萃公寓",
+    "sold": "0",
+    "rent": "4",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪梅园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1988",
+    "price": "31346",
+    "onSale": "4"
+  },
+  {
+    "name": "马塍路9号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1984",
+    "price": "61556",
+    "onSale": "3"
+  },
+  {
+    "name": "马塍路19号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1983",
+    "price": "75031",
+    "onSale": "1"
+  },
+  {
+    "name": "金地自在城鹭影轩",
+    "sold": "0",
+    "rent": "6",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2012",
+    "price": "40647",
+    "onSale": "30"
+  },
+  {
+    "name": "西湖公馆",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "2018",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "聚丰公寓",
+    "sold": "0",
+    "rent": "7",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

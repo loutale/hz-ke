@@ -1,0 +1,302 @@
+[
+  {
+    "name": "马塍路37号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1994",
+    "price": "88320",
+    "onSale": "2"
+  },
+  {
+    "name": "同人广场",
+    "sold": "0",
+    "rent": "10",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "2012",
+    "price": "14552",
+    "onSale": "0"
+  },
+  {
+    "name": "浙港城市公馆",
+    "sold": "0",
+    "rent": "9",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2018",
+    "price": "31992",
+    "onSale": "0"
+  },
+  {
+    "name": "枫丹白露",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "1992",
+    "price": "30229",
+    "onSale": "1"
+  },
+  {
+    "name": "西溪十九府",
+    "sold": "0",
+    "rent": "6",
+    "zone": "西湖",
+    "subzone": "小和山",
+    "builtYear": "2017",
+    "price": "25694",
+    "onSale": "5"
+  },
+  {
+    "name": "文三路103号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1984",
+    "price": "69216",
+    "onSale": "4"
+  },
+  {
+    "name": "湖畔花园夕照苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "2000",
+    "price": "44285",
+    "onSale": "2"
+  },
+  {
+    "name": "青芝坞",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1985",
+    "price": "82389",
+    "onSale": "0"
+  },
+  {
+    "name": "学院路99号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "1994",
+    "price": "34903",
+    "onSale": "1"
+  },
+  {
+    "name": "阳明谷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "2007",
+    "price": "101037",
+    "onSale": "2"
+  },
+  {
+    "name": "弥陀寺路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1979",
+    "price": "53774",
+    "onSale": "4"
+  },
+  {
+    "name": "贝利云栖中心",
+    "sold": "0",
+    "rent": "48",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2016",
+    "price": "29579",
+    "onSale": "0"
+  },
+  {
+    "name": "丹金桂花园",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1995",
+    "price": "83896",
+    "onSale": "0"
+  },
+  {
+    "name": "三立钱塘ONE",
+    "sold": "0",
+    "rent": "7",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2019",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路62号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1992",
+    "price": "56040",
+    "onSale": "2"
+  },
+  {
+    "name": "马塍路35号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1983",
+    "price": "75263",
+    "onSale": "2"
+  },
+  {
+    "name": "莫干山路633号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1995",
+    "price": "47347",
+    "onSale": "10"
+  },
+  {
+    "name": "文二路70号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1985",
+    "price": "63291",
+    "onSale": "2"
+  },
+  {
+    "name": "绿城和庐",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "九溪民航宿舍",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "1985",
+    "price": "40163",
+    "onSale": "6"
+  },
+  {
+    "name": "马塍路28号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1985",
+    "price": "84379",
+    "onSale": "4"
+  },
+  {
+    "name": "厚诚公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "1996",
+    "price": "29004",
+    "onSale": "6"
+  },
+  {
+    "name": "和润园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "2012",
+    "price": "45679",
+    "onSale": "2"
+  },
+  {
+    "name": "富丽花园(西湖)",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1997",
+    "price": "40386",
+    "onSale": "4"
+  },
+  {
+    "name": "湖畔花园吐翠苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "2000",
+    "price": "45539",
+    "onSale": "4"
+  },
+  {
+    "name": "华星路88号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "1998",
+    "price": "34963",
+    "onSale": "0"
+  },
+  {
+    "name": "河缸桥",
+    "sold": "0",
+    "rent": "4",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1988",
+    "price": "55231",
+    "onSale": "5"
+  },
+  {
+    "name": "留博楼",
+    "sold": "0",
+    "rent": "5",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "2000",
+    "price": "66186",
+    "onSale": "2"
+  },
+  {
+    "name": "湖畔花园龙珠苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "1997",
+    "price": "60042",
+    "onSale": "6"
+  },
+  {
+    "name": "莫干山路79号",
+    "sold": "0",
+    "rent": "4",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1996",
+    "price": "51187",
+    "onSale": "2"
+  }
+]

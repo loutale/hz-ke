@@ -1,0 +1,262 @@
+[
+  {
+    "name": "泊金湾",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2012",
+    "price": "20771",
+    "onSale": "1"
+  },
+  {
+    "name": "鹳山社区",
+    "sold": "0",
+    "rent": "2",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "1997",
+    "price": "19554",
+    "onSale": "5"
+  },
+  {
+    "name": "飞虹丁香花园",
+    "sold": "0",
+    "rent": "4",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2007",
+    "price": "19958",
+    "onSale": "6"
+  },
+  {
+    "name": "锦绣兰庭(富阳)",
+    "sold": "0",
+    "rent": "2",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2012",
+    "price": "23742",
+    "onSale": "1"
+  },
+  {
+    "name": "百合景苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2006",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "丰泽苑(富阳)",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2005",
+    "price": "20716",
+    "onSale": "0"
+  },
+  {
+    "name": "浪漫香槟西区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2011",
+    "price": "17172",
+    "onSale": "6"
+  },
+  {
+    "name": "大家金钰府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "富宸嘉苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "新世纪鹿山锦苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "太平桥西弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "城东社区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "峰华雅苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "哆哆广场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "新开苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "巨利新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "秋丰秋荷苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "琵琶墩",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "东吴公馆",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "彩云苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "狮子山花园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "富辰锦苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "春城大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "12498",
+    "onSale": "0"
+  },
+  {
+    "name": "花坞北路6号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "15977",
+    "onSale": "0"
+  },
+  {
+    "name": "西堤北路8号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "太平桥社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

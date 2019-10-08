@@ -1,0 +1,212 @@
+[
+  {
+    "name": "横桥沈合苑",
+    "sold": "0",
+    "rent": "7",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "水韵金沙",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "九溪新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "马塍路15号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1984",
+    "price": "42662",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路66号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1985",
+    "price": "47509",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路52-1号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1985",
+    "price": "48837",
+    "onSale": "0"
+  },
+  {
+    "name": "昌地火炬大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "1999",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "庙前街",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2000",
+    "price": "29549",
+    "onSale": "0"
+  },
+  {
+    "name": "天亿大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路52号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "2000",
+    "price": "60666",
+    "onSale": "0"
+  },
+  {
+    "name": "西港发展中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "浙商财富中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文欣商务楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2002",
+    "price": "20821",
+    "onSale": "0"
+  },
+  {
+    "name": "蓝海时代国际大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "宝石二路6号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1988",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪路521号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1990",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "万塘路26号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "1998",
+    "price": "35717",
+    "onSale": "0"
+  },
+  {
+    "name": "玉屏居",
+    "sold": "0",
+    "rent": "6",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1986",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "安乐街",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2008",
+    "price": "29819",
+    "onSale": "1"
+  },
+  {
+    "name": "天目山路20号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "未知年建成",
+    "price": "55560",
+    "onSale": "1"
+  },
+  {
+    "name": "文二路58号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1981",
+    "price": "57576",
+    "onSale": "1"
+  }
+]

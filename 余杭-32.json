@@ -1,0 +1,302 @@
+[
+  {
+    "name": "春满小筑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "未知年建成",
+    "price": "16307",
+    "onSale": "0"
+  },
+  {
+    "name": "教学路38号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "1991",
+    "price": "18234",
+    "onSale": "0"
+  },
+  {
+    "name": "里仁路1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "闲林中路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "小和山",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "东湖中路2号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "瑞达城市花苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "2001",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "庙山南村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2000",
+    "price": "19699",
+    "onSale": "0"
+  },
+  {
+    "name": "翁梅新苑一区",
+    "sold": "0",
+    "rent": "34",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "2006",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "北大街249号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2010",
+    "price": "28574",
+    "onSale": "0"
+  },
+  {
+    "name": "锦良嘉苑一区",
+    "sold": "0",
+    "rent": "55",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "樟树路253号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "未知年建成",
+    "price": "17863",
+    "onSale": "0"
+  },
+  {
+    "name": "锦良嘉苑三区",
+    "sold": "0",
+    "rent": "17",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1997",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "建行宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "小和山",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "北大街119号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "19651",
+    "onSale": "0"
+  },
+  {
+    "name": "木桥浜路232号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "20412",
+    "onSale": "0"
+  },
+  {
+    "name": "荷花别墅",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1987",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "星火南路25号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2010",
+    "price": "17905",
+    "onSale": "0"
+  },
+  {
+    "name": "区检察院宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1999",
+    "price": "17729",
+    "onSale": "1"
+  },
+  {
+    "name": "朝阳西路75号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "铁流公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "17295",
+    "onSale": "1"
+  },
+  {
+    "name": "凤溪花苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "2000",
+    "price": "15740",
+    "onSale": "1"
+  },
+  {
+    "name": "星火南路1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1989",
+    "price": "16344",
+    "onSale": "1"
+  },
+  {
+    "name": "山川公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "未知年建成",
+    "price": "21475",
+    "onSale": "3"
+  },
+  {
+    "name": "石油公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1992",
+    "price": "18695",
+    "onSale": "1"
+  },
+  {
+    "name": "禹苑公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "未知年建成",
+    "price": "21069",
+    "onSale": "1"
+  },
+  {
+    "name": "山西园路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "未知年建成",
+    "price": "22590",
+    "onSale": "1"
+  },
+  {
+    "name": "良博路54-56号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "未知年建成",
+    "price": "20456",
+    "onSale": "0"
+  },
+  {
+    "name": "绿野春天东区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "小和山",
+    "builtYear": "2009",
+    "price": "27140",
+    "onSale": "0"
+  },
+  {
+    "name": "中山花苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1990",
+    "price": "19346",
+    "onSale": "1"
+  },
+  {
+    "name": "红丰综合楼西楼",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1999",
+    "price": "16480",
+    "onSale": "1"
+  }
+]

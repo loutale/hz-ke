@@ -1,0 +1,292 @@
+[
+  {
+    "name": "华星路12号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "1998",
+    "price": "26466",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路38号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1990",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路217号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "教工路254号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "学院路233号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "万塘路28号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文一路197号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "德源大楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "古墩路1320号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文一西路240号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "1998",
+    "price": "57345",
+    "onSale": "0"
+  },
+  {
+    "name": "高新大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "厚诚路110号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "1995",
+    "price": "31865",
+    "onSale": "0"
+  },
+  {
+    "name": "丰潭路18号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "古墩路1326号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "未知年建成",
+    "price": "28671",
+    "onSale": "0"
+  },
+  {
+    "name": "文一路82号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "36770",
+    "onSale": "0"
+  },
+  {
+    "name": "曙光路23号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1990",
+    "price": "50962",
+    "onSale": "0"
+  },
+  {
+    "name": "文三西路181号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1989",
+    "price": "63586",
+    "onSale": "0"
+  },
+  {
+    "name": "华鸿大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "丰潭路29号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "学院路278号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2005",
+    "price": "41435",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路15号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪河下46号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文锦大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "2001",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西城新座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文一路70号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "学院路238号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "学院路236号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "教工路306号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "莫干山路593号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

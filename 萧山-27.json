@@ -1,0 +1,92 @@
+[
+  {
+    "name": "天域开元逸山墅",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文化路132号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1980",
+    "price": "15553",
+    "onSale": "1"
+  },
+  {
+    "name": "雷迪森财富中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2000",
+    "price": "19195",
+    "onSale": "5"
+  },
+  {
+    "name": "都市广厦",
+    "sold": "0",
+    "rent": "4",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2006",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文化路159号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "人民路91号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "峙山西苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "1997",
+    "price": "16965",
+    "onSale": "2"
+  },
+  {
+    "name": "牛头山",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "人民路138号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

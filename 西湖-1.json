@@ -1,0 +1,302 @@
+[
+  {
+    "name": "金地自在城",
+    "sold": "14",
+    "rent": "34",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2008",
+    "price": "39667",
+    "onSale": "96"
+  },
+  {
+    "name": "西溪蝶园二期",
+    "sold": "3",
+    "rent": "26",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2005",
+    "price": "50839",
+    "onSale": "59"
+  },
+  {
+    "name": "耀江文鼎苑",
+    "sold": "6",
+    "rent": "39",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "2007",
+    "price": "69792",
+    "onSale": "61"
+  },
+  {
+    "name": "万科西庐一期",
+    "sold": "4",
+    "rent": "6",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2015",
+    "price": "54206",
+    "onSale": "24"
+  },
+  {
+    "name": "融创河滨之城雨澜轩",
+    "sold": "4",
+    "rent": "27",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2015",
+    "price": "52210",
+    "onSale": "33"
+  },
+  {
+    "name": "坤和和家园",
+    "sold": "10",
+    "rent": "31",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2009",
+    "price": "44264",
+    "onSale": "120"
+  },
+  {
+    "name": "枫华府第",
+    "sold": "5",
+    "rent": "80",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "2003",
+    "price": "48516",
+    "onSale": "34"
+  },
+  {
+    "name": "中海西溪华府",
+    "sold": "4",
+    "rent": "14",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2013",
+    "price": "46826",
+    "onSale": "27"
+  },
+  {
+    "name": "人和家园",
+    "sold": "3",
+    "rent": "7",
+    "zone": "西湖",
+    "subzone": "留下",
+    "builtYear": "2005",
+    "price": "23416",
+    "onSale": "28"
+  },
+  {
+    "name": "坤和西溪里",
+    "sold": "4",
+    "rent": "21",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2002",
+    "price": "48032",
+    "onSale": "45"
+  },
+  {
+    "name": "世纪新城东区",
+    "sold": "0",
+    "rent": "22",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "1996",
+    "price": "51535",
+    "onSale": "47"
+  },
+  {
+    "name": "金色蓝庭",
+    "sold": "0",
+    "rent": "17",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "2009",
+    "price": "49807",
+    "onSale": "23"
+  },
+  {
+    "name": "桂花城",
+    "sold": "0",
+    "rent": "9",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "1996",
+    "price": "56719",
+    "onSale": "27"
+  },
+  {
+    "name": "中海紫藤苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2011",
+    "price": "35059",
+    "onSale": "37"
+  },
+  {
+    "name": "西溪诚园明礼苑",
+    "sold": "0",
+    "rent": "18",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2013",
+    "price": "42214",
+    "onSale": "28"
+  },
+  {
+    "name": "紫金庭园",
+    "sold": "0",
+    "rent": "12",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2003",
+    "price": "42200",
+    "onSale": "29"
+  },
+  {
+    "name": "绿城之江1号",
+    "sold": "0",
+    "rent": "21",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2012",
+    "price": "39816",
+    "onSale": "68"
+  },
+  {
+    "name": "都市阳光嘉苑",
+    "sold": "0",
+    "rent": "27",
+    "zone": "西湖",
+    "subzone": "良渚",
+    "builtYear": "2007",
+    "price": "27940",
+    "onSale": "41"
+  },
+  {
+    "name": "翠苑一区",
+    "sold": "0",
+    "rent": "24",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "1985",
+    "price": "43650",
+    "onSale": "63"
+  },
+  {
+    "name": "奥克斯缔逸城",
+    "sold": "0",
+    "rent": "68",
+    "zone": "西湖",
+    "subzone": "良渚",
+    "builtYear": "2012",
+    "price": "24363",
+    "onSale": "90"
+  },
+  {
+    "name": "政苑小区",
+    "sold": "0",
+    "rent": "18",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "2000",
+    "price": "45146",
+    "onSale": "19"
+  },
+  {
+    "name": "香樟公寓",
+    "sold": "0",
+    "rent": "12",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1997",
+    "price": "44028",
+    "onSale": "46"
+  },
+  {
+    "name": "天虹公寓",
+    "sold": "0",
+    "rent": "12",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "2003",
+    "price": "31753",
+    "onSale": "33"
+  },
+  {
+    "name": "雅仕苑",
+    "sold": "0",
+    "rent": "13",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "1996",
+    "price": "46766",
+    "onSale": "26"
+  },
+  {
+    "name": "嘉绿西苑",
+    "sold": "0",
+    "rent": "34",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "1998",
+    "price": "45355",
+    "onSale": "50"
+  },
+  {
+    "name": "翠苑五区",
+    "sold": "0",
+    "rent": "15",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "1995",
+    "price": "38385",
+    "onSale": "43"
+  },
+  {
+    "name": "古荡新村西区",
+    "sold": "0",
+    "rent": "50",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "1985",
+    "price": "39952",
+    "onSale": "61"
+  },
+  {
+    "name": "金成花园",
+    "sold": "0",
+    "rent": "11",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "1996",
+    "price": "47890",
+    "onSale": "44"
+  },
+  {
+    "name": "翠苑四区",
+    "sold": "0",
+    "rent": "20",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "1993",
+    "price": "40057",
+    "onSale": "62"
+  },
+  {
+    "name": "金都城市芯宇",
+    "sold": "0",
+    "rent": "78",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2010",
+    "price": "60254",
+    "onSale": "46"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "name": "丁桥商务楼",
+    "sold": "0",
+    "rent": "2",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2007",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "云河西园",
+    "sold": "0",
+    "rent": "13",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "普福家园南区",
+    "sold": "0",
+    "rent": "3",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "凤起时代大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "凤起东路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1995",
+    "price": "35313",
+    "onSale": "0"
+  },
+  {
+    "name": "采荷路68号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1990",
+    "price": "36767",
+    "onSale": "0"
+  },
+  {
+    "name": "濮家井40号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "1988",
+    "price": "34970",
+    "onSale": "0"
+  },
+  {
+    "name": "富亿NEO中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2016",
+    "price": "42876",
+    "onSale": "0"
+  },
+  {
+    "name": "丁兰商业中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "万象城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2011",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "华润大厦",
+    "sold": "0",
+    "rent": "2",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "农科院社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "1993",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "机场路24-4号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "1982",
+    "price": "33667",
+    "onSale": "0"
+  },
+  {
+    "name": "庆春东路57-113号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1997",
+    "price": "42343",
+    "onSale": "0"
+  },
+  {
+    "name": "普福公寓",
+    "sold": "0",
+    "rent": "5",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "大唐城",
+    "sold": "0",
+    "rent": "5",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "采荷路39号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1990",
+    "price": "45985",
+    "onSale": "0"
+  },
+  {
+    "name": "花园新宸府",
+    "sold": "0",
+    "rent": "37",
+    "zone": "江干",
+    "subzone": "城东新城",
+    "builtYear": "1999",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "采荷嘉业大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "凯旋路32号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "四季青",
+    "builtYear": "1996",
+    "price": "49079",
+    "onSale": "1"
+  },
+  {
+    "name": "杭州明石商业大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "2015",
+    "price": "21892",
+    "onSale": "5"
+  },
+  {
+    "name": "丁兰花苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2002",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

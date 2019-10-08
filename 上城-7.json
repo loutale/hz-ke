@@ -1,0 +1,302 @@
+[
+  {
+    "name": "永宁院",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1993",
+    "price": "40946",
+    "onSale": "7"
+  },
+  {
+    "name": "丰家兜12号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1999",
+    "price": "37498",
+    "onSale": "6"
+  },
+  {
+    "name": "景云村小区",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1994",
+    "price": "82898",
+    "onSale": "1"
+  },
+  {
+    "name": "丰家兜10号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1999",
+    "price": "40409",
+    "onSale": "2"
+  },
+  {
+    "name": "将军路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1986",
+    "price": "68774",
+    "onSale": "2"
+  },
+  {
+    "name": "三益里小区",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "1988",
+    "price": "41271",
+    "onSale": "0"
+  },
+  {
+    "name": "思鑫坊",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "2000",
+    "price": "108599",
+    "onSale": "0"
+  },
+  {
+    "name": "长庆里",
+    "sold": "1",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "1990",
+    "price": "40220",
+    "onSale": "8"
+  },
+  {
+    "name": "荷花池头",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1994",
+    "price": "53330",
+    "onSale": "1"
+  },
+  {
+    "name": "直箭道巷",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1990",
+    "price": "38824",
+    "onSale": "13"
+  },
+  {
+    "name": "定安路44号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1983",
+    "price": "57027",
+    "onSale": "1"
+  },
+  {
+    "name": "十三湾巷",
+    "sold": "0",
+    "rent": "4",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1989",
+    "price": "53292",
+    "onSale": "7"
+  },
+  {
+    "name": "东羊血弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1985",
+    "price": "43328",
+    "onSale": "3"
+  },
+  {
+    "name": "水亭址22号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "2000",
+    "price": "33570",
+    "onSale": "0"
+  },
+  {
+    "name": "四条巷",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1996",
+    "price": "64903",
+    "onSale": "1"
+  },
+  {
+    "name": "下华光巷70号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1989",
+    "price": "37210",
+    "onSale": "3"
+  },
+  {
+    "name": "光复路146-186号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1977",
+    "price": "65991",
+    "onSale": "11"
+  },
+  {
+    "name": "老浙大横路一弄",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "1992",
+    "price": "40055",
+    "onSale": "0"
+  },
+  {
+    "name": "平海路小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1989",
+    "price": "67098",
+    "onSale": "1"
+  },
+  {
+    "name": "银枪新村",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1983",
+    "price": "46558",
+    "onSale": "5"
+  },
+  {
+    "name": "南瓦坊",
+    "sold": "0",
+    "rent": "4",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "2000",
+    "price": "47443",
+    "onSale": "11"
+  },
+  {
+    "name": "小米巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "1989",
+    "price": "39675",
+    "onSale": "6"
+  },
+  {
+    "name": "通江桥高层小区",
+    "sold": "0",
+    "rent": "5",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1998",
+    "price": "39672",
+    "onSale": "4"
+  },
+  {
+    "name": "民生路",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1985",
+    "price": "44284",
+    "onSale": "3"
+  },
+  {
+    "name": "惠民路",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1985",
+    "price": "47025",
+    "onSale": "6"
+  },
+  {
+    "name": "海运国际大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "2010",
+    "price": "31025",
+    "onSale": "9"
+  },
+  {
+    "name": "西湖大道261、263、265号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1990",
+    "price": "51431",
+    "onSale": "5"
+  },
+  {
+    "name": "十五奎巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1987",
+    "price": "38192",
+    "onSale": "4"
+  },
+  {
+    "name": "清吟街89-119号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1987",
+    "price": "43502",
+    "onSale": "1"
+  },
+  {
+    "name": "黄醋园",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1999",
+    "price": "41291",
+    "onSale": "3"
+  }
+]

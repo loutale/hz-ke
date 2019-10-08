@@ -1,0 +1,302 @@
+[
+  {
+    "name": "佳兆业西溪璞园",
+    "sold": "4",
+    "rent": "49",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2016",
+    "price": "29184",
+    "onSale": "46"
+  },
+  {
+    "name": "铭雅苑东区",
+    "sold": "9",
+    "rent": "40",
+    "zone": "余杭",
+    "subzone": "三墩",
+    "builtYear": "2000",
+    "price": "29051",
+    "onSale": "65"
+  },
+  {
+    "name": "西溪八方城",
+    "sold": "6",
+    "rent": "91",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2013",
+    "price": "29192",
+    "onSale": "117"
+  },
+  {
+    "name": "西溪蓝海",
+    "sold": "4",
+    "rent": "105",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2017",
+    "price": "27408",
+    "onSale": "112"
+  },
+  {
+    "name": "新明半岛",
+    "sold": "8",
+    "rent": "51",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2006",
+    "price": "23614",
+    "onSale": "135"
+  },
+  {
+    "name": "众安理想湾",
+    "sold": "26",
+    "rent": "123",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2013",
+    "price": "19900",
+    "onSale": "109"
+  },
+  {
+    "name": "爱丁郡",
+    "sold": "3",
+    "rent": "35",
+    "zone": "余杭",
+    "subzone": "翡翠城",
+    "builtYear": "2011",
+    "price": "30927",
+    "onSale": "47"
+  },
+  {
+    "name": "西溪华东园",
+    "sold": "10",
+    "rent": "17",
+    "zone": "余杭",
+    "subzone": "翡翠城",
+    "builtYear": "2013",
+    "price": "31950",
+    "onSale": "27"
+  },
+  {
+    "name": "亲亲家园二期",
+    "sold": "5",
+    "rent": "24",
+    "zone": "余杭",
+    "subzone": "三墩",
+    "builtYear": "2005",
+    "price": "28260",
+    "onSale": "70"
+  },
+  {
+    "name": "雅居乐国际花园",
+    "sold": "2",
+    "rent": "142",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2016",
+    "price": "22584",
+    "onSale": "80"
+  },
+  {
+    "name": "滨江西溪之星",
+    "sold": "0",
+    "rent": "17",
+    "zone": "余杭",
+    "subzone": "西溪",
+    "builtYear": "2015",
+    "price": "46385",
+    "onSale": "31"
+  },
+  {
+    "name": "龙湖香醍溪岸",
+    "sold": "0",
+    "rent": "28",
+    "zone": "余杭",
+    "subzone": "崇贤",
+    "builtYear": "2011",
+    "price": "18488",
+    "onSale": "101"
+  },
+  {
+    "name": "北大资源未名府",
+    "sold": "0",
+    "rent": "70",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2013",
+    "price": "36770",
+    "onSale": "40"
+  },
+  {
+    "name": "万科未来城二期",
+    "sold": "0",
+    "rent": "21",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2006",
+    "price": "31776",
+    "onSale": "34"
+  },
+  {
+    "name": "东冠逸景花苑",
+    "sold": "0",
+    "rent": "24",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "2012",
+    "price": "24064",
+    "onSale": "27"
+  },
+  {
+    "name": "合景天峻",
+    "sold": "0",
+    "rent": "13",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2014",
+    "price": "35614",
+    "onSale": "26"
+  },
+  {
+    "name": "朗诗未来街区",
+    "sold": "0",
+    "rent": "25",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "2014",
+    "price": "26854",
+    "onSale": "34"
+  },
+  {
+    "name": "金地艺境",
+    "sold": "0",
+    "rent": "25",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "2015",
+    "price": "26536",
+    "onSale": "33"
+  },
+  {
+    "name": "华元美林公馆",
+    "sold": "0",
+    "rent": "10",
+    "zone": "余杭",
+    "subzone": "西溪",
+    "builtYear": "2013",
+    "price": "32982",
+    "onSale": "37"
+  },
+  {
+    "name": "合景叠彩园",
+    "sold": "0",
+    "rent": "8",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2015",
+    "price": "44410",
+    "onSale": "15"
+  },
+  {
+    "name": "新西湖小镇",
+    "sold": "0",
+    "rent": "159",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2009",
+    "price": "21088",
+    "onSale": "116"
+  },
+  {
+    "name": "新湖果岭",
+    "sold": "0",
+    "rent": "33",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2014",
+    "price": "29970",
+    "onSale": "45"
+  },
+  {
+    "name": "大华海派风景",
+    "sold": "0",
+    "rent": "35",
+    "zone": "余杭",
+    "subzone": "万达广场",
+    "builtYear": "2010",
+    "price": "32911",
+    "onSale": "47"
+  },
+  {
+    "name": "绿城翡翠湾",
+    "sold": "0",
+    "rent": "8",
+    "zone": "余杭",
+    "subzone": "翡翠城",
+    "builtYear": "2014",
+    "price": "34431",
+    "onSale": "14"
+  },
+  {
+    "name": "良渚文化村探梅里B",
+    "sold": "0",
+    "rent": "12",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2013",
+    "price": "29047",
+    "onSale": "65"
+  },
+  {
+    "name": "绿城蓝庭东区",
+    "sold": "0",
+    "rent": "37",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2008",
+    "price": "22395",
+    "onSale": "76"
+  },
+  {
+    "name": "东厦东港花苑",
+    "sold": "0",
+    "rent": "71",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2011",
+    "price": "19816",
+    "onSale": "91"
+  },
+  {
+    "name": "赞成美树",
+    "sold": "0",
+    "rent": "16",
+    "zone": "余杭",
+    "subzone": "勾庄",
+    "builtYear": "2009",
+    "price": "26772",
+    "onSale": "49"
+  },
+  {
+    "name": "闲林山水丹枫苑",
+    "sold": "0",
+    "rent": "25",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2000",
+    "price": "25505",
+    "onSale": "49"
+  },
+  {
+    "name": "上实海上海",
+    "sold": "0",
+    "rent": "77",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2014",
+    "price": "30636",
+    "onSale": "42"
+  }
+]

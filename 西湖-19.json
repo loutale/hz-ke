@@ -1,0 +1,292 @@
+[
+  {
+    "name": "保俶北路45号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2000",
+    "price": "47311",
+    "onSale": "0"
+  },
+  {
+    "name": "古荡湾南苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "2005",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "裕华大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2000",
+    "price": "12418",
+    "onSale": "0"
+  },
+  {
+    "name": "三墩街100号小区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2017",
+    "price": "31358",
+    "onSale": "0"
+  },
+  {
+    "name": "中节能西溪首座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2016",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "马塍路30号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1983",
+    "price": "73738",
+    "onSale": "1"
+  },
+  {
+    "name": "曙光路1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1991",
+    "price": "58851",
+    "onSale": "1"
+  },
+  {
+    "name": "武林巷36号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1986",
+    "price": "65819",
+    "onSale": "1"
+  },
+  {
+    "name": "德泽家园",
+    "sold": "0",
+    "rent": "13",
+    "zone": "西湖",
+    "subzone": "良渚",
+    "builtYear": "2000",
+    "price": "27295",
+    "onSale": "0"
+  },
+  {
+    "name": "曙光路121号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1979",
+    "price": "60131",
+    "onSale": "2"
+  },
+  {
+    "name": "文二路25号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1980",
+    "price": "81933",
+    "onSale": "4"
+  },
+  {
+    "name": "文三路55号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1988",
+    "price": "54081",
+    "onSale": "1"
+  },
+  {
+    "name": "跑马场巷",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1989",
+    "price": "53420",
+    "onSale": "2"
+  },
+  {
+    "name": "莫干山路347号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1996",
+    "price": "53391",
+    "onSale": "3"
+  },
+  {
+    "name": "保俶北路91号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1988",
+    "price": "57966",
+    "onSale": "1"
+  },
+  {
+    "name": "西溪花园流芳苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2000",
+    "price": "29895",
+    "onSale": "1"
+  },
+  {
+    "name": "珊瑚沙家园",
+    "sold": "0",
+    "rent": "4",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "秀月家园北区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "2006",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "You盘时代",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "2012",
+    "price": "27792",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路48号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1983",
+    "price": "55082",
+    "onSale": "0"
+  },
+  {
+    "name": "马塍路20号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1986",
+    "price": "54848",
+    "onSale": "0"
+  },
+  {
+    "name": "省级机关宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1985",
+    "price": "65894",
+    "onSale": "0"
+  },
+  {
+    "name": "曙光路139号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1985",
+    "price": "60122",
+    "onSale": "0"
+  },
+  {
+    "name": "古墩路7-1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2000",
+    "price": "38013",
+    "onSale": "1"
+  },
+  {
+    "name": "药物所宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1993",
+    "price": "27678",
+    "onSale": "1"
+  },
+  {
+    "name": "联强大厦",
+    "sold": "0",
+    "rent": "4",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "1999",
+    "price": "29616",
+    "onSale": "1"
+  },
+  {
+    "name": "金穗公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "1994",
+    "price": "28174",
+    "onSale": "2"
+  },
+  {
+    "name": "同仁家园金涛港",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2006",
+    "price": "29942",
+    "onSale": "2"
+  },
+  {
+    "name": "混堂巷13号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1981",
+    "price": "55936",
+    "onSale": "1"
+  }
+]

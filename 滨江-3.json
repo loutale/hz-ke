@@ -1,0 +1,302 @@
+[
+  {
+    "name": "新州花苑",
+    "sold": "0",
+    "rent": "30",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2004",
+    "price": "43136",
+    "onSale": "13"
+  },
+  {
+    "name": "现代印象广场",
+    "sold": "0",
+    "rent": "15",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2003",
+    "price": "18357",
+    "onSale": "17"
+  },
+  {
+    "name": "星汇荣邸",
+    "sold": "0",
+    "rent": "6",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2011",
+    "price": "37191",
+    "onSale": "13"
+  },
+  {
+    "name": "碧水豪园",
+    "sold": "1",
+    "rent": "6",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2005",
+    "price": "37524",
+    "onSale": "25"
+  },
+  {
+    "name": "仁苑",
+    "sold": "1",
+    "rent": "10",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "2009",
+    "price": "39924",
+    "onSale": "12"
+  },
+  {
+    "name": "银爵世纪公寓",
+    "sold": "2",
+    "rent": "17",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2008",
+    "price": "35307",
+    "onSale": "25"
+  },
+  {
+    "name": "绿城九龙仓柳岸晓风",
+    "sold": "0",
+    "rent": "3",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "2019",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "银杏汇",
+    "sold": "0",
+    "rent": "4",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2016",
+    "price": "57755",
+    "onSale": "3"
+  },
+  {
+    "name": "时代长岛之春",
+    "sold": "0",
+    "rent": "2",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2005",
+    "price": "31339",
+    "onSale": "28"
+  },
+  {
+    "name": "星耀城",
+    "sold": "0",
+    "rent": "22",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2011",
+    "price": "39197",
+    "onSale": "21"
+  },
+  {
+    "name": "迎春小区",
+    "sold": "0",
+    "rent": "30",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2005",
+    "price": "36195",
+    "onSale": "2"
+  },
+  {
+    "name": "江南星座",
+    "sold": "0",
+    "rent": "8",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2009",
+    "price": "18825",
+    "onSale": "9"
+  },
+  {
+    "name": "银色港湾公寓",
+    "sold": "0",
+    "rent": "8",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2004",
+    "price": "41042",
+    "onSale": "25"
+  },
+  {
+    "name": "观邸国际",
+    "sold": "0",
+    "rent": "10",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2008",
+    "price": "37199",
+    "onSale": "26"
+  },
+  {
+    "name": "东和云第",
+    "sold": "0",
+    "rent": "8",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2014",
+    "price": "38350",
+    "onSale": "15"
+  },
+  {
+    "name": "缤纷北苑",
+    "sold": "0",
+    "rent": "29",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2004",
+    "price": "32695",
+    "onSale": "3"
+  },
+  {
+    "name": "春波南苑",
+    "sold": "0",
+    "rent": "34",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "2001",
+    "price": "33866",
+    "onSale": "5"
+  },
+  {
+    "name": "水晶湾城市雅苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "2010",
+    "price": "36189",
+    "onSale": "6"
+  },
+  {
+    "name": "中兴花园百合苑",
+    "sold": "0",
+    "rent": "31",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2002",
+    "price": "42630",
+    "onSale": "18"
+  },
+  {
+    "name": "中赢康康谷",
+    "sold": "0",
+    "rent": "28",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2016",
+    "price": "40249",
+    "onSale": "55"
+  },
+  {
+    "name": "高润云杉郡",
+    "sold": "0",
+    "rent": "13",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2016",
+    "price": "30654",
+    "onSale": "48"
+  },
+  {
+    "name": "银泰海威国际",
+    "sold": "0",
+    "rent": "14",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "2009",
+    "price": "44415",
+    "onSale": "25"
+  },
+  {
+    "name": "绿城巧园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2010",
+    "price": "41981",
+    "onSale": "5"
+  },
+  {
+    "name": "彩虹豪庭",
+    "sold": "0",
+    "rent": "7",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2011",
+    "price": "62284",
+    "onSale": "10"
+  },
+  {
+    "name": "钱塘滨和花园",
+    "sold": "0",
+    "rent": "8",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2008",
+    "price": "47988",
+    "onSale": "3"
+  },
+  {
+    "name": "滨文苑",
+    "sold": "0",
+    "rent": "18",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2006",
+    "price": "27819",
+    "onSale": "14"
+  },
+  {
+    "name": "万科城市之光",
+    "sold": "0",
+    "rent": "2",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2017",
+    "price": "38270",
+    "onSale": "8"
+  },
+  {
+    "name": "恒鼎博邑郡",
+    "sold": "0",
+    "rent": "12",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "2015",
+    "price": "32673",
+    "onSale": "53"
+  },
+  {
+    "name": "风尚蓝湾",
+    "sold": "0",
+    "rent": "25",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2010",
+    "price": "20489",
+    "onSale": "29"
+  },
+  {
+    "name": "江涛阁",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2004",
+    "price": "36329",
+    "onSale": "9"
+  }
+]

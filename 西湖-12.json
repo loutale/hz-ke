@@ -1,0 +1,302 @@
+[
+  {
+    "name": "翠锦苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "2008",
+    "price": "40180",
+    "onSale": "3"
+  },
+  {
+    "name": "金街美地",
+    "sold": "0",
+    "rent": "11",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2015",
+    "price": "26171",
+    "onSale": "13"
+  },
+  {
+    "name": "国际花园",
+    "sold": "0",
+    "rent": "28",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "1999",
+    "price": "33437",
+    "onSale": "7"
+  },
+  {
+    "name": "九树公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "2006",
+    "price": "53741",
+    "onSale": "0"
+  },
+  {
+    "name": "锦绣文苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "2003",
+    "price": "59164",
+    "onSale": "2"
+  },
+  {
+    "name": "茶市新村",
+    "sold": "0",
+    "rent": "5",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1988",
+    "price": "34193",
+    "onSale": "7"
+  },
+  {
+    "name": "教工路52号",
+    "sold": "1",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "1999",
+    "price": "40204",
+    "onSale": "4"
+  },
+  {
+    "name": "文天公寓",
+    "sold": "1",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "2000",
+    "price": "53074",
+    "onSale": "1"
+  },
+  {
+    "name": "金地自在城林溪里",
+    "sold": "4",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2012",
+    "price": "39848",
+    "onSale": "20"
+  },
+  {
+    "name": "学院路176-178号大院",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1996",
+    "price": "61502",
+    "onSale": "4"
+  },
+  {
+    "name": "保俶北路82号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1988",
+    "price": "57637",
+    "onSale": "6"
+  },
+  {
+    "name": "世纪西溪",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1999",
+    "price": "73857",
+    "onSale": "6"
+  },
+  {
+    "name": "府新花园西区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1999",
+    "price": "50823",
+    "onSale": "6"
+  },
+  {
+    "name": "马塍路33号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1983",
+    "price": "72506",
+    "onSale": "5"
+  },
+  {
+    "name": "金源公寓(西湖)",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "1996",
+    "price": "28104",
+    "onSale": "15"
+  },
+  {
+    "name": "仁寿山",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "2000",
+    "price": "71868",
+    "onSale": "4"
+  },
+  {
+    "name": "花坞新村",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1989",
+    "price": "34629",
+    "onSale": "1"
+  },
+  {
+    "name": "金欣公寓",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1998",
+    "price": "45212",
+    "onSale": "8"
+  },
+  {
+    "name": "嘉华公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2000",
+    "price": "29311",
+    "onSale": "3"
+  },
+  {
+    "name": "金桂大厦",
+    "sold": "0",
+    "rent": "14",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "2004",
+    "price": "22712",
+    "onSale": "16"
+  },
+  {
+    "name": "海陆UN公社",
+    "sold": "0",
+    "rent": "4",
+    "zone": "西湖",
+    "subzone": "留下",
+    "builtYear": "2012",
+    "price": "20238",
+    "onSale": "0"
+  },
+  {
+    "name": "保俶小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "2000",
+    "price": "64805",
+    "onSale": "2"
+  },
+  {
+    "name": "欣园居",
+    "sold": "0",
+    "rent": "7",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "1997",
+    "price": "38454",
+    "onSale": "6"
+  },
+  {
+    "name": "小和山林野山居",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "小和山",
+    "builtYear": "1996",
+    "price": "29060",
+    "onSale": "4"
+  },
+  {
+    "name": "万塘路300号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "1998",
+    "price": "40437",
+    "onSale": "5"
+  },
+  {
+    "name": "登新公寓",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "龙申剑桥公社",
+    "sold": "0",
+    "rent": "8",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "1990",
+    "price": "16077",
+    "onSale": "0"
+  },
+  {
+    "name": "玉古路167.171号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1995",
+    "price": "62302",
+    "onSale": "5"
+  },
+  {
+    "name": "文二路68号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1986",
+    "price": "54926",
+    "onSale": "4"
+  },
+  {
+    "name": "学院路59号",
+    "sold": "0",
+    "rent": "4",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "1987",
+    "price": "38725",
+    "onSale": "6"
+  }
+]

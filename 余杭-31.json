@@ -1,0 +1,272 @@
+[
+  {
+    "name": "恒生科技园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2005",
+    "price": "19195",
+    "onSale": "0"
+  },
+  {
+    "name": "九洲大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "江南家居装饰区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "邱山公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1998",
+    "price": "17123",
+    "onSale": "0"
+  },
+  {
+    "name": "杭海路1699号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "朝阳西路79号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "沿山路201号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "鼎盛大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "朝阳西路97号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2001",
+    "price": "8109",
+    "onSale": "0"
+  },
+  {
+    "name": "保健路63号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "迎宾路209-4号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1997",
+    "price": "15165",
+    "onSale": "0"
+  },
+  {
+    "name": "农机总站宿舍",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1994",
+    "price": "15277",
+    "onSale": "0"
+  },
+  {
+    "name": "龙王塘路59号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1996",
+    "price": "20767",
+    "onSale": "0"
+  },
+  {
+    "name": "八方杰座大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "河南埭路4-1",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1999",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "江南五金装饰广场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "南苑·发展大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2010",
+    "price": "13537",
+    "onSale": "0"
+  },
+  {
+    "name": "桥南物资供应站宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "仓桥路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "2002",
+    "price": "14788",
+    "onSale": "0"
+  },
+  {
+    "name": "麦道大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "啤酒城宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "15646",
+    "onSale": "0"
+  },
+  {
+    "name": "太炎路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "临平西子国际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2016",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "碧荷街56号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "临云山庄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "24019",
+    "onSale": "0"
+  },
+  {
+    "name": "中博大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "城西路59号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "1986",
+    "price": "17215",
+    "onSale": "0"
+  }
+]

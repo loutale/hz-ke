@@ -1,0 +1,292 @@
+[
+  {
+    "name": "湖墅北路101号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1985",
+    "price": "30083",
+    "onSale": "0"
+  },
+  {
+    "name": "大关南二苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1994",
+    "price": "25191",
+    "onSale": "0"
+  },
+  {
+    "name": "杨家门小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "2000",
+    "price": "28746",
+    "onSale": "0"
+  },
+  {
+    "name": "建华新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "敬胜里",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "未知年建成",
+    "price": "46300",
+    "onSale": "0"
+  },
+  {
+    "name": "复地北城中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "小河东河下69号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2010",
+    "price": "78873",
+    "onSale": "1"
+  },
+  {
+    "name": "文一路21号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1969",
+    "price": "39802",
+    "onSale": "1"
+  },
+  {
+    "name": "和睦路143号",
+    "sold": "1",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1990",
+    "price": "25147",
+    "onSale": "0"
+  },
+  {
+    "name": "戴陈弄23号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1990",
+    "price": "36541",
+    "onSale": "1"
+  },
+  {
+    "name": "和睦路121号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1988",
+    "price": "34631",
+    "onSale": "1"
+  },
+  {
+    "name": "打铁弄15号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1990",
+    "price": "36304",
+    "onSale": "1"
+  },
+  {
+    "name": "如意里",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2011",
+    "price": "97734",
+    "onSale": "0"
+  },
+  {
+    "name": "化纤公寓",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "新华苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "1999",
+    "price": "33718",
+    "onSale": "2"
+  },
+  {
+    "name": "华龙商务大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1997",
+    "price": "21663",
+    "onSale": "1"
+  },
+  {
+    "name": "杭州万达广场",
+    "sold": "0",
+    "rent": "16",
+    "zone": "拱墅",
+    "subzone": "万达广场",
+    "builtYear": "2009",
+    "price": "21422",
+    "onSale": "7"
+  },
+  {
+    "name": "塘河科技公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "2001",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "桃源新区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "登云路198号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "星桥锦绣嘉苑",
+    "sold": "0",
+    "rent": "9",
+    "zone": "拱墅",
+    "subzone": "万达广场",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "创道国际",
+    "sold": "C",
+    "rent": "PARK",
+    "zone": "90天成交0套",
+    "subzone": "拱墅",
+    "builtYear": "/",
+    "price": "未知年建成",
+    "onSale": "二手房参考均价"
+  },
+  {
+    "name": "九龙仓天玺",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "和睦路75号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1990",
+    "price": "27204",
+    "onSale": "0"
+  },
+  {
+    "name": "德胜巷108号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "德胜",
+    "builtYear": "1986",
+    "price": "39297",
+    "onSale": "0"
+  },
+  {
+    "name": "长乐路20弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1993",
+    "price": "35637",
+    "onSale": "0"
+  },
+  {
+    "name": "红石中央大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "建工路1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "1990",
+    "price": "25674",
+    "onSale": "0"
+  },
+  {
+    "name": "莱茵矩阵国际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

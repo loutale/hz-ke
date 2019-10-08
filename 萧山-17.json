@@ -1,0 +1,282 @@
+[
+  {
+    "name": "太平弄社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1987",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "天香华庭",
+    "sold": "0",
+    "rent": "10",
+    "zone": "萧山",
+    "subzone": "南部卧城",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "龙山化工总厂厂区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "闻堰",
+    "builtYear": "1990",
+    "price": "22288",
+    "onSale": "0"
+  },
+  {
+    "name": "天苑商业中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "10348",
+    "onSale": "0"
+  },
+  {
+    "name": "人民路19号（萧山区）",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "未知年建成",
+    "price": "21092",
+    "onSale": "0"
+  },
+  {
+    "name": "东方家苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2005",
+    "price": "12584",
+    "onSale": "0"
+  },
+  {
+    "name": "永久公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1996",
+    "price": "26841",
+    "onSale": "1"
+  },
+  {
+    "name": "万都晶座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "南部卧城",
+    "builtYear": "2018",
+    "price": "17732",
+    "onSale": "0"
+  },
+  {
+    "name": "金茂大厦",
+    "sold": "0",
+    "rent": "2",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1995",
+    "price": "19515",
+    "onSale": "3"
+  },
+  {
+    "name": "汇锦名店广场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2003",
+    "price": "10007",
+    "onSale": "2"
+  },
+  {
+    "name": "靖江镇黎明苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "大江东",
+    "builtYear": "2004",
+    "price": "13218",
+    "onSale": "0"
+  },
+  {
+    "name": "育才路459号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1995",
+    "price": "18513",
+    "onSale": "0"
+  },
+  {
+    "name": "水曲弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1983",
+    "price": "27565",
+    "onSale": "1"
+  },
+  {
+    "name": "新义郡",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2014",
+    "price": "20947",
+    "onSale": "1"
+  },
+  {
+    "name": "东方世贸城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2012",
+    "price": "23174",
+    "onSale": "1"
+  },
+  {
+    "name": "临浦景泰公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "2000",
+    "price": "15777",
+    "onSale": "2"
+  },
+  {
+    "name": "新誉公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "1999",
+    "price": "15909",
+    "onSale": "3"
+  },
+  {
+    "name": "外姚家潭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "未知年建成",
+    "price": "24419",
+    "onSale": "1"
+  },
+  {
+    "name": "药店弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1985",
+    "price": "25317",
+    "onSale": "1"
+  },
+  {
+    "name": "浴美苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "2007",
+    "price": "13880",
+    "onSale": "1"
+  },
+  {
+    "name": "金家桥路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "2000",
+    "price": "22756",
+    "onSale": "0"
+  },
+  {
+    "name": "天乐云都",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2009",
+    "price": "30113",
+    "onSale": "5"
+  },
+  {
+    "name": "南秀苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "1999",
+    "price": "14260",
+    "onSale": "5"
+  },
+  {
+    "name": "清和园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "2005",
+    "price": "17837",
+    "onSale": "5"
+  },
+  {
+    "name": "时代湘湖",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "闻堰",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "荣星东苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "樾珑台",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "闻堰",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "云福嘉苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2016",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "name": "柳翠桥弄2-3号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1985",
+    "price": "43296",
+    "onSale": "1"
+  },
+  {
+    "name": "近江新村",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "1994",
+    "price": "47908",
+    "onSale": "1"
+  },
+  {
+    "name": "富春大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "2005",
+    "price": "44056",
+    "onSale": "1"
+  },
+  {
+    "name": "赞成中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "2009",
+    "price": "54705",
+    "onSale": "1"
+  },
+  {
+    "name": "河坊街137号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1988",
+    "price": "75109",
+    "onSale": "1"
+  },
+  {
+    "name": "四季星座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "2006",
+    "price": "28927",
+    "onSale": "1"
+  },
+  {
+    "name": "清江路82-4号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "1997",
+    "price": "47344",
+    "onSale": "1"
+  },
+  {
+    "name": "万松岭路84号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1995",
+    "price": "54707",
+    "onSale": "1"
+  },
+  {
+    "name": "环城东路16号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "1990",
+    "price": "37099",
+    "onSale": "3"
+  },
+  {
+    "name": "清波街",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1988",
+    "price": "58561",
+    "onSale": "2"
+  },
+  {
+    "name": "丁衙巷",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1989",
+    "price": "42963",
+    "onSale": "3"
+  },
+  {
+    "name": "宣徐弄8.11号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1995",
+    "price": "39790",
+    "onSale": "2"
+  },
+  {
+    "name": "彩霞新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1989",
+    "price": "33791",
+    "onSale": "1"
+  },
+  {
+    "name": "小营巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "梵天寺路64号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "西湖景区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "比胜庙巷13号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1990",
+    "price": "43259",
+    "onSale": "0"
+  },
+  {
+    "name": "大东山弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1981",
+    "price": "40309",
+    "onSale": "0"
+  },
+  {
+    "name": "比胜庙巷23号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1995",
+    "price": "45149",
+    "onSale": "0"
+  },
+  {
+    "name": "上八界巷2-6号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1989",
+    "price": "38495",
+    "onSale": "0"
+  },
+  {
+    "name": "甘王路5号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "1994",
+    "price": "36830",
+    "onSale": "0"
+  },
+  {
+    "name": "太平巷33-34号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "2000",
+    "price": "45479",
+    "onSale": "0"
+  },
+  {
+    "name": "始板桥东村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "1986",
+    "price": "44801",
+    "onSale": "0"
+  },
+  {
+    "name": "始板桥新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "1984",
+    "price": "37177",
+    "onSale": "0"
+  },
+  {
+    "name": "延安路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1991",
+    "price": "52059",
+    "onSale": "0"
+  },
+  {
+    "name": "金鸡岭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "未知年建成",
+    "price": "22017",
+    "onSale": "0"
+  },
+  {
+    "name": "中山中路321号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1998",
+    "price": "38523",
+    "onSale": "0"
+  },
+  {
+    "name": "金峰大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1999",
+    "price": "14038",
+    "onSale": "0"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "name": "美好国际大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "2011",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "登云路213号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "建华文创园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "2011",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "德胜巷58号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "德胜",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "唐尚433创业产业园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "教工路590-1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "吴家墩新人公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅南路352号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "瓜山北苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "丰元国际大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "小河直街53号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "田园夏意苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "浙租大楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "小河直街8号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "立新大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅南路288号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "杭三中宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1990",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "小河直街9-1",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅北路91号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "银润星座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "大兜路96-5号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1988",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "田園春晓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "泰禾野风大城小院",
+    "sold": "0",
+    "rent": "1",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2016",
+    "price": "18191",
+    "onSale": "2"
+  },
+  {
+    "name": "华庭云顶",
+    "sold": "1",
+    "rent": "5",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2004",
+    "price": "17604",
+    "onSale": "25"
+  },
+  {
+    "name": "融创微风之城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "九龙仓雍景山",
+    "sold": "0",
+    "rent": "7",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2012",
+    "price": "21512",
+    "onSale": "11"
+  },
+  {
+    "name": "野风春晓",
+    "sold": "2",
+    "rent": "16",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2010",
+    "price": "20549",
+    "onSale": "14"
+  },
+  {
+    "name": "逸城",
+    "sold": "0",
+    "rent": "7",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2007",
+    "price": "16174",
+    "onSale": "14"
+  },
+  {
+    "name": "天鸿美和院",
+    "sold": "0",
+    "rent": "21",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2005",
+    "price": "15779",
+    "onSale": "24"
+  },
+  {
+    "name": "鸣翠蓝湾",
+    "sold": "0",
+    "rent": "4",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2005",
+    "price": "19733",
+    "onSale": "14"
+  },
+  {
+    "name": "紫云山庄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "1998",
+    "price": "22406",
+    "onSale": "8"
+  },
+  {
+    "name": "铭鹤花园",
+    "sold": "0",
+    "rent": "11",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2010",
+    "price": "21362",
+    "onSale": "8"
+  },
+  {
+    "name": "富春玫瑰园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2018",
+    "price": "36768",
+    "onSale": "9"
+  },
+  {
+    "name": "野风秋雅",
+    "sold": "0",
+    "rent": "30",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2013",
+    "price": "19122",
+    "onSale": "5"
+  },
+  {
+    "name": "九龙山庄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2005",
+    "price": "24665",
+    "onSale": "6"
+  },
+  {
+    "name": "和昌云栖玖著",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "富春山居",
+    "sold": "0",
+    "rent": "1",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2003",
+    "price": "42764",
+    "onSale": "1"
+  },
+  {
+    "name": "万科公望",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2010",
+    "price": "28908",
+    "onSale": "2"
+  },
+  {
+    "name": "七里香溪",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2003",
+    "price": "41122",
+    "onSale": "5"
+  },
+  {
+    "name": "颐景山庄",
+    "sold": "0",
+    "rent": "6",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2005",
+    "price": "20381",
+    "onSale": "11"
+  },
+  {
+    "name": "富春水岸",
+    "sold": "0",
+    "rent": "2",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2012",
+    "price": "13732",
+    "onSale": "12"
+  },
+  {
+    "name": "阳光城上林湖",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2006",
+    "price": "24608",
+    "onSale": "14"
+  },
+  {
+    "name": "云水山居",
+    "sold": "0",
+    "rent": "1",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2016",
+    "price": "16313",
+    "onSale": "8"
+  },
+  {
+    "name": "上林湖",
+    "sold": "0",
+    "rent": "1",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2009",
+    "price": "25079",
+    "onSale": "2"
+  },
+  {
+    "name": "大有清竹蓝庭",
+    "sold": "0",
+    "rent": "1",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2005",
+    "price": "16208",
+    "onSale": "1"
+  },
+  {
+    "name": "万科君望",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2017",
+    "price": "37099",
+    "onSale": "2"
+  },
+  {
+    "name": "阳光城翡丽海岸",
+    "sold": "0",
+    "rent": "1",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2012",
+    "price": "20273",
+    "onSale": "0"
+  },
+  {
+    "name": "麓园",
+    "sold": "0",
+    "rent": "2",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2015",
+    "price": "25621",
+    "onSale": "10"
+  },
+  {
+    "name": "绿城云栖桃花源",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "九龍一號",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2007",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "金宇彩虹嘉都",
+    "sold": "0",
+    "rent": "1",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "2006",
+    "price": "16518",
+    "onSale": "5"
+  },
+  {
+    "name": "万科玖望",
+    "sold": "0",
+    "rent": "0",
+    "zone": "富阳",
+    "subzone": "富阳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "万宝城",
+    "sold": "6",
+    "rent": "181",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2015",
+    "price": "17027",
+    "onSale": "147"
+  },
+  {
+    "name": "余之城",
+    "sold": "3",
+    "rent": "32",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2016",
+    "price": "27809",
+    "onSale": "33"
+  },
+  {
+    "name": "东田怡丰城",
+    "sold": "7",
+    "rent": "187",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "2013",
+    "price": "22197",
+    "onSale": "44"
+  },
+  {
+    "name": "润和西溪郡",
+    "sold": "2",
+    "rent": "8",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2013",
+    "price": "26531",
+    "onSale": "23"
+  },
+  {
+    "name": "荆山翠谷",
+    "sold": "1",
+    "rent": "13",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2000",
+    "price": "24732",
+    "onSale": "29"
+  },
+  {
+    "name": "大华海派风范",
+    "sold": "2",
+    "rent": "5",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2005",
+    "price": "34374",
+    "onSale": "15"
+  },
+  {
+    "name": "野风启城",
+    "sold": "10",
+    "rent": "19",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "2013",
+    "price": "18781",
+    "onSale": "69"
+  },
+  {
+    "name": "盛奥西溪铭座",
+    "sold": "2",
+    "rent": "25",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2014",
+    "price": "20068",
+    "onSale": "53"
+  },
+  {
+    "name": "君临天下",
+    "sold": "3",
+    "rent": "13",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2009",
+    "price": "25659",
+    "onSale": "31"
+  },
+  {
+    "name": "滨江旭辉万家之星",
+    "sold": "2",
+    "rent": "22",
+    "zone": "余杭",
+    "subzone": "勾庄",
+    "builtYear": "2017",
+    "price": "34705",
+    "onSale": "21"
+  },
+  {
+    "name": "荷花小区",
+    "sold": "0",
+    "rent": "31",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1987",
+    "price": "19302",
+    "onSale": "33"
+  },
+  {
+    "name": "百家乐西园",
+    "sold": "0",
+    "rent": "14",
+    "zone": "余杭",
+    "subzone": "西溪",
+    "builtYear": "2011",
+    "price": "37422",
+    "onSale": "39"
+  },
+  {
+    "name": "中交悦西溪",
+    "sold": "0",
+    "rent": "5",
+    "zone": "余杭",
+    "subzone": "西溪",
+    "builtYear": "2015",
+    "price": "44988",
+    "onSale": "8"
+  },
+  {
+    "name": "绿城桃花源",
+    "sold": "0",
+    "rent": "5",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2001",
+    "price": "32368",
+    "onSale": "21"
+  },
+  {
+    "name": "东城丽景",
+    "sold": "2",
+    "rent": "9",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "2007",
+    "price": "23688",
+    "onSale": "28"
+  },
+  {
+    "name": "逸居城",
+    "sold": "0",
+    "rent": "47",
+    "zone": "余杭",
+    "subzone": "勾庄",
+    "builtYear": "2010",
+    "price": "24889",
+    "onSale": "41"
+  },
+  {
+    "name": "嘉丰万悦城",
+    "sold": "0",
+    "rent": "30",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2016",
+    "price": "18577",
+    "onSale": "43"
+  },
+  {
+    "name": "豪波西溪润景",
+    "sold": "0",
+    "rent": "14",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2011",
+    "price": "22082",
+    "onSale": "38"
+  },
+  {
+    "name": "赞成首府",
+    "sold": "0",
+    "rent": "103",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2010",
+    "price": "20447",
+    "onSale": "85"
+  },
+  {
+    "name": "良渚文化村柳映坊三期",
+    "sold": "0",
+    "rent": "8",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2014",
+    "price": "31842",
+    "onSale": "25"
+  },
+  {
+    "name": "西溪永乐城",
+    "sold": "0",
+    "rent": "25",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2017",
+    "price": "25836",
+    "onSale": "36"
+  },
+  {
+    "name": "东田擎天半岛",
+    "sold": "0",
+    "rent": "57",
+    "zone": "余杭",
+    "subzone": "星桥",
+    "builtYear": "2003",
+    "price": "21357",
+    "onSale": "76"
+  },
+  {
+    "name": "景瑞御华府",
+    "sold": "0",
+    "rent": "73",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2015",
+    "price": "24334",
+    "onSale": "39"
+  },
+  {
+    "name": "翡翠城一期",
+    "sold": "0",
+    "rent": "67",
+    "zone": "余杭",
+    "subzone": "翡翠城",
+    "builtYear": "2006",
+    "price": "31609",
+    "onSale": "63"
+  },
+  {
+    "name": "东晖龙悦湾",
+    "sold": "0",
+    "rent": "99",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2013",
+    "price": "17412",
+    "onSale": "42"
+  },
+  {
+    "name": "万科郡西澜山",
+    "sold": "0",
+    "rent": "9",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2010",
+    "price": "30326",
+    "onSale": "31"
+  },
+  {
+    "name": "西溪君庐",
+    "sold": "0",
+    "rent": "10",
+    "zone": "余杭",
+    "subzone": "西溪",
+    "builtYear": "2016",
+    "price": "38635",
+    "onSale": "11"
+  },
+  {
+    "name": "和昌府",
+    "sold": "0",
+    "rent": "75",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2016",
+    "price": "29794",
+    "onSale": "39"
+  },
+  {
+    "name": "金帝海珀二期",
+    "sold": "0",
+    "rent": "26",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2010",
+    "price": "25375",
+    "onSale": "32"
+  },
+  {
+    "name": "翡翠城梧桐郡",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "翡翠城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

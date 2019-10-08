@@ -1,0 +1,222 @@
+[
+  {
+    "name": "池塘巷4号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "长庆",
+    "builtYear": "1984",
+    "price": "39919",
+    "onSale": "0"
+  },
+  {
+    "name": "鸿鼎商务楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1984",
+    "price": "24774",
+    "onSale": "0"
+  },
+  {
+    "name": "中山北路361号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "1990",
+    "price": "47247",
+    "onSale": "1"
+  },
+  {
+    "name": "体育场路168号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "体育场路",
+    "builtYear": "1985",
+    "price": "48151",
+    "onSale": "1"
+  },
+  {
+    "name": "体育场路470号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1981",
+    "price": "58824",
+    "onSale": "0"
+  },
+  {
+    "name": "河滨商务楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "建国北路",
+    "builtYear": "2000",
+    "price": "18255",
+    "onSale": "2"
+  },
+  {
+    "name": "游泳巷16号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "潮鸣",
+    "builtYear": "1995",
+    "price": "45222",
+    "onSale": "1"
+  },
+  {
+    "name": "越都商务大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "2004",
+    "price": "20165",
+    "onSale": "1"
+  },
+  {
+    "name": "中山北路365到375号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "1990",
+    "price": "50178",
+    "onSale": "1"
+  },
+  {
+    "name": "中山北路369号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "1985",
+    "price": "51349",
+    "onSale": "0"
+  },
+  {
+    "name": "灯塔公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "1994",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "横长寿路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1985",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "下城区公共租赁房人才公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "石桥",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "武林时代",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "中冶锦绣华府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "胜利社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "1990",
+    "price": "27012",
+    "onSale": "0"
+  },
+  {
+    "name": "久盛巷",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "1990",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "华丰西苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "石桥",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "环城北路122号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "孩儿巷33号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "众安桥",
+    "builtYear": "2000",
+    "price": "52461",
+    "onSale": "0"
+  },
+  {
+    "name": "茂泰世纪大楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "东新路267号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "德胜东",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

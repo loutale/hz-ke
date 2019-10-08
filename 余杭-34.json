@@ -1,0 +1,112 @@
+[
+  {
+    "name": "羊山公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "2000",
+    "price": "19018",
+    "onSale": "6"
+  },
+  {
+    "name": "佳丽苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "2001",
+    "price": "15448",
+    "onSale": "2"
+  },
+  {
+    "name": "五彩商城",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "1993",
+    "price": "15933",
+    "onSale": "4"
+  },
+  {
+    "name": "学农弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "朝阳东路73号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "华兴公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "1997",
+    "price": "16980",
+    "onSale": "6"
+  },
+  {
+    "name": "广宇公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "2001",
+    "price": "16016",
+    "onSale": "2"
+  },
+  {
+    "name": "山西园路12号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "1995",
+    "price": "17195",
+    "onSale": "0"
+  },
+  {
+    "name": "闲林街道联富巷16号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "小和山",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "和睦路109号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "岸上蓝山公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "6"
+  }
+]

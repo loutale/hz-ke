@@ -1,0 +1,292 @@
+[
+  {
+    "name": "天地泊庄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "南部卧城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "萧绍路1187号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1993",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "凤凰南墅花苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "萧然南路527号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1985",
+    "price": "24915",
+    "onSale": "0"
+  },
+  {
+    "name": "广浦公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "未知年建成",
+    "price": "19943",
+    "onSale": "0"
+  },
+  {
+    "name": "湘湖路17-2号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "湘湖",
+    "builtYear": "未知年建成",
+    "price": "19054",
+    "onSale": "0"
+  },
+  {
+    "name": "北干山南路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1991",
+    "price": "28067",
+    "onSale": "1"
+  },
+  {
+    "name": "燕子里44号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "未知年建成",
+    "price": "25292",
+    "onSale": "1"
+  },
+  {
+    "name": "文化路158号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1986",
+    "price": "21804",
+    "onSale": "1"
+  },
+  {
+    "name": "通惠花园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2006",
+    "price": "暂无",
+    "onSale": "2"
+  },
+  {
+    "name": "永翔公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "1990",
+    "price": "13854",
+    "onSale": "1"
+  },
+  {
+    "name": "人民路72号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1986",
+    "price": "28247",
+    "onSale": "1"
+  },
+  {
+    "name": "新农都物流中心二区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "临浦综合农贸市场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "未知年建成",
+    "price": "7534",
+    "onSale": "0"
+  },
+  {
+    "name": "新桥头村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1988",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "经贸大楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "2000",
+    "price": "14382",
+    "onSale": "1"
+  },
+  {
+    "name": "戴家桥社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "1995",
+    "price": "16288",
+    "onSale": "1"
+  },
+  {
+    "name": "汪家弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1989",
+    "price": "15983",
+    "onSale": "0"
+  },
+  {
+    "name": "汇秀山庄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "1990",
+    "price": "20485",
+    "onSale": "3"
+  },
+  {
+    "name": "戴家桥公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "1988",
+    "price": "17376",
+    "onSale": "1"
+  },
+  {
+    "name": "南药弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1986",
+    "price": "28216",
+    "onSale": "0"
+  },
+  {
+    "name": "旧里河路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "1988",
+    "price": "13025",
+    "onSale": "0"
+  },
+  {
+    "name": "直石板弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1985",
+    "price": "26993",
+    "onSale": "1"
+  },
+  {
+    "name": "桃源明月",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "萧绍路791号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1993",
+    "price": "26678",
+    "onSale": "1"
+  },
+  {
+    "name": "文化路302号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1989",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文化路211号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1983",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "萧然南路387号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1986",
+    "price": "29393",
+    "onSale": "1"
+  },
+  {
+    "name": "文化路132号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1980",
+    "price": "15553",
+    "onSale": "1"
+  }
+]

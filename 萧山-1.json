@@ -1,0 +1,302 @@
+[
+  {
+    "name": "林之语",
+    "sold": "5",
+    "rent": "43",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2002",
+    "price": "23991",
+    "onSale": "75"
+  },
+  {
+    "name": "滨江江南之星",
+    "sold": "15",
+    "rent": "132",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "1999",
+    "price": "40570",
+    "onSale": "63"
+  },
+  {
+    "name": "滨江金色江南",
+    "sold": "6",
+    "rent": "13",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2016",
+    "price": "49706",
+    "onSale": "24"
+  },
+  {
+    "name": "金帝金色钱塘",
+    "sold": "5",
+    "rent": "24",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2007",
+    "price": "32337",
+    "onSale": "51"
+  },
+  {
+    "name": "万科大家世纪之光",
+    "sold": "0",
+    "rent": "81",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2017",
+    "price": "44717",
+    "onSale": "36"
+  },
+  {
+    "name": "绿城西子郁金香岸",
+    "sold": "0",
+    "rent": "34",
+    "zone": "萧山",
+    "subzone": "闻堰",
+    "builtYear": "2007",
+    "price": "28646",
+    "onSale": "63"
+  },
+  {
+    "name": "德圣博奥城",
+    "sold": "4",
+    "rent": "27",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2013",
+    "price": "41292",
+    "onSale": "48"
+  },
+  {
+    "name": "顺发康庄",
+    "sold": "1",
+    "rent": "48",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2008",
+    "price": "30455",
+    "onSale": "56"
+  },
+  {
+    "name": "保利霞飞郡",
+    "sold": "6",
+    "rent": "35",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2013",
+    "price": "32499",
+    "onSale": "54"
+  },
+  {
+    "name": "中国铁建江南国际城",
+    "sold": "1",
+    "rent": "139",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2017",
+    "price": "39686",
+    "onSale": "31"
+  },
+  {
+    "name": "奥兰多小镇",
+    "sold": "0",
+    "rent": "10",
+    "zone": "萧山",
+    "subzone": "湘湖",
+    "builtYear": "2007",
+    "price": "28679",
+    "onSale": "29"
+  },
+  {
+    "name": "崇化住宅区",
+    "sold": "0",
+    "rent": "27",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1983",
+    "price": "23956",
+    "onSale": "36"
+  },
+  {
+    "name": "新城香悦奥府",
+    "sold": "0",
+    "rent": "76",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2017",
+    "price": "36070",
+    "onSale": "47"
+  },
+  {
+    "name": "融创东南海",
+    "sold": "0",
+    "rent": "111",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2017",
+    "price": "27806",
+    "onSale": "14"
+  },
+  {
+    "name": "华瑞晴庐",
+    "sold": "0",
+    "rent": "78",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2015",
+    "price": "35932",
+    "onSale": "37"
+  },
+  {
+    "name": "阳光城上府",
+    "sold": "0",
+    "rent": "88",
+    "zone": "萧山",
+    "subzone": "西兴",
+    "builtYear": "2014",
+    "price": "40721",
+    "onSale": "13"
+  },
+  {
+    "name": "顺发美哉美城",
+    "sold": "0",
+    "rent": "77",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2013",
+    "price": "58305",
+    "onSale": "35"
+  },
+  {
+    "name": "金昌春和钱塘",
+    "sold": "0",
+    "rent": "22",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2015",
+    "price": "47160",
+    "onSale": "36"
+  },
+  {
+    "name": "恒大帝景",
+    "sold": "0",
+    "rent": "42",
+    "zone": "萧山",
+    "subzone": "南部卧城",
+    "builtYear": "2015",
+    "price": "29691",
+    "onSale": "34"
+  },
+  {
+    "name": "通和戈雅公寓",
+    "sold": "0",
+    "rent": "57",
+    "zone": "萧山",
+    "subzone": "闻堰",
+    "builtYear": "2007",
+    "price": "27080",
+    "onSale": "106"
+  },
+  {
+    "name": "绿都御景蓝湾",
+    "sold": "0",
+    "rent": "326",
+    "zone": "萧山",
+    "subzone": "义桥",
+    "builtYear": "2016",
+    "price": "25216",
+    "onSale": "117"
+  },
+  {
+    "name": "龙湖旭辉春江悦茗",
+    "sold": "0",
+    "rent": "58",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2015",
+    "price": "42486",
+    "onSale": "24"
+  },
+  {
+    "name": "华瑞湘湖美地",
+    "sold": "0",
+    "rent": "17",
+    "zone": "萧山",
+    "subzone": "湘湖",
+    "builtYear": "2011",
+    "price": "28167",
+    "onSale": "37"
+  },
+  {
+    "name": "万科金辰之光",
+    "sold": "0",
+    "rent": "13",
+    "zone": "萧山",
+    "subzone": "西兴",
+    "builtYear": "2016",
+    "price": "42097",
+    "onSale": "19"
+  },
+  {
+    "name": "众安景海湾",
+    "sold": "0",
+    "rent": "83",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2008",
+    "price": "24997",
+    "onSale": "64"
+  },
+  {
+    "name": "得力名望府",
+    "sold": "1",
+    "rent": "104",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2015",
+    "price": "27445",
+    "onSale": "24"
+  },
+  {
+    "name": "众安嘉润公馆",
+    "sold": "0",
+    "rent": "59",
+    "zone": "萧山",
+    "subzone": "奥体",
+    "builtYear": "2009",
+    "price": "30192",
+    "onSale": "110"
+  },
+  {
+    "name": "郡望府",
+    "sold": "0",
+    "rent": "44",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2014",
+    "price": "29994",
+    "onSale": "13"
+  },
+  {
+    "name": "顺发和美家",
+    "sold": "0",
+    "rent": "16",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2011",
+    "price": "52636",
+    "onSale": "30"
+  },
+  {
+    "name": "中国铁建青秀城",
+    "sold": "0",
+    "rent": "12",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2015",
+    "price": "40178",
+    "onSale": "19"
+  }
+]

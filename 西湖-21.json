@@ -1,0 +1,282 @@
+[
+  {
+    "name": "耀江文欣大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2002",
+    "price": "22049",
+    "onSale": "0"
+  },
+  {
+    "name": "万塘汇大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "2002",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪君逸汇",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路64号",
+    "sold": "1",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1984",
+    "price": "53448",
+    "onSale": "0"
+  },
+  {
+    "name": "莫干山路361号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1996",
+    "price": "58533",
+    "onSale": "1"
+  },
+  {
+    "name": "文二路160号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1990",
+    "price": "52471",
+    "onSale": "1"
+  },
+  {
+    "name": "文三西路156号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "1996",
+    "price": "41153",
+    "onSale": "1"
+  },
+  {
+    "name": "保俶路202号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1988",
+    "price": "53791",
+    "onSale": "1"
+  },
+  {
+    "name": "中竹大厦公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "2000",
+    "price": "42831",
+    "onSale": "1"
+  },
+  {
+    "name": "文二路37号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1983",
+    "price": "78278",
+    "onSale": "2"
+  },
+  {
+    "name": "西溪路403号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1995",
+    "price": "60997",
+    "onSale": "6"
+  },
+  {
+    "name": "漾LOFT",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2016",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "保亭社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "佳苑公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2002",
+    "price": "21531",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪花园白荻苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "塘苗路31号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "2000",
+    "price": "31835",
+    "onSale": "0"
+  },
+  {
+    "name": "西湖大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "金祝北路12号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1998",
+    "price": "45384",
+    "onSale": "0"
+  },
+  {
+    "name": "西城广场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2003",
+    "price": "30764",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路59号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "2000",
+    "price": "61249",
+    "onSale": "0"
+  },
+  {
+    "name": "紫荆大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文一西路",
+    "builtYear": "未知年建成",
+    "price": "22064",
+    "onSale": "0"
+  },
+  {
+    "name": "中茵大厦",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "2000",
+    "price": "13746",
+    "onSale": "0"
+  },
+  {
+    "name": "马塍路16号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1983",
+    "price": "55595",
+    "onSale": "0"
+  },
+  {
+    "name": "文一路93号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1983",
+    "price": "48295",
+    "onSale": "0"
+  },
+  {
+    "name": "园丁公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "1990",
+    "price": "23707",
+    "onSale": "0"
+  },
+  {
+    "name": "体育场路466号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1990",
+    "price": "50841",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路567号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "未知年建成",
+    "price": "34983",
+    "onSale": "0"
+  },
+  {
+    "name": "回龙雅苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

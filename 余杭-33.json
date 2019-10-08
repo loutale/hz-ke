@@ -1,0 +1,302 @@
+[
+  {
+    "name": "浙江省第一地质大队",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "星火南路15号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1999",
+    "price": "17396",
+    "onSale": "0"
+  },
+  {
+    "name": "东大街公司宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2001",
+    "price": "17642",
+    "onSale": "1"
+  },
+  {
+    "name": "东石塘",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "2006",
+    "price": "13281",
+    "onSale": "4"
+  },
+  {
+    "name": "梅堰路9号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1992",
+    "price": "18539",
+    "onSale": "2"
+  },
+  {
+    "name": "迎宾北区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1998",
+    "price": "19760",
+    "onSale": "1"
+  },
+  {
+    "name": "莲花公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "崇贤",
+    "builtYear": "1990",
+    "price": "18159",
+    "onSale": "2"
+  },
+  {
+    "name": "良博路65号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "新都公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2006",
+    "price": "16881",
+    "onSale": "0"
+  },
+  {
+    "name": "凤惠家园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "2005",
+    "price": "19421",
+    "onSale": "1"
+  },
+  {
+    "name": "菜市路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "19288",
+    "onSale": "0"
+  },
+  {
+    "name": "玉屏湾",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2013",
+    "price": "31639",
+    "onSale": "1"
+  },
+  {
+    "name": "人民路1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "未知年建成",
+    "price": "14735",
+    "onSale": "1"
+  },
+  {
+    "name": "乔安路33号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "紫祥公寓",
+    "sold": "0",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2003",
+    "price": "19417",
+    "onSale": "5"
+  },
+  {
+    "name": "皮匠弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "1989",
+    "price": "14462",
+    "onSale": "0"
+  },
+  {
+    "name": "庙山新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "未知年建成",
+    "price": "25767",
+    "onSale": "2"
+  },
+  {
+    "name": "原舍花苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "未知年建成",
+    "price": "23654",
+    "onSale": "1"
+  },
+  {
+    "name": "禹航路807号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "未知年建成",
+    "price": "22908",
+    "onSale": "1"
+  },
+  {
+    "name": "酒厂宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1996",
+    "price": "19206",
+    "onSale": "2"
+  },
+  {
+    "name": "水乡名苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "未知年建成",
+    "price": "16144",
+    "onSale": "2"
+  },
+  {
+    "name": "宝林公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2000",
+    "price": "20398",
+    "onSale": "4"
+  },
+  {
+    "name": "塘栖栖里东苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "1993",
+    "price": "17663",
+    "onSale": "2"
+  },
+  {
+    "name": "东兴小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "1991",
+    "price": "18875",
+    "onSale": "1"
+  },
+  {
+    "name": "钼铁矿宿舍",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "1998",
+    "price": "23049",
+    "onSale": "0"
+  },
+  {
+    "name": "光大弄1号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2010",
+    "price": "20767",
+    "onSale": "1"
+  },
+  {
+    "name": "东兴路181号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "1991",
+    "price": "13833",
+    "onSale": "1"
+  },
+  {
+    "name": "新窑路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "未知年建成",
+    "price": "16060",
+    "onSale": "1"
+  },
+  {
+    "name": "华都大楼",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2002",
+    "price": "9543",
+    "onSale": "2"
+  },
+  {
+    "name": "康宁和府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "绿城留香园",
+    "sold": "0",
+    "rent": "90",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2019",
+    "price": "72316",
+    "onSale": "15"
+  },
+  {
+    "name": "泊林印象",
+    "sold": "1",
+    "rent": "28",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2010",
+    "price": "37099",
+    "onSale": "40"
+  },
+  {
+    "name": "德信金泊林公寓",
+    "sold": "3",
+    "rent": "15",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2010",
+    "price": "32887",
+    "onSale": "34"
+  },
+  {
+    "name": "万象城悦府",
+    "sold": "0",
+    "rent": "16",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2008",
+    "price": "78869",
+    "onSale": "16"
+  },
+  {
+    "name": "新城红郡",
+    "sold": "4",
+    "rent": "68",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2012",
+    "price": "25750",
+    "onSale": "60"
+  },
+  {
+    "name": "金色黎明二期",
+    "sold": "4",
+    "rent": "17",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "2013",
+    "price": "42131",
+    "onSale": "35"
+  },
+  {
+    "name": "中企艮山府",
+    "sold": "0",
+    "rent": "27",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "2006",
+    "price": "43273",
+    "onSale": "40"
+  },
+  {
+    "name": "紫薇公寓",
+    "sold": "1",
+    "rent": "5",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "2010",
+    "price": "43178",
+    "onSale": "9"
+  },
+  {
+    "name": "景芳新五区",
+    "sold": "3",
+    "rent": "35",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "1995",
+    "price": "39418",
+    "onSale": "48"
+  },
+  {
+    "name": "景芳三区",
+    "sold": "4",
+    "rent": "40",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "1993",
+    "price": "40937",
+    "onSale": "47"
+  },
+  {
+    "name": "绿城玉兰公寓",
+    "sold": "0",
+    "rent": "9",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2010",
+    "price": "42753",
+    "onSale": "18"
+  },
+  {
+    "name": "香滨湾花园",
+    "sold": "0",
+    "rent": "6",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2008",
+    "price": "30260",
+    "onSale": "19"
+  },
+  {
+    "name": "龙湖名景台一期",
+    "sold": "0",
+    "rent": "24",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2015",
+    "price": "32975",
+    "onSale": "12"
+  },
+  {
+    "name": "招商雍华府",
+    "sold": "0",
+    "rent": "11",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "1999",
+    "price": "39776",
+    "onSale": "13"
+  },
+  {
+    "name": "金地格林格林",
+    "sold": "0",
+    "rent": "15",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2015",
+    "price": "28846",
+    "onSale": "30"
+  },
+  {
+    "name": "蓝桥景苑",
+    "sold": "0",
+    "rent": "11",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2009",
+    "price": "27620",
+    "onSale": "9"
+  },
+  {
+    "name": "中海御道",
+    "sold": "0",
+    "rent": "32",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2016",
+    "price": "62397",
+    "onSale": "25"
+  },
+  {
+    "name": "滨江德信东方星城",
+    "sold": "0",
+    "rent": "105",
+    "zone": "江干",
+    "subzone": "城东新城",
+    "builtYear": "2017",
+    "price": "43103",
+    "onSale": "17"
+  },
+  {
+    "name": "首开武林8栋",
+    "sold": "0",
+    "rent": "80",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "2017",
+    "price": "37203",
+    "onSale": "39"
+  },
+  {
+    "name": "红街天城公寓",
+    "sold": "0",
+    "rent": "42",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2011",
+    "price": "21286",
+    "onSale": "73"
+  },
+  {
+    "name": "万象城悦玺",
+    "sold": "0",
+    "rent": "48",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2015",
+    "price": "51308",
+    "onSale": "24"
+  },
+  {
+    "name": "淮矿东元府",
+    "sold": "0",
+    "rent": "17",
+    "zone": "江干",
+    "subzone": "城东新城",
+    "builtYear": "2013",
+    "price": "38659",
+    "onSale": "25"
+  },
+  {
+    "name": "久睦苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2006",
+    "price": "25926",
+    "onSale": "25"
+  },
+  {
+    "name": "阳光城翡丽湾",
+    "sold": "0",
+    "rent": "48",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2016",
+    "price": "31534",
+    "onSale": "41"
+  },
+  {
+    "name": "蔚蓝公寓",
+    "sold": "0",
+    "rent": "6",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "2010",
+    "price": "57751",
+    "onSale": "16"
+  },
+  {
+    "name": "滨江城市之星",
+    "sold": "0",
+    "rent": "15",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2012",
+    "price": "66364",
+    "onSale": "19"
+  },
+  {
+    "name": "万科草庄",
+    "sold": "0",
+    "rent": "8",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "1983",
+    "price": "38722",
+    "onSale": "31"
+  },
+  {
+    "name": "广宇上东臻品",
+    "sold": "0",
+    "rent": "14",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2007",
+    "price": "31498",
+    "onSale": "24"
+  },
+  {
+    "name": "蓝天城市花园",
+    "sold": "0",
+    "rent": "13",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "1988",
+    "price": "39708",
+    "onSale": "19"
+  },
+  {
+    "name": "和谐嘉园东苑",
+    "sold": "0",
+    "rent": "32",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2009",
+    "price": "50688",
+    "onSale": "6"
+  }
+]

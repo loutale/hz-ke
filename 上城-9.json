@@ -1,0 +1,292 @@
+[
+  {
+    "name": "金衙庄公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "1998",
+    "price": "45248",
+    "onSale": "5"
+  },
+  {
+    "name": "黄工厂弄",
+    "sold": "0",
+    "rent": "5",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1994",
+    "price": "40398",
+    "onSale": "3"
+  },
+  {
+    "name": "长生路30号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1995",
+    "price": "99755",
+    "onSale": "3"
+  },
+  {
+    "name": "笤帚湾",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "西湖景区",
+    "builtYear": "1986",
+    "price": "40267",
+    "onSale": "1"
+  },
+  {
+    "name": "状元弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1991",
+    "price": "39437",
+    "onSale": "4"
+  },
+  {
+    "name": "涌金广场聚景阁",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1995",
+    "price": "50990",
+    "onSale": "4"
+  },
+  {
+    "name": "响水坝",
+    "sold": "0",
+    "rent": "4",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1992",
+    "price": "38407",
+    "onSale": "2"
+  },
+  {
+    "name": "保安桥河下",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1985",
+    "price": "39216",
+    "onSale": "7"
+  },
+  {
+    "name": "邮电路11号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1998",
+    "price": "108634",
+    "onSale": "0"
+  },
+  {
+    "name": "江韵园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "2000",
+    "price": "42540",
+    "onSale": "0"
+  },
+  {
+    "name": "锅子弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "1987",
+    "price": "38865",
+    "onSale": "1"
+  },
+  {
+    "name": "孝子坊",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1988",
+    "price": "66215",
+    "onSale": "3"
+  },
+  {
+    "name": "中山御庭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1985",
+    "price": "58362",
+    "onSale": "1"
+  },
+  {
+    "name": "严官巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1987",
+    "price": "39846",
+    "onSale": "2"
+  },
+  {
+    "name": "冯山人巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1981",
+    "price": "43538",
+    "onSale": "4"
+  },
+  {
+    "name": "城站路小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "1995",
+    "price": "39567",
+    "onSale": "1"
+  },
+  {
+    "name": "南山路小区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1993",
+    "price": "62800",
+    "onSale": "0"
+  },
+  {
+    "name": "长生路小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1980",
+    "price": "68431",
+    "onSale": "2"
+  },
+  {
+    "name": "乌龙巷",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1984",
+    "price": "39412",
+    "onSale": "3"
+  },
+  {
+    "name": "清江花园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "2000",
+    "price": "45861",
+    "onSale": "6"
+  },
+  {
+    "name": "西府局",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "2000",
+    "price": "51542",
+    "onSale": "1"
+  },
+  {
+    "name": "柳翠井巷",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1982",
+    "price": "43529",
+    "onSale": "2"
+  },
+  {
+    "name": "上水陆寺巷",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1982",
+    "price": "41315",
+    "onSale": "2"
+  },
+  {
+    "name": "北落马营",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "1989",
+    "price": "39243",
+    "onSale": "4"
+  },
+  {
+    "name": "森仁里1-3号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1988",
+    "price": "42195",
+    "onSale": "5"
+  },
+  {
+    "name": "延庆里6号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1990",
+    "price": "63044",
+    "onSale": "0"
+  },
+  {
+    "name": "蔡官巷公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "三衙前",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1985",
+    "price": "63300",
+    "onSale": "1"
+  },
+  {
+    "name": "凤山新村",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "西湖景区",
+    "builtYear": "1988",
+    "price": "44529",
+    "onSale": "4"
+  }
+]

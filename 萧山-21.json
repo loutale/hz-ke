@@ -1,0 +1,212 @@
+[
+  {
+    "name": "京港国际",
+    "sold": "0",
+    "rent": "6",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2015",
+    "price": "27316",
+    "onSale": "3"
+  },
+  {
+    "name": "大象国际中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2015",
+    "price": "22025",
+    "onSale": "1"
+  },
+  {
+    "name": "金谷弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "1983",
+    "price": "14866",
+    "onSale": "0"
+  },
+  {
+    "name": "香格名苑",
+    "sold": "0",
+    "rent": "6",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "1990",
+    "price": "17769",
+    "onSale": "1"
+  },
+  {
+    "name": "人民路70号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "合丰商务楼",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "建工发展广场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2000",
+    "price": "14367",
+    "onSale": "0"
+  },
+  {
+    "name": "金鹭银座",
+    "sold": "0",
+    "rent": "3",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "2008",
+    "price": "18841",
+    "onSale": "6"
+  },
+  {
+    "name": "藕湖浜公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1998",
+    "price": "22943",
+    "onSale": "1"
+  },
+  {
+    "name": "红垦社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "1998",
+    "price": "24567",
+    "onSale": "0"
+  },
+  {
+    "name": "金家弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "1982",
+    "price": "9971",
+    "onSale": "0"
+  },
+  {
+    "name": "东灵苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "未知年建成",
+    "price": "17472",
+    "onSale": "1"
+  },
+  {
+    "name": "人民路223号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1985",
+    "price": "27654",
+    "onSale": "1"
+  },
+  {
+    "name": "人民路160号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "里河公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "2010",
+    "price": "15598",
+    "onSale": "0"
+  },
+  {
+    "name": "桥头宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "闻堰",
+    "builtYear": "未知年建成",
+    "price": "28116",
+    "onSale": "1"
+  },
+  {
+    "name": "世华帝宝大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "奥体",
+    "builtYear": "2017",
+    "price": "29481",
+    "onSale": "3"
+  },
+  {
+    "name": "峙山北路住宅区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "临浦",
+    "builtYear": "1988",
+    "price": "15594",
+    "onSale": "2"
+  },
+  {
+    "name": "公元帝景",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2017",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "人民路6号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "龙达国际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2016",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

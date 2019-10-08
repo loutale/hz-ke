@@ -1,0 +1,282 @@
+[
+  {
+    "name": "阳光城拱宸府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "阮家桥公寓",
+    "sold": "0",
+    "rent": "14",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2012",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅南路251号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1998",
+    "price": "36993",
+    "onSale": "0"
+  },
+  {
+    "name": "沈塘桥弄",
+    "sold": "1",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1997",
+    "price": "38844",
+    "onSale": "0"
+  },
+  {
+    "name": "瓜山佳苑",
+    "sold": "0",
+    "rent": "17",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2008",
+    "price": "32192",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅南路99号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1987",
+    "price": "34760",
+    "onSale": "1"
+  },
+  {
+    "name": "教工里",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1995",
+    "price": "35450",
+    "onSale": "0"
+  },
+  {
+    "name": "和睦坊",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1999",
+    "price": "35672",
+    "onSale": "2"
+  },
+  {
+    "name": "蔡马人家",
+    "sold": "0",
+    "rent": "5",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "八丈井新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1996",
+    "price": "27125",
+    "onSale": "0"
+  },
+  {
+    "name": "天邑国际",
+    "sold": "0",
+    "rent": "21",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2012",
+    "price": "19195",
+    "onSale": "0"
+  },
+  {
+    "name": "三官弄",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1983",
+    "price": "33202",
+    "onSale": "2"
+  },
+  {
+    "name": "万物桥巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1988",
+    "price": "37952",
+    "onSale": "3"
+  },
+  {
+    "name": "田园牧歌风禾苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2013",
+    "price": "34496",
+    "onSale": "29"
+  },
+  {
+    "name": "湖墅南路60号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1988",
+    "price": "31220",
+    "onSale": "0"
+  },
+  {
+    "name": "小兜弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1983",
+    "price": "41750",
+    "onSale": "0"
+  },
+  {
+    "name": "和睦路141号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1990",
+    "price": "33762",
+    "onSale": "2"
+  },
+  {
+    "name": "长征桥路42号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1994",
+    "price": "31537",
+    "onSale": "2"
+  },
+  {
+    "name": "运河万科中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "深蓝绿景国际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "万达广场",
+    "builtYear": "2000",
+    "price": "10522",
+    "onSale": "0"
+  },
+  {
+    "name": "西城时代",
+    "sold": "0",
+    "rent": "4",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "舟山东路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "1993",
+    "price": "37860",
+    "onSale": "3"
+  },
+  {
+    "name": "密渡桥路3号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2000",
+    "price": "43702",
+    "onSale": "1"
+  },
+  {
+    "name": "莫干山路38号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1989",
+    "price": "41078",
+    "onSale": "2"
+  },
+  {
+    "name": "祥符新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "1997",
+    "price": "30424",
+    "onSale": "2"
+  },
+  {
+    "name": "田园牧歌听泉苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2014",
+    "price": "36755",
+    "onSale": "16"
+  },
+  {
+    "name": "富越香郡盈座",
+    "sold": "0",
+    "rent": "48",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2013",
+    "price": "19847",
+    "onSale": "45"
+  },
+  {
+    "name": "湖墅南路247号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2000",
+    "price": "36494",
+    "onSale": "0"
+  }
+]

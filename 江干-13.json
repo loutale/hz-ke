@@ -1,0 +1,292 @@
+[
+  {
+    "name": "三堡东苑",
+    "sold": "0",
+    "rent": "12",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "2012",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "水湘人家东苑",
+    "sold": "0",
+    "rent": "55",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "2012",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "采荷路37号",
+    "sold": "1",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1989",
+    "price": "45514",
+    "onSale": "0"
+  },
+  {
+    "name": "秋涛北路322号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "1998",
+    "price": "35086",
+    "onSale": "1"
+  },
+  {
+    "name": "机场路137号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "1997",
+    "price": "32740",
+    "onSale": "3"
+  },
+  {
+    "name": "石桥路151号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "1998",
+    "price": "30364",
+    "onSale": "3"
+  },
+  {
+    "name": "三叉新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1992",
+    "price": "43938",
+    "onSale": "1"
+  },
+  {
+    "name": "钱塘白石嘉苑",
+    "sold": "0",
+    "rent": "5",
+    "zone": "江干",
+    "subzone": "城东新城",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "采荷路47号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1990",
+    "price": "41145",
+    "onSale": "0"
+  },
+  {
+    "name": "万家花园天城苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "2005",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "云峰家园",
+    "sold": "0",
+    "rent": "7",
+    "zone": "江干",
+    "subzone": "城东新城",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "杭州高德置地广场",
+    "sold": "0",
+    "rent": "9",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2015",
+    "price": "45001",
+    "onSale": "1"
+  },
+  {
+    "name": "三卫家园北苑",
+    "sold": "0",
+    "rent": "46",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "范家公寓",
+    "sold": "0",
+    "rent": "10",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "1990",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "彭埠花苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "五福苑二苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "凯旋路168号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1983",
+    "price": "34876",
+    "onSale": "0"
+  },
+  {
+    "name": "凯旋路184号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1989",
+    "price": "38640",
+    "onSale": "6"
+  },
+  {
+    "name": "蚕桑西苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "牛田苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "五福苑一苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "华联钱塘公馆",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "明桂苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2005",
+    "price": "35310",
+    "onSale": "0"
+  },
+  {
+    "name": "凯旋路174号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1986",
+    "price": "35027",
+    "onSale": "0"
+  },
+  {
+    "name": "天晖铭园",
+    "sold": "0",
+    "rent": "3",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "1983",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "秋涛北路413号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2000",
+    "price": "33332",
+    "onSale": "0"
+  },
+  {
+    "name": "凯旋路117号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1990",
+    "price": "53345",
+    "onSale": "1"
+  },
+  {
+    "name": "凯旋路212号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "华家池",
+    "builtYear": "1999",
+    "price": "41189",
+    "onSale": "0"
+  },
+  {
+    "name": "凯旋路188号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1989",
+    "price": "37675",
+    "onSale": "2"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "name": "萧然南路633号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "1"
+  },
+  {
+    "name": "罗峰新村",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "义桥",
+    "builtYear": "2000",
+    "price": "18349",
+    "onSale": "4"
+  },
+  {
+    "name": "金苑大厦",
+    "sold": "0",
+    "rent": "3",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "2000",
+    "price": "24991",
+    "onSale": "2"
+  },
+  {
+    "name": "糖朝",
+    "sold": "0",
+    "rent": "4",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2018",
+    "price": "38015",
+    "onSale": "2"
+  },
+  {
+    "name": "西仓弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1993",
+    "price": "24127",
+    "onSale": "3"
+  },
+  {
+    "name": "天域开元云澜里",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2017",
+    "price": "26476",
+    "onSale": "1"
+  },
+  {
+    "name": "豪景城",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2005",
+    "price": "17259",
+    "onSale": "1"
+  },
+  {
+    "name": "银河商务公馆",
+    "sold": "0",
+    "rent": "2",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2000",
+    "price": "21570",
+    "onSale": "3"
+  },
+  {
+    "name": "茗香庭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2012",
+    "price": "15136",
+    "onSale": "2"
+  },
+  {
+    "name": "郡乐苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2014",
+    "price": "19394",
+    "onSale": "0"
+  },
+  {
+    "name": "宏扬鲲鹏中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "头坞新村",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "湘湖",
+    "builtYear": "1978",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "振泽左右办公世界",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "新市民公寓",
+    "sold": "0",
+    "rent": "3",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "孙村苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "江南风尚铭楼",
+    "sold": "0",
+    "rent": "6",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2017",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "碧秀名庭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "航民员工公寓一区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "江寺路81号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1982",
+    "price": "21544",
+    "onSale": "0"
+  },
+  {
+    "name": "育才路466号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "梦秀公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "东方世纪中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2012",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "建材厂宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "湘湖",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "水亭址",
+    "sold": "0",
+    "rent": "2",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "未知年建成",
+    "price": "24891",
+    "onSale": "0"
+  },
+  {
+    "name": "丰盛大厦",
+    "sold": "0",
+    "rent": "2",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2012",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "人民路74号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "未知年建成",
+    "price": "27251",
+    "onSale": "0"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "天阳文晖",
+    "sold": "4",
+    "rent": "45",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2017",
+    "price": "42452",
+    "onSale": "15"
+  },
+  {
+    "name": "景芳一区",
+    "sold": "3",
+    "rent": "20",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "1993",
+    "price": "39925",
+    "onSale": "32"
+  },
+  {
+    "name": "美达浅草名苑",
+    "sold": "0",
+    "rent": "7",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "1999",
+    "price": "30413",
+    "onSale": "25"
+  },
+  {
+    "name": "远洋万和四季",
+    "sold": "0",
+    "rent": "15",
+    "zone": "江干",
+    "subzone": "城东新城",
+    "builtYear": "2017",
+    "price": "41926",
+    "onSale": "5"
+  },
+  {
+    "name": "广宇东承府",
+    "sold": "4",
+    "rent": "18",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2008",
+    "price": "32867",
+    "onSale": "38"
+  },
+  {
+    "name": "三里新城兰苑",
+    "sold": "0",
+    "rent": "15",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "1983",
+    "price": "37516",
+    "onSale": "32"
+  },
+  {
+    "name": "冠宇隽园",
+    "sold": "5",
+    "rent": "11",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2010",
+    "price": "30064",
+    "onSale": "26"
+  },
+  {
+    "name": "水岸帝景",
+    "sold": "0",
+    "rent": "7",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2005",
+    "price": "64579",
+    "onSale": "16"
+  },
+  {
+    "name": "天成嘉苑",
+    "sold": "1",
+    "rent": "9",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2004",
+    "price": "36991",
+    "onSale": "16"
+  },
+  {
+    "name": "景苑公寓(江干)",
+    "sold": "2",
+    "rent": "14",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "1998",
+    "price": "37573",
+    "onSale": "25"
+  },
+  {
+    "name": "东茂苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "1998",
+    "price": "38707",
+    "onSale": "19"
+  },
+  {
+    "name": "后珠美都雅苑",
+    "sold": "0",
+    "rent": "8",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2008",
+    "price": "23582",
+    "onSale": "23"
+  },
+  {
+    "name": "中旅城仕公馆",
+    "sold": "0",
+    "rent": "26",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2016",
+    "price": "32745",
+    "onSale": "16"
+  },
+  {
+    "name": "金牛坊",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "2003",
+    "price": "49072",
+    "onSale": "18"
+  },
+  {
+    "name": "南肖埠社区",
+    "sold": "0",
+    "rent": "15",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1995",
+    "price": "40286",
+    "onSale": "41"
+  },
+  {
+    "name": "东方丽都花苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2011",
+    "price": "41151",
+    "onSale": "11"
+  },
+  {
+    "name": "圆梦园",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "1995",
+    "price": "34988",
+    "onSale": "12"
+  },
+  {
+    "name": "万家花园家和苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "2002",
+    "price": "41183",
+    "onSale": "12"
+  },
+  {
+    "name": "天阳尚城国际一期",
+    "sold": "0",
+    "rent": "27",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2014",
+    "price": "41401",
+    "onSale": "13"
+  },
+  {
+    "name": "农港苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2003",
+    "price": "27143",
+    "onSale": "8"
+  },
+  {
+    "name": "保利中央公馆",
+    "sold": "0",
+    "rent": "118",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "2018",
+    "price": "65565",
+    "onSale": "37"
+  },
+  {
+    "name": "采荷小区玉荷邨",
+    "sold": "0",
+    "rent": "9",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1985",
+    "price": "51502",
+    "onSale": "11"
+  },
+  {
+    "name": "静怡花苑",
+    "sold": "0",
+    "rent": "9",
+    "zone": "江干",
+    "subzone": "四季青",
+    "builtYear": "2000",
+    "price": "40630",
+    "onSale": "17"
+  },
+  {
+    "name": "钱江六苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2005",
+    "price": "54780",
+    "onSale": "7"
+  },
+  {
+    "name": "三里新城桂苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2000",
+    "price": "37765",
+    "onSale": "16"
+  },
+  {
+    "name": "清泰小区",
+    "sold": "0",
+    "rent": "6",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1996",
+    "price": "49545",
+    "onSale": "18"
+  },
+  {
+    "name": "万科大都会79号",
+    "sold": "0",
+    "rent": "13",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2018",
+    "price": "82917",
+    "onSale": "2"
+  },
+  {
+    "name": "广大融城印象",
+    "sold": "0",
+    "rent": "13",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2014",
+    "price": "29405",
+    "onSale": "12"
+  },
+  {
+    "name": "远洋香奈",
+    "sold": "0",
+    "rent": "31",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2010",
+    "price": "34817",
+    "onSale": "9"
+  },
+  {
+    "name": "锦润公寓",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2013",
+    "price": "40690",
+    "onSale": "20"
+  }
+]

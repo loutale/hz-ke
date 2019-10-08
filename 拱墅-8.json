@@ -1,0 +1,302 @@
+[
+  {
+    "name": "大关东七苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1995",
+    "price": "35193",
+    "onSale": "9"
+  },
+  {
+    "name": "大关南六苑",
+    "sold": "0",
+    "rent": "6",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1999",
+    "price": "35684",
+    "onSale": "11"
+  },
+  {
+    "name": "武林公寓",
+    "sold": "1",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1997",
+    "price": "42103",
+    "onSale": "5"
+  },
+  {
+    "name": "百大花园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1998",
+    "price": "32363",
+    "onSale": "2"
+  },
+  {
+    "name": "大关东八苑",
+    "sold": "2",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1996",
+    "price": "35296",
+    "onSale": "7"
+  },
+  {
+    "name": "大关东九苑",
+    "sold": "1",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1995",
+    "price": "35889",
+    "onSale": "8"
+  },
+  {
+    "name": "哑巴弄",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1993",
+    "price": "34619",
+    "onSale": "7"
+  },
+  {
+    "name": "都景公寓",
+    "sold": "0",
+    "rent": "18",
+    "zone": "拱墅",
+    "subzone": "和睦",
+    "builtYear": "1995",
+    "price": "43030",
+    "onSale": "0"
+  },
+  {
+    "name": "金都清宸公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "2005",
+    "price": "34152",
+    "onSale": "0"
+  },
+  {
+    "name": "大关南八苑",
+    "sold": "0",
+    "rent": "5",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1998",
+    "price": "34563",
+    "onSale": "18"
+  },
+  {
+    "name": "大关西八苑",
+    "sold": "0",
+    "rent": "6",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1996",
+    "price": "33831",
+    "onSale": "10"
+  },
+  {
+    "name": "嘉璟华庭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2012",
+    "price": "44588",
+    "onSale": "2"
+  },
+  {
+    "name": "大关东二苑",
+    "sold": "0",
+    "rent": "12",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1995",
+    "price": "34033",
+    "onSale": "12"
+  },
+  {
+    "name": "大关东五苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1996",
+    "price": "35342",
+    "onSale": "13"
+  },
+  {
+    "name": "长乐南苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1996",
+    "price": "41631",
+    "onSale": "4"
+  },
+  {
+    "name": "联合畔上居",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2016",
+    "price": "38592",
+    "onSale": "7"
+  },
+  {
+    "name": "朗诗田园绿郡",
+    "sold": "0",
+    "rent": "5",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2000",
+    "price": "31616",
+    "onSale": "13"
+  },
+  {
+    "name": "大关南七苑",
+    "sold": "0",
+    "rent": "7",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1996",
+    "price": "35159",
+    "onSale": "12"
+  },
+  {
+    "name": "大关南五苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1998",
+    "price": "34682",
+    "onSale": "10"
+  },
+  {
+    "name": "大关东四苑",
+    "sold": "0",
+    "rent": "5",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1994",
+    "price": "34890",
+    "onSale": "15"
+  },
+  {
+    "name": "正兴堂弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1985",
+    "price": "34411",
+    "onSale": "2"
+  },
+  {
+    "name": "德泰御峰大厦",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2010",
+    "price": "25301",
+    "onSale": "13"
+  },
+  {
+    "name": "杭钢西苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "1983",
+    "price": "22257",
+    "onSale": "14"
+  },
+  {
+    "name": "大关东一苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1995",
+    "price": "36423",
+    "onSale": "10"
+  },
+  {
+    "name": "景致公寓",
+    "sold": "0",
+    "rent": "10",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "2009",
+    "price": "33892",
+    "onSale": "10"
+  },
+  {
+    "name": "崇盛里",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "1995",
+    "price": "37055",
+    "onSale": "6"
+  },
+  {
+    "name": "大关西三苑",
+    "sold": "0",
+    "rent": "6",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1994",
+    "price": "35750",
+    "onSale": "20"
+  },
+  {
+    "name": "远洋杭州大运河商务区",
+    "sold": "0",
+    "rent": "7",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "2015",
+    "price": "29178",
+    "onSale": "13"
+  },
+  {
+    "name": "荷花塘",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1996",
+    "price": "29206",
+    "onSale": "0"
+  },
+  {
+    "name": "大关西五苑",
+    "sold": "0",
+    "rent": "7",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1996",
+    "price": "35443",
+    "onSale": "8"
+  }
+]

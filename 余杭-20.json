@@ -1,0 +1,272 @@
+[
+  {
+    "name": "仁和金鼎公寓",
+    "sold": "0",
+    "rent": "5",
+    "zone": "余杭",
+    "subzone": "仁和",
+    "builtYear": "2006",
+    "price": "19804",
+    "onSale": "12"
+  },
+  {
+    "name": "绿城伍重院",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2004",
+    "price": "52654",
+    "onSale": "2"
+  },
+  {
+    "name": "西溪北苑北区",
+    "sold": "0",
+    "rent": "19",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2008",
+    "price": "26307",
+    "onSale": "1"
+  },
+  {
+    "name": "兴耀锦里",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "星桥",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "香山人家",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2010",
+    "price": "13253",
+    "onSale": "0"
+  },
+  {
+    "name": "星光街968号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2010",
+    "price": "13118",
+    "onSale": "1"
+  },
+  {
+    "name": "新曙光公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1996",
+    "price": "17875",
+    "onSale": "2"
+  },
+  {
+    "name": "兴隆小区",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2000",
+    "price": "20130",
+    "onSale": "0"
+  },
+  {
+    "name": "清河花园",
+    "sold": "0",
+    "rent": "6",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1990",
+    "price": "20341",
+    "onSale": "3"
+  },
+  {
+    "name": "新桥公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2004",
+    "price": "19248",
+    "onSale": "2"
+  },
+  {
+    "name": "金盛花苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "17568",
+    "onSale": "1"
+  },
+  {
+    "name": "福田花园",
+    "sold": "0",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2001",
+    "price": "20632",
+    "onSale": "4"
+  },
+  {
+    "name": "府景公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "20377",
+    "onSale": "5"
+  },
+  {
+    "name": "北苑新村",
+    "sold": "0",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2004",
+    "price": "16818",
+    "onSale": "2"
+  },
+  {
+    "name": "交通宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1994",
+    "price": "18038",
+    "onSale": "2"
+  },
+  {
+    "name": "上亿中央郡",
+    "sold": "0",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "崇贤",
+    "builtYear": "2015",
+    "price": "21554",
+    "onSale": "5"
+  },
+  {
+    "name": "五迪中心",
+    "sold": "0",
+    "rent": "21",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2014",
+    "price": "28393",
+    "onSale": "0"
+  },
+  {
+    "name": "兴泰花苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "1997",
+    "price": "15140",
+    "onSale": "11"
+  },
+  {
+    "name": "南湖景秀湾",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "北大资源海港城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "西溪",
+    "builtYear": "2016",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "红联九漾华庭▪东区",
+    "sold": "0",
+    "rent": "58",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2002",
+    "price": "18904",
+    "onSale": "0"
+  },
+  {
+    "name": "南安路1-19号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "1993",
+    "price": "21519",
+    "onSale": "0"
+  },
+  {
+    "name": "浙江油田公司机关事务中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "1995",
+    "price": "23155",
+    "onSale": "0"
+  },
+  {
+    "name": "水岸家园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "20692",
+    "onSale": "7"
+  },
+  {
+    "name": "广都嘉园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1995",
+    "price": "15730",
+    "onSale": "1"
+  },
+  {
+    "name": "金沙公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2002",
+    "price": "21304",
+    "onSale": "3"
+  },
+  {
+    "name": "新远金座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2011",
+    "price": "19449",
+    "onSale": "5"
+  }
+]

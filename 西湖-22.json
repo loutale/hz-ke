@@ -1,0 +1,282 @@
+[
+  {
+    "name": "之江路51号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "1992",
+    "price": "17527",
+    "onSale": "0"
+  },
+  {
+    "name": "之江家园二区",
+    "sold": "0",
+    "rent": "28",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "留和春天",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2007",
+    "price": "35647",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路33号",
+    "sold": "1",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1983",
+    "price": "78263",
+    "onSale": "1"
+  },
+  {
+    "name": "合诚之江商务中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2015",
+    "price": "26460",
+    "onSale": "1"
+  },
+  {
+    "name": "中天MCC",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "体育场路472号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1985",
+    "price": "56436",
+    "onSale": "1"
+  },
+  {
+    "name": "文一路109号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2003",
+    "price": "45716",
+    "onSale": "1"
+  },
+  {
+    "name": "厚诚路26号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "1987",
+    "price": "32228",
+    "onSale": "1"
+  },
+  {
+    "name": "塘苗路19号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "1988",
+    "price": "37470",
+    "onSale": "2"
+  },
+  {
+    "name": "保俶北路29号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1985",
+    "price": "60211",
+    "onSale": "1"
+  },
+  {
+    "name": "学院路304号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "2000",
+    "price": "60078",
+    "onSale": "3"
+  },
+  {
+    "name": "文二路168号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1986",
+    "price": "59252",
+    "onSale": "2"
+  },
+  {
+    "name": "文二路57号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1983",
+    "price": "86443",
+    "onSale": "1"
+  },
+  {
+    "name": "安坝坊",
+    "sold": "0",
+    "rent": "46",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "之江家園一区",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪花园蒹葭苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "吉鸿家园临秀苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "良渚",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "之江家园四区",
+    "sold": "0",
+    "rent": "18",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "1999",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "之江家园三区",
+    "sold": "0",
+    "rent": "5",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "1999",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪花园竞舟苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "和家园雍园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "吉鸿家园望昕苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "良渚",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "秀月家园桂月苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "2006",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪路538号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "1995",
+    "price": "24377",
+    "onSale": "0"
+  },
+  {
+    "name": "保俶路97号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1988",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "庆隆路3号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "2000",
+    "price": "26017",
+    "onSale": "0"
+  },
+  {
+    "name": "曙光路20-1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "未知年建成",
+    "price": "47438",
+    "onSale": "0"
+  }
+]

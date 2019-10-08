@@ -1,0 +1,182 @@
+[
+  {
+    "name": "兴业嘉园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文耀大厦",
+    "sold": "0",
+    "rent": "8",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2009",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文苑大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "先锋科技大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2007",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "春晓路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "逸天广场1号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2006",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "月明路857号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西陵社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "2001",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "瑞悦商务酒店",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "天恒大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "银丰大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2009",
+    "price": "21095",
+    "onSale": "0"
+  },
+  {
+    "name": "中月创智中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "1997",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "长江中路160号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "南环路3758号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2003",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "官河路47号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "镇前路111号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "未知年建成",
+    "price": "30609",
+    "onSale": "0"
+  },
+  {
+    "name": "水沟沿路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "白马湖",
+    "builtYear": "2003",
+    "price": "30949",
+    "onSale": "1"
+  },
+  {
+    "name": "滨江西兴街道人民路9号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "1"
+  }
+]

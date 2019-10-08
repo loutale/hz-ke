@@ -1,0 +1,302 @@
+[
+  {
+    "name": "仓溢绿苑",
+    "sold": "0",
+    "rent": "20",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2009",
+    "price": "26289",
+    "onSale": "5"
+  },
+  {
+    "name": "美好桂花星座",
+    "sold": "6",
+    "rent": "9",
+    "zone": "余杭",
+    "subzone": "星桥",
+    "builtYear": "2013",
+    "price": "23187",
+    "onSale": "25"
+  },
+  {
+    "name": "中梁百悦城",
+    "sold": "8",
+    "rent": "49",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1997",
+    "price": "21474",
+    "onSale": "43"
+  },
+  {
+    "name": "恒基旭辉府",
+    "sold": "3",
+    "rent": "19",
+    "zone": "余杭",
+    "subzone": "崇贤",
+    "builtYear": "2015",
+    "price": "23895",
+    "onSale": "51"
+  },
+  {
+    "name": "富力新线公园",
+    "sold": "0",
+    "rent": "14",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2016",
+    "price": "42071",
+    "onSale": "13"
+  },
+  {
+    "name": "绿野春天家园",
+    "sold": "0",
+    "rent": "14",
+    "zone": "余杭",
+    "subzone": "小和山",
+    "builtYear": "1999",
+    "price": "25972",
+    "onSale": "37"
+  },
+  {
+    "name": "天阳棕榈湾二期",
+    "sold": "1",
+    "rent": "10",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2003",
+    "price": "22528",
+    "onSale": "46"
+  },
+  {
+    "name": "理想康城一品",
+    "sold": "2",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2014",
+    "price": "31101",
+    "onSale": "19"
+  },
+  {
+    "name": "万科良渚文化村秋荷坊",
+    "sold": "3",
+    "rent": "11",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2004",
+    "price": "31008",
+    "onSale": "25"
+  },
+  {
+    "name": "新城山语院",
+    "sold": "4",
+    "rent": "22",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2015",
+    "price": "24443",
+    "onSale": "21"
+  },
+  {
+    "name": "九衡公寓",
+    "sold": "0",
+    "rent": "14",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2001",
+    "price": "25283",
+    "onSale": "43"
+  },
+  {
+    "name": "竹径云山",
+    "sold": "1",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "1997",
+    "price": "35207",
+    "onSale": "7"
+  },
+  {
+    "name": "良渚文化村春漫里",
+    "sold": "0",
+    "rent": "18",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2000",
+    "price": "17858",
+    "onSale": "35"
+  },
+  {
+    "name": "香港兴业耦园",
+    "sold": "0",
+    "rent": "12",
+    "zone": "余杭",
+    "subzone": "西溪",
+    "builtYear": "2000",
+    "price": "40389",
+    "onSale": "28"
+  },
+  {
+    "name": "欣北钱江国际广场",
+    "sold": "0",
+    "rent": "33",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "2010",
+    "price": "11435",
+    "onSale": "141"
+  },
+  {
+    "name": "绿城莲园",
+    "sold": "0",
+    "rent": "5",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2015",
+    "price": "24485",
+    "onSale": "19"
+  },
+  {
+    "name": "朗诗未来街区东园",
+    "sold": "0",
+    "rent": "8",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "2010",
+    "price": "26538",
+    "onSale": "18"
+  },
+  {
+    "name": "富力天贸广场",
+    "sold": "0",
+    "rent": "40",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2013",
+    "price": "21397",
+    "onSale": "39"
+  },
+  {
+    "name": "惠都家园",
+    "sold": "0",
+    "rent": "28",
+    "zone": "余杭",
+    "subzone": "星桥",
+    "builtYear": "2010",
+    "price": "19950",
+    "onSale": "24"
+  },
+  {
+    "name": "梅堰小区",
+    "sold": "0",
+    "rent": "17",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1992",
+    "price": "18466",
+    "onSale": "49"
+  },
+  {
+    "name": "金帝海珀一期",
+    "sold": "0",
+    "rent": "12",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2010",
+    "price": "26359",
+    "onSale": "20"
+  },
+  {
+    "name": "广厦天都城天星苑",
+    "sold": "0",
+    "rent": "23",
+    "zone": "余杭",
+    "subzone": "星桥",
+    "builtYear": "2007",
+    "price": "22159",
+    "onSale": "24"
+  },
+  {
+    "name": "广厦天都城蓝调公寓",
+    "sold": "0",
+    "rent": "25",
+    "zone": "余杭",
+    "subzone": "星桥",
+    "builtYear": "2015",
+    "price": "22762",
+    "onSale": "22"
+  },
+  {
+    "name": "望梅路588号",
+    "sold": "0",
+    "rent": "9",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1990",
+    "price": "9993",
+    "onSale": "24"
+  },
+  {
+    "name": "良渚文化村竹径茶语",
+    "sold": "0",
+    "rent": "6",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2005",
+    "price": "30696",
+    "onSale": "19"
+  },
+  {
+    "name": "浙地人家",
+    "sold": "0",
+    "rent": "21",
+    "zone": "余杭",
+    "subzone": "翡翠城",
+    "builtYear": "2010",
+    "price": "24101",
+    "onSale": "11"
+  },
+  {
+    "name": "融信澜天",
+    "sold": "0",
+    "rent": "14",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2019",
+    "price": "暂无",
+    "onSale": "41"
+  },
+  {
+    "name": "紫欣华庭",
+    "sold": "0",
+    "rent": "4",
+    "zone": "余杭",
+    "subzone": "崇贤",
+    "builtYear": "2007",
+    "price": "17809",
+    "onSale": "14"
+  },
+  {
+    "name": "星桥桂花城",
+    "sold": "0",
+    "rent": "16",
+    "zone": "余杭",
+    "subzone": "星桥",
+    "builtYear": "2010",
+    "price": "22450",
+    "onSale": "31"
+  },
+  {
+    "name": "中港罗兰小镇",
+    "sold": "0",
+    "rent": "72",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2016",
+    "price": "22396",
+    "onSale": "20"
+  }
+]

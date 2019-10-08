@@ -1,0 +1,292 @@
+[
+  {
+    "name": "佑圣观路101号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "未知年建成",
+    "price": "40102",
+    "onSale": "0"
+  },
+  {
+    "name": "大学路108号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "1988",
+    "price": "42802",
+    "onSale": "1"
+  },
+  {
+    "name": "通润银座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "2006",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "大学路社区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "1990",
+    "price": "41614",
+    "onSale": "1"
+  },
+  {
+    "name": "中山南路227号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1985",
+    "price": "38926",
+    "onSale": "2"
+  },
+  {
+    "name": "大学路110号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "2000",
+    "price": "33583",
+    "onSale": "1"
+  },
+  {
+    "name": "环城东路22号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "1988",
+    "price": "29796",
+    "onSale": "1"
+  },
+  {
+    "name": "姚园寺巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "1988",
+    "price": "43188",
+    "onSale": "1"
+  },
+  {
+    "name": "莫邪塘东村",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "1985",
+    "price": "49922",
+    "onSale": "2"
+  },
+  {
+    "name": "秋江雅院",
+    "sold": "0",
+    "rent": "5",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "1997",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "解放路213号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1998",
+    "price": "28321",
+    "onSale": "0"
+  },
+  {
+    "name": "莫邪塘西村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "1985",
+    "price": "38967",
+    "onSale": "0"
+  },
+  {
+    "name": "兴隆东村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "1986",
+    "price": "33974",
+    "onSale": "0"
+  },
+  {
+    "name": "四宜路10号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1988",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "元宝心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1980",
+    "price": "45221",
+    "onSale": "1"
+  },
+  {
+    "name": "抚宁巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1995",
+    "price": "41341",
+    "onSale": "1"
+  },
+  {
+    "name": "定安路46号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1995",
+    "price": "56091",
+    "onSale": "1"
+  },
+  {
+    "name": "察院前巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "2000",
+    "price": "49015",
+    "onSale": "1"
+  },
+  {
+    "name": "江城路243号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "1998",
+    "price": "34390",
+    "onSale": "2"
+  },
+  {
+    "name": "江城路216号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "1982",
+    "price": "38599",
+    "onSale": "1"
+  },
+  {
+    "name": "红门局7、9号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1985",
+    "price": "47098",
+    "onSale": "3"
+  },
+  {
+    "name": "上陈家园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1989",
+    "price": "44017",
+    "onSale": "2"
+  },
+  {
+    "name": "长坡里",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "1989",
+    "price": "39509",
+    "onSale": "3"
+  },
+  {
+    "name": "五洋嘉景苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "2002",
+    "price": "45148",
+    "onSale": "2"
+  },
+  {
+    "name": "美政路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "复兴",
+    "builtYear": "1999",
+    "price": "40519",
+    "onSale": "2"
+  },
+  {
+    "name": "洪福桥18号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "1997",
+    "price": "40943",
+    "onSale": "4"
+  },
+  {
+    "name": "江城路415.417号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1998",
+    "price": "40039",
+    "onSale": "3"
+  },
+  {
+    "name": "电厂二宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "西湖景区",
+    "builtYear": "1950",
+    "price": "44509",
+    "onSale": "1"
+  },
+  {
+    "name": "过军桥河下",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1980",
+    "price": "41816",
+    "onSale": "5"
+  }
+]

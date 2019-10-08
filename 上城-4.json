@@ -1,0 +1,302 @@
+[
+  {
+    "name": "万科金色城品",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "2010",
+    "price": "51562",
+    "onSale": "3"
+  },
+  {
+    "name": "锦都世家",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "2008",
+    "price": "43569",
+    "onSale": "8"
+  },
+  {
+    "name": "南班巷",
+    "sold": "0",
+    "rent": "11",
+    "zone": "上城",
+    "subzone": "清泰",
+    "builtYear": "1983",
+    "price": "41238",
+    "onSale": "21"
+  },
+  {
+    "name": "西湖八号公馆",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "2010",
+    "price": "74044",
+    "onSale": "0"
+  },
+  {
+    "name": "近江家园九园",
+    "sold": "1",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "2001",
+    "price": "52709",
+    "onSale": "5"
+  },
+  {
+    "name": "柳浪阁",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1994",
+    "price": "59840",
+    "onSale": "5"
+  },
+  {
+    "name": "在水一方公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "2000",
+    "price": "50153",
+    "onSale": "5"
+  },
+  {
+    "name": "候潮公寓",
+    "sold": "1",
+    "rent": "7",
+    "zone": "上城",
+    "subzone": "鼓楼",
+    "builtYear": "1997",
+    "price": "41062",
+    "onSale": "18"
+  },
+  {
+    "name": "春江名苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "2007",
+    "price": "59839",
+    "onSale": "1"
+  },
+  {
+    "name": "恒丰坊",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "1998",
+    "price": "49062",
+    "onSale": "6"
+  },
+  {
+    "name": "绿城元福里",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "2000",
+    "price": "136953",
+    "onSale": "2"
+  },
+  {
+    "name": "近江家园五园",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "2000",
+    "price": "52337",
+    "onSale": "7"
+  },
+  {
+    "name": "广宇吴山鸣翠苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "2004",
+    "price": "116923",
+    "onSale": "1"
+  },
+  {
+    "name": "赞成林风映水苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "2009",
+    "price": "59810",
+    "onSale": "5"
+  },
+  {
+    "name": "福利新村",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "1996",
+    "price": "41925",
+    "onSale": "8"
+  },
+  {
+    "name": "万安城市花园东苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "上城",
+    "subzone": "潮鸣",
+    "builtYear": "1999",
+    "price": "46367",
+    "onSale": "4"
+  },
+  {
+    "name": "清泰南苑",
+    "sold": "0",
+    "rent": "8",
+    "zone": "上城",
+    "subzone": "四季青",
+    "builtYear": "1997",
+    "price": "43711",
+    "onSale": "6"
+  },
+  {
+    "name": "南光坊",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "1998",
+    "price": "48761",
+    "onSale": "7"
+  },
+  {
+    "name": "向阳新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1977",
+    "price": "63955",
+    "onSale": "3"
+  },
+  {
+    "name": "信余里",
+    "sold": "0",
+    "rent": "15",
+    "zone": "上城",
+    "subzone": "城站",
+    "builtYear": "1974",
+    "price": "40614",
+    "onSale": "6"
+  },
+  {
+    "name": "开元路小区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1998",
+    "price": "49630",
+    "onSale": "5"
+  },
+  {
+    "name": "劳动路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1973",
+    "price": "64122",
+    "onSale": "6"
+  },
+  {
+    "name": "清波新村",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "清波",
+    "builtYear": "1990",
+    "price": "57516",
+    "onSale": "5"
+  },
+  {
+    "name": "近江苑",
+    "sold": "0",
+    "rent": "6",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "1996",
+    "price": "51973",
+    "onSale": "18"
+  },
+  {
+    "name": "新城坊",
+    "sold": "0",
+    "rent": "4",
+    "zone": "上城",
+    "subzone": "近江",
+    "builtYear": "1994",
+    "price": "50061",
+    "onSale": "4"
+  },
+  {
+    "name": "太和广场",
+    "sold": "0",
+    "rent": "18",
+    "zone": "上城",
+    "subzone": "南星",
+    "builtYear": "2010",
+    "price": "44487",
+    "onSale": "11"
+  },
+  {
+    "name": "名珏公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "2005",
+    "price": "72695",
+    "onSale": "7"
+  },
+  {
+    "name": "未央村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "上城",
+    "subzone": "湖滨",
+    "builtYear": "1990",
+    "price": "72509",
+    "onSale": "3"
+  },
+  {
+    "name": "好望角公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "上城",
+    "subzone": "复兴",
+    "builtYear": "2003",
+    "price": "36633",
+    "onSale": "4"
+  },
+  {
+    "name": "凤山花苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "上城",
+    "subzone": "雄镇楼",
+    "builtYear": "2003",
+    "price": "51362",
+    "onSale": "6"
+  }
+]

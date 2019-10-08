@@ -1,0 +1,302 @@
+[
+  {
+    "name": "寰宇天下",
+    "sold": "0",
+    "rent": "40",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2013",
+    "price": "52712",
+    "onSale": "65"
+  },
+  {
+    "name": "绿城明月江南",
+    "sold": "0",
+    "rent": "20",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2011",
+    "price": "58800",
+    "onSale": "30"
+  },
+  {
+    "name": "欣盛东方郡东区",
+    "sold": "0",
+    "rent": "39",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2009",
+    "price": "55640",
+    "onSale": "30"
+  },
+  {
+    "name": "风雅钱塘",
+    "sold": "2",
+    "rent": "37",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2006",
+    "price": "44742",
+    "onSale": "30"
+  },
+  {
+    "name": "南岸晶都花园",
+    "sold": "3",
+    "rent": "12",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "2007",
+    "price": "34357",
+    "onSale": "52"
+  },
+  {
+    "name": "钱塘春晓",
+    "sold": "0",
+    "rent": "34",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2004",
+    "price": "41488",
+    "onSale": "23"
+  },
+  {
+    "name": "欣盛东方郡西区",
+    "sold": "2",
+    "rent": "22",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2009",
+    "price": "52444",
+    "onSale": "32"
+  },
+  {
+    "name": "龙湖春江彼岸",
+    "sold": "3",
+    "rent": "56",
+    "zone": "滨江",
+    "subzone": "奥体",
+    "builtYear": "2013",
+    "price": "56853",
+    "onSale": "41"
+  },
+  {
+    "name": "瑞立中央花城",
+    "sold": "1",
+    "rent": "43",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2008",
+    "price": "55126",
+    "onSale": "26"
+  },
+  {
+    "name": "龙湖春江郦城",
+    "sold": "3",
+    "rent": "25",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2016",
+    "price": "60410",
+    "onSale": "17"
+  },
+  {
+    "name": "彩虹城",
+    "sold": "4",
+    "rent": "39",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2004",
+    "price": "44378",
+    "onSale": "72"
+  },
+  {
+    "name": "绿地旭辉城",
+    "sold": "3",
+    "rent": "57",
+    "zone": "滨江",
+    "subzone": "奥体",
+    "builtYear": "2010",
+    "price": "51986",
+    "onSale": "66"
+  },
+  {
+    "name": "中兴和园",
+    "sold": "8",
+    "rent": "12",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2009",
+    "price": "30585",
+    "onSale": "66"
+  },
+  {
+    "name": "钱江湾花园",
+    "sold": "0",
+    "rent": "26",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2003",
+    "price": "39419",
+    "onSale": "52"
+  },
+  {
+    "name": "江南豪园",
+    "sold": "0",
+    "rent": "15",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2005",
+    "price": "42904",
+    "onSale": "28"
+  },
+  {
+    "name": "云厦连园",
+    "sold": "0",
+    "rent": "13",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "2010",
+    "price": "41026",
+    "onSale": "29"
+  },
+  {
+    "name": "天鸿君邑",
+    "sold": "0",
+    "rent": "21",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2010",
+    "price": "31115",
+    "onSale": "41"
+  },
+  {
+    "name": "临江花园",
+    "sold": "0",
+    "rent": "12",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "1999",
+    "price": "34854",
+    "onSale": "59"
+  },
+  {
+    "name": "水印城",
+    "sold": "0",
+    "rent": "36",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "2007",
+    "price": "46592",
+    "onSale": "41"
+  },
+  {
+    "name": "倾城之恋",
+    "sold": "0",
+    "rent": "20",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2004",
+    "price": "45360",
+    "onSale": "26"
+  },
+  {
+    "name": "金盛曼城",
+    "sold": "0",
+    "rent": "20",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2004",
+    "price": "36939",
+    "onSale": "47"
+  },
+  {
+    "name": "玲珑府",
+    "sold": "0",
+    "rent": "53",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "2015",
+    "price": "36196",
+    "onSale": "54"
+  },
+  {
+    "name": "半岛国际",
+    "sold": "0",
+    "rent": "11",
+    "zone": "滨江",
+    "subzone": "长河",
+    "builtYear": "2014",
+    "price": "52599",
+    "onSale": "28"
+  },
+  {
+    "name": "钱江水晶城",
+    "sold": "0",
+    "rent": "12",
+    "zone": "滨江",
+    "subzone": "彩虹城",
+    "builtYear": "2010",
+    "price": "60128",
+    "onSale": "29"
+  },
+  {
+    "name": "万科璞悦湾",
+    "sold": "0",
+    "rent": "9",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2015",
+    "price": "50348",
+    "onSale": "20"
+  },
+  {
+    "name": "瑞立东方花城",
+    "sold": "0",
+    "rent": "24",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "2015",
+    "price": "41194",
+    "onSale": "13"
+  },
+  {
+    "name": "贺田尚城",
+    "sold": "0",
+    "rent": "28",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2003",
+    "price": "39372",
+    "onSale": "64"
+  },
+  {
+    "name": "星光国际公馆",
+    "sold": "0",
+    "rent": "43",
+    "zone": "滨江",
+    "subzone": "滨江区政府",
+    "builtYear": "2009",
+    "price": "23653",
+    "onSale": "49"
+  },
+  {
+    "name": "中天官河锦庭",
+    "sold": "0",
+    "rent": "9",
+    "zone": "滨江",
+    "subzone": "西兴",
+    "builtYear": "2015",
+    "price": "47835",
+    "onSale": "18"
+  },
+  {
+    "name": "江南文苑",
+    "sold": "0",
+    "rent": "14",
+    "zone": "滨江",
+    "subzone": "浦沿",
+    "builtYear": "2009",
+    "price": "39536",
+    "onSale": "36"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "name": "多蓝水岸听涛苑",
+    "sold": "0",
+    "rent": "7",
+    "zone": "钱塘新区",
+    "subzone": "沿江北",
+    "builtYear": "2007",
+    "price": "23476",
+    "onSale": "9"
+  },
+  {
+    "name": "新元金沙家园",
+    "sold": "1",
+    "rent": "26",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2013",
+    "price": "33239",
+    "onSale": "10"
+  },
+  {
+    "name": "月雅苑",
+    "sold": "1",
+    "rent": "2",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "2000",
+    "price": "30297",
+    "onSale": "6"
+  },
+  {
+    "name": "保利城市果岭",
+    "sold": "2",
+    "rent": "8",
+    "zone": "钱塘新区",
+    "subzone": "大学城北",
+    "builtYear": "2014",
+    "price": "27167",
+    "onSale": "29"
+  },
+  {
+    "name": "下沙幸福雅苑",
+    "sold": "1",
+    "rent": "10",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2013",
+    "price": "28968",
+    "onSale": "5"
+  },
+  {
+    "name": "盛泰名都中心",
+    "sold": "3",
+    "rent": "4",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "2012",
+    "price": "15008",
+    "onSale": "21"
+  },
+  {
+    "name": "之江铭楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "2000",
+    "price": "12087",
+    "onSale": "14"
+  },
+  {
+    "name": "盛泰时代山",
+    "sold": "3",
+    "rent": "10",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "2013",
+    "price": "18054",
+    "onSale": "35"
+  },
+  {
+    "name": "精欧荣寓",
+    "sold": "1",
+    "rent": "3",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "2013",
+    "price": "27821",
+    "onSale": "10"
+  },
+  {
+    "name": "滨江华成大江之星",
+    "sold": "1",
+    "rent": "16",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2016",
+    "price": "21984",
+    "onSale": "8"
+  },
+  {
+    "name": "下沙文汇苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "2004",
+    "price": "25398",
+    "onSale": "7"
+  },
+  {
+    "name": "绿城财通中心",
+    "sold": "0",
+    "rent": "4",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2013",
+    "price": "19998",
+    "onSale": "43"
+  },
+  {
+    "name": "裕园公寓",
+    "sold": "0",
+    "rent": "5",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "1994",
+    "price": "28328",
+    "onSale": "13"
+  },
+  {
+    "name": "琅琴湾",
+    "sold": "0",
+    "rent": "49",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2016",
+    "price": "22934",
+    "onSale": "7"
+  },
+  {
+    "name": "多蓝水岸蓝波苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "钱塘新区",
+    "subzone": "沿江北",
+    "builtYear": "2007",
+    "price": "23279",
+    "onSale": "7"
+  },
+  {
+    "name": "阳光华城华景园",
+    "sold": "0",
+    "rent": "1",
+    "zone": "钱塘新区",
+    "subzone": "高教园区东",
+    "builtYear": "2006",
+    "price": "36799",
+    "onSale": "2"
+  },
+  {
+    "name": "元成东盛家园",
+    "sold": "0",
+    "rent": "27",
+    "zone": "钱塘新区",
+    "subzone": "工业园北",
+    "builtYear": "2010",
+    "price": "27113",
+    "onSale": "17"
+  },
+  {
+    "name": "中沙东岸嘉园一区",
+    "sold": "0",
+    "rent": "14",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2015",
+    "price": "31908",
+    "onSale": "4"
+  },
+  {
+    "name": "阳光华城华翠园",
+    "sold": "0",
+    "rent": "7",
+    "zone": "钱塘新区",
+    "subzone": "高教园区东",
+    "builtYear": "2006",
+    "price": "35861",
+    "onSale": "5"
+  },
+  {
+    "name": "龙湖滟澜星座",
+    "sold": "0",
+    "rent": "16",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2018",
+    "price": "24208",
+    "onSale": "24"
+  },
+  {
+    "name": "中沙东岸嘉园三区",
+    "sold": "0",
+    "rent": "18",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2000",
+    "price": "31761",
+    "onSale": "8"
+  },
+  {
+    "name": "中国铁建保利像素",
+    "sold": "0",
+    "rent": "89",
+    "zone": "钱塘新区",
+    "subzone": "大学城北",
+    "builtYear": "2017",
+    "price": "25526",
+    "onSale": "56"
+  },
+  {
+    "name": "伊萨卡国际城排屋",
+    "sold": "0",
+    "rent": "4",
+    "zone": "钱塘新区",
+    "subzone": "沿江北",
+    "builtYear": "2008",
+    "price": "30005",
+    "onSale": "4"
+  },
+  {
+    "name": "兴耀星悦湾",
+    "sold": "0",
+    "rent": "15",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2017",
+    "price": "21349",
+    "onSale": "7"
+  },
+  {
+    "name": "泰美国际大厦",
+    "sold": "0",
+    "rent": "17",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2000",
+    "price": "23334",
+    "onSale": "76"
+  },
+  {
+    "name": "金沙国际",
+    "sold": "0",
+    "rent": "12",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2009",
+    "price": "17903",
+    "onSale": "44"
+  },
+  {
+    "name": "新沙家园",
+    "sold": "0",
+    "rent": "11",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2008",
+    "price": "26404",
+    "onSale": "3"
+  },
+  {
+    "name": "四季名门城市公寓",
+    "sold": "0",
+    "rent": "6",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "2007",
+    "price": "25349",
+    "onSale": "13"
+  },
+  {
+    "name": "金隅观澜时代瀚庭",
+    "sold": "0",
+    "rent": "7",
+    "zone": "钱塘新区",
+    "subzone": "沿江南",
+    "builtYear": "2013",
+    "price": "25651",
+    "onSale": "18"
+  },
+  {
+    "name": "保利鹭沙郡府",
+    "sold": "0",
+    "rent": "4",
+    "zone": "钱塘新区",
+    "subzone": "沿江南",
+    "builtYear": "2000",
+    "price": "37308",
+    "onSale": "17"
+  }
+]

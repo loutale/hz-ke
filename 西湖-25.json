@@ -1,0 +1,232 @@
+[
+  {
+    "name": "影业路",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "1989",
+    "price": "43329",
+    "onSale": "1"
+  },
+  {
+    "name": "阔石板",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西湖景区",
+    "builtYear": "1965",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文三西路39号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2000",
+    "price": "39353",
+    "onSale": "2"
+  },
+  {
+    "name": "山涧苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "1992",
+    "price": "35294",
+    "onSale": "2"
+  },
+  {
+    "name": "教工路79号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "1989",
+    "price": "34555",
+    "onSale": "1"
+  },
+  {
+    "name": "文三西路418号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1996",
+    "price": "36735",
+    "onSale": "2"
+  },
+  {
+    "name": "宝石山下二弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1999",
+    "price": "76514",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪路505号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "1995",
+    "price": "38635",
+    "onSale": "1"
+  },
+  {
+    "name": "西溪天堂悦莊",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2002",
+    "price": "63606",
+    "onSale": "0"
+  },
+  {
+    "name": "文北巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西河口小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "星光荟",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪谷国际商务中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二西路38号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "第五干休所",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路221号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路225号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1996",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路188号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "嘉乐金座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文一西路75号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "杭州数娱大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "嘉绿",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "紫金梦想广场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "天目山路234号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "古荡",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "name": "大家苑社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "环城西路58号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1990",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "中山北路363号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "2000",
+    "price": "43338",
+    "onSale": "0"
+  },
+  {
+    "name": "体育场路398号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "凤起路386号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "环城西路60号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1988",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "河东路3号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "未知年建成",
+    "price": "28555",
+    "onSale": "0"
+  },
+  {
+    "name": "上塘路235-239号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "兴业银行大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "潮鸣",
+    "builtYear": "1996",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "庆春路80到84号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "长庆",
+    "builtYear": "1999",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "中山北路421号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "1986",
+    "price": "42282",
+    "onSale": "0"
+  },
+  {
+    "name": "体育场路91号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "建国北路",
+    "builtYear": "2000",
+    "price": "48485",
+    "onSale": "0"
+  },
+  {
+    "name": "环城北路89号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "建国北路",
+    "builtYear": "未知年建成",
+    "price": "33025",
+    "onSale": "0"
+  },
+  {
+    "name": "中山北路27号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "众安桥",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "包龙桥巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "潮鸣",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "朝晖路138号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "未知年建成",
+    "price": "57213",
+    "onSale": "0"
+  },
+  {
+    "name": "佳美中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "石桥",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "之俊大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "丝绸城",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "体育场路301号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "1990",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "朝晖路81,85,89号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "1980",
+    "price": "38643",
+    "onSale": "1"
+  },
+  {
+    "name": "麒麟街三十一号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "众安桥",
+    "builtYear": "1988",
+    "price": "52888",
+    "onSale": "1"
+  },
+  {
+    "name": "池塘巷2号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "长庆",
+    "builtYear": "1990",
+    "price": "44964",
+    "onSale": "1"
+  },
+  {
+    "name": "中山北路556号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "1990",
+    "price": "49778",
+    "onSale": "1"
+  },
+  {
+    "name": "东园街39号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "建国北路",
+    "builtYear": "1988",
+    "price": "39716",
+    "onSale": "0"
+  },
+  {
+    "name": "广利大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "众安桥",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "石灰坝24号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "1992",
+    "price": "38769",
+    "onSale": "1"
+  }
+]

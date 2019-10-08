@@ -1,0 +1,302 @@
+[
+  {
+    "name": "锦绣天地",
+    "sold": "0",
+    "rent": "4",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "2005",
+    "price": "47651",
+    "onSale": "16"
+  },
+  {
+    "name": "潮王公寓",
+    "sold": "1",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "2010",
+    "price": "42140",
+    "onSale": "3"
+  },
+  {
+    "name": "温馨家园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "建国北路",
+    "builtYear": "2003",
+    "price": "42486",
+    "onSale": "4"
+  },
+  {
+    "name": "金庆公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "长庆",
+    "builtYear": "2005",
+    "price": "65132",
+    "onSale": "2"
+  },
+  {
+    "name": "长板里",
+    "sold": "2",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "1996",
+    "price": "38377",
+    "onSale": "5"
+  },
+  {
+    "name": "潮王人家",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "1999",
+    "price": "43313",
+    "onSale": "3"
+  },
+  {
+    "name": "金鹿雅园",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "丝绸城",
+    "builtYear": "2003",
+    "price": "48477",
+    "onSale": "2"
+  },
+  {
+    "name": "长兴公寓",
+    "sold": "1",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "1997",
+    "price": "34453",
+    "onSale": "16"
+  },
+  {
+    "name": "玄坛弄",
+    "sold": "0",
+    "rent": "4",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "1980",
+    "price": "49278",
+    "onSale": "9"
+  },
+  {
+    "name": "浙报公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "众安桥",
+    "builtYear": "1998",
+    "price": "47815",
+    "onSale": "2"
+  },
+  {
+    "name": "西湖花苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1996",
+    "price": "89482",
+    "onSale": "4"
+  },
+  {
+    "name": "三塘兰园",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "1989",
+    "price": "36863",
+    "onSale": "8"
+  },
+  {
+    "name": "凤起潮鸣",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "潮鸣",
+    "builtYear": "2020",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "孝丰路小区",
+    "sold": "0",
+    "rent": "4",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1980",
+    "price": "55492",
+    "onSale": "4"
+  },
+  {
+    "name": "光辉岁月",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "2003",
+    "price": "43068",
+    "onSale": "4"
+  },
+  {
+    "name": "打铁关路",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "1987",
+    "price": "37695",
+    "onSale": "9"
+  },
+  {
+    "name": "新坝",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "体育场路",
+    "builtYear": "1986",
+    "price": "36965",
+    "onSale": "9"
+  },
+  {
+    "name": "和乐苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1984",
+    "price": "63100",
+    "onSale": "0"
+  },
+  {
+    "name": "凤鸣苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "潮鸣",
+    "builtYear": "2006",
+    "price": "44542",
+    "onSale": "2"
+  },
+  {
+    "name": "建国公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "潮鸣",
+    "builtYear": "2000",
+    "price": "40215",
+    "onSale": "1"
+  },
+  {
+    "name": "大营盘",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "体育场路",
+    "builtYear": "1987",
+    "price": "39682",
+    "onSale": "7"
+  },
+  {
+    "name": "东园巷",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "建国北路",
+    "builtYear": "1982",
+    "price": "38166",
+    "onSale": "3"
+  },
+  {
+    "name": "广电雅苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "2013",
+    "price": "33042",
+    "onSale": "3"
+  },
+  {
+    "name": "野风现代中心",
+    "sold": "0",
+    "rent": "25",
+    "zone": "下城",
+    "subzone": "和平",
+    "builtYear": "2006",
+    "price": "25235",
+    "onSale": "20"
+  },
+  {
+    "name": "王马巷",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "长庆",
+    "builtYear": "1990",
+    "price": "45282",
+    "onSale": "1"
+  },
+  {
+    "name": "兴和公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "潮鸣",
+    "builtYear": "1998",
+    "price": "42114",
+    "onSale": "4"
+  },
+  {
+    "name": "仙林福座",
+    "sold": "0",
+    "rent": "3",
+    "zone": "下城",
+    "subzone": "众安桥",
+    "builtYear": "2000",
+    "price": "28112",
+    "onSale": "2"
+  },
+  {
+    "name": "环北新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "2000",
+    "price": "51468",
+    "onSale": "3"
+  },
+  {
+    "name": "环城东路298-311号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "建国北路",
+    "builtYear": "1996",
+    "price": "37995",
+    "onSale": "7"
+  },
+  {
+    "name": "丽景苑(下城)",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "潮鸣",
+    "builtYear": "2000",
+    "price": "52526",
+    "onSale": "3"
+  }
+]

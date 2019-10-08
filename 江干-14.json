@@ -1,0 +1,202 @@
+[
+  {
+    "name": "东渡酩悦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "新塘家园西区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "华景北苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "华家池",
+    "builtYear": "2005",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "水湘人家南苑",
+    "sold": "0",
+    "rent": "9",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "2012",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "凯景公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "江干",
+    "subzone": "华家池",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "中豪湘座",
+    "sold": "0",
+    "rent": "2",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "天城路60-8号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "未知年建成",
+    "price": "29993",
+    "onSale": "0"
+  },
+  {
+    "name": "东门大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2005",
+    "price": "18017",
+    "onSale": "0"
+  },
+  {
+    "name": "越秀维多利中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2017",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "机场路里街",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "1993",
+    "price": "31527",
+    "onSale": "0"
+  },
+  {
+    "name": "新城广场",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "丁桥",
+    "builtYear": "2010",
+    "price": "7557",
+    "onSale": "0"
+  },
+  {
+    "name": "汇禾禧福汇",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2013",
+    "price": "14629",
+    "onSale": "1"
+  },
+  {
+    "name": "工农路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "1996",
+    "price": "34412",
+    "onSale": "1"
+  },
+  {
+    "name": "妇保宿舍",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1986",
+    "price": "45578",
+    "onSale": "3"
+  },
+  {
+    "name": "机场路1巷64号院",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "1990",
+    "price": "36230",
+    "onSale": "2"
+  },
+  {
+    "name": "火电宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "1990",
+    "price": "45272",
+    "onSale": "4"
+  },
+  {
+    "name": "横塘景苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "蓝天嘉苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "笕桥",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "采荷路31号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1990",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "天仙新苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "1997",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

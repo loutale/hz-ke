@@ -1,0 +1,262 @@
+[
+  {
+    "name": "曙光路9号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1985",
+    "price": "60616",
+    "onSale": "2"
+  },
+  {
+    "name": "文二路166号",
+    "sold": "0",
+    "rent": "5",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1985",
+    "price": "60970",
+    "onSale": "1"
+  },
+  {
+    "name": "西溪花园翠竹苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪佳苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "蒋村花园兴达苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2005",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "蒋村西溪人家",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "教工路49号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "1989",
+    "price": "35554",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路57号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1999",
+    "price": "66680",
+    "onSale": "0"
+  },
+  {
+    "name": "宝石二路8号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "2009",
+    "price": "81123",
+    "onSale": "0"
+  },
+  {
+    "name": "杭大路38号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1988",
+    "price": "51449",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路404号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "1999",
+    "price": "26611",
+    "onSale": "1"
+  },
+  {
+    "name": "文二路19号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1982",
+    "price": "80358",
+    "onSale": "2"
+  },
+  {
+    "name": "文二路44号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1983",
+    "price": "51984",
+    "onSale": "1"
+  },
+  {
+    "name": "文一路95号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1995",
+    "price": "53687",
+    "onSale": "1"
+  },
+  {
+    "name": "文一路60号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1990",
+    "price": "58511",
+    "onSale": "2"
+  },
+  {
+    "name": "炮台公寓",
+    "sold": "0",
+    "rent": "3",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "2005",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪花园芦雪苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "申瑞国际金座",
+    "sold": "0",
+    "rent": "13",
+    "zone": "西湖",
+    "subzone": "申花",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "村口家园",
+    "sold": "0",
+    "rent": "17",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "蒋村花园广安苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "天目山路28号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "未知年建成",
+    "price": "53677",
+    "onSale": "0"
+  },
+  {
+    "name": "蒋村花园如意苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "伟星大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "九莲",
+    "builtYear": "2004",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路23号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1998",
+    "price": "76525",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路94号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1986",
+    "price": "41832",
+    "onSale": "0"
+  },
+  {
+    "name": "文二路43号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1988",
+    "price": "80173",
+    "onSale": "0"
+  }
+]

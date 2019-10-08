@@ -1,0 +1,302 @@
+[
+  {
+    "name": "环城西路4号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1995",
+    "price": "55287",
+    "onSale": "0"
+  },
+  {
+    "name": "田逸之星",
+    "sold": "0",
+    "rent": "3",
+    "zone": "下城",
+    "subzone": "石桥",
+    "builtYear": "2013",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "宏盛公寓社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "潮鸣",
+    "builtYear": "2000",
+    "price": "37285",
+    "onSale": "4"
+  },
+  {
+    "name": "九鼎名仕顿商务楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "2007",
+    "price": "23932",
+    "onSale": "4"
+  },
+  {
+    "name": "体育场路178-418号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1985",
+    "price": "42552",
+    "onSale": "2"
+  },
+  {
+    "name": "杨家春晓北苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "石桥",
+    "builtYear": "2005",
+    "price": "29666",
+    "onSale": "4"
+  },
+  {
+    "name": "河西南38号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "1992",
+    "price": "40527",
+    "onSale": "2"
+  },
+  {
+    "name": "朝晖路90号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "2000",
+    "price": "31270",
+    "onSale": "0"
+  },
+  {
+    "name": "石匠弄",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "长庆",
+    "builtYear": "1988",
+    "price": "42485",
+    "onSale": "0"
+  },
+  {
+    "name": "新鼎家园",
+    "sold": "0",
+    "rent": "4",
+    "zone": "下城",
+    "subzone": "石桥",
+    "builtYear": "2011",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "环城北路56号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "1990",
+    "price": "25833",
+    "onSale": "0"
+  },
+  {
+    "name": "长庆街",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "长庆",
+    "builtYear": "1990",
+    "price": "41061",
+    "onSale": "1"
+  },
+  {
+    "name": "武林路458号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1985",
+    "price": "68642",
+    "onSale": "3"
+  },
+  {
+    "name": "法轮寺弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "众安桥",
+    "builtYear": "1988",
+    "price": "54410",
+    "onSale": "2"
+  },
+  {
+    "name": "富润里",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "长庆",
+    "builtYear": "1999",
+    "price": "45612",
+    "onSale": "0"
+  },
+  {
+    "name": "耶稣堂弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "1999",
+    "price": "39054",
+    "onSale": "0"
+  },
+  {
+    "name": "开化路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1980",
+    "price": "56432",
+    "onSale": "1"
+  },
+  {
+    "name": "天堂园轴承宿舍",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "石桥",
+    "builtYear": "2000",
+    "price": "34292",
+    "onSale": "0"
+  },
+  {
+    "name": "中山北路601号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "1995",
+    "price": "44380",
+    "onSale": "2"
+  },
+  {
+    "name": "田家桥",
+    "sold": "0",
+    "rent": "3",
+    "zone": "下城",
+    "subzone": "体育场路",
+    "builtYear": "1998",
+    "price": "43760",
+    "onSale": "1"
+  },
+  {
+    "name": "环城西路96号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1988",
+    "price": "56398",
+    "onSale": "4"
+  },
+  {
+    "name": "中山北路123号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "众安桥",
+    "builtYear": "1986",
+    "price": "45407",
+    "onSale": "3"
+  },
+  {
+    "name": "大树路3号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "建国北路",
+    "builtYear": "2000",
+    "price": "43168",
+    "onSale": "0"
+  },
+  {
+    "name": "中山北路341号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "下城",
+    "subzone": "天水",
+    "builtYear": "1996",
+    "price": "51289",
+    "onSale": "0"
+  },
+  {
+    "name": "打铁关外聘楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "流水苑",
+    "builtYear": "1980",
+    "price": "35562",
+    "onSale": "2"
+  },
+  {
+    "name": "国都发展大厦",
+    "sold": "0",
+    "rent": "3",
+    "zone": "下城",
+    "subzone": "朝晖",
+    "builtYear": "2001",
+    "price": "25557",
+    "onSale": "0"
+  },
+  {
+    "name": "所巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "下城",
+    "subzone": "建国北路",
+    "builtYear": "1982",
+    "price": "43541",
+    "onSale": "3"
+  },
+  {
+    "name": "小和弄小区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "众安桥",
+    "builtYear": "2000",
+    "price": "45964",
+    "onSale": "1"
+  },
+  {
+    "name": "长隆公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "三塘",
+    "builtYear": "2000",
+    "price": "35317",
+    "onSale": "0"
+  },
+  {
+    "name": "凤起里",
+    "sold": "0",
+    "rent": "1",
+    "zone": "下城",
+    "subzone": "武林",
+    "builtYear": "1981",
+    "price": "51863",
+    "onSale": "0"
+  }
+]

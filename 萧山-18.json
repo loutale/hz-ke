@@ -1,0 +1,232 @@
+[
+  {
+    "name": "荣星南苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山新城区",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "永丰家园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1982",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "宁东北苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "家乐公寓",
+    "sold": "0",
+    "rent": "13",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "湖山春晓家园北区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "南部卧城",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "奥克斯金宸玖和府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "世宸名府",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "钱啤小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2000",
+    "price": "18483",
+    "onSale": "0"
+  },
+  {
+    "name": "湘湖路3号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "湘湖",
+    "builtYear": "1991",
+    "price": "13679",
+    "onSale": "0"
+  },
+  {
+    "name": "萧金路26号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "湘湖",
+    "builtYear": "未知年建成",
+    "price": "25494",
+    "onSale": "0"
+  },
+  {
+    "name": "萧绍路1602号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1986",
+    "price": "25231",
+    "onSale": "0"
+  },
+  {
+    "name": "萧山商业城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "未知年建成",
+    "price": "33446",
+    "onSale": "0"
+  },
+  {
+    "name": "东城名苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "2000",
+    "price": "20464",
+    "onSale": "0"
+  },
+  {
+    "name": "万达中路215号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "闻堰",
+    "builtYear": "2005",
+    "price": "15733",
+    "onSale": "0"
+  },
+  {
+    "name": "博地中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "钱江世纪城",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "萧杭路",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1996",
+    "price": "22436",
+    "onSale": "0"
+  },
+  {
+    "name": "萧绍路1587号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1989",
+    "price": "21451",
+    "onSale": "0"
+  },
+  {
+    "name": "京奥名座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2012",
+    "price": "6497",
+    "onSale": "0"
+  },
+  {
+    "name": "明朗花园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2009",
+    "price": "15053",
+    "onSale": "0"
+  },
+  {
+    "name": "万商汇综合楼",
+    "sold": "0",
+    "rent": "2",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "2000",
+    "price": "24332",
+    "onSale": "1"
+  },
+  {
+    "name": "杭州萧山国际商务中心",
+    "sold": "0",
+    "rent": "1",
+    "zone": "萧山",
+    "subzone": "萧山市区",
+    "builtYear": "1995",
+    "price": "9596",
+    "onSale": "0"
+  },
+  {
+    "name": "浦江苑小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "萧山开发区",
+    "builtYear": "2005",
+    "price": "11019",
+    "onSale": "0"
+  },
+  {
+    "name": "亚都泊景湾",
+    "sold": "0",
+    "rent": "0",
+    "zone": "萧山",
+    "subzone": "大江东",
+    "builtYear": "2000",
+    "price": "16172",
+    "onSale": "0"
+  }
+]

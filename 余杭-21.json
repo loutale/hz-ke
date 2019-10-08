@@ -1,0 +1,282 @@
+[
+  {
+    "name": "迎宾路158号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "19339",
+    "onSale": "2"
+  },
+  {
+    "name": "中都广场",
+    "sold": "0",
+    "rent": "6",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2003",
+    "price": "16725",
+    "onSale": "9"
+  },
+  {
+    "name": "康家公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2001",
+    "price": "20904",
+    "onSale": "4"
+  },
+  {
+    "name": "南大街",
+    "sold": "0",
+    "rent": "6",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1990",
+    "price": "17418",
+    "onSale": "10"
+  },
+  {
+    "name": "水乡华庭",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "1998",
+    "price": "17862",
+    "onSale": "5"
+  },
+  {
+    "name": "耀达仁和印象",
+    "sold": "1",
+    "rent": "8",
+    "zone": "余杭",
+    "subzone": "仁和",
+    "builtYear": "2005",
+    "price": "17352",
+    "onSale": "9"
+  },
+  {
+    "name": "意法轻纺城",
+    "sold": "0",
+    "rent": "59",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "2019",
+    "price": "22384",
+    "onSale": "15"
+  },
+  {
+    "name": "金阳湾",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "仁和",
+    "builtYear": "1997",
+    "price": "19265",
+    "onSale": "7"
+  },
+  {
+    "name": "胜稼红星嘉园二区",
+    "sold": "0",
+    "rent": "37",
+    "zone": "余杭",
+    "subzone": "乔司",
+    "builtYear": "2008",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "朗诗枫荟",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文园公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "10554",
+    "onSale": "0"
+  },
+  {
+    "name": "金恒德公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "勾庄",
+    "builtYear": "未知年建成",
+    "price": "9376",
+    "onSale": "0"
+  },
+  {
+    "name": "富春运河赋",
+    "sold": "0",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "崇贤",
+    "builtYear": "2011",
+    "price": "21072",
+    "onSale": "2"
+  },
+  {
+    "name": "逸品明珠花苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2017",
+    "price": "23313",
+    "onSale": "0"
+  },
+  {
+    "name": "景山路15号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "未知年建成",
+    "price": "20137",
+    "onSale": "1"
+  },
+  {
+    "name": "严村里",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "未知年建成",
+    "price": "24371",
+    "onSale": "2"
+  },
+  {
+    "name": "中山路12-2号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2014",
+    "price": "18442",
+    "onSale": "1"
+  },
+  {
+    "name": "油车弄",
+    "sold": "0",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1995",
+    "price": "17047",
+    "onSale": "3"
+  },
+  {
+    "name": "新苑小区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "塘栖",
+    "builtYear": "1998",
+    "price": "13802",
+    "onSale": "2"
+  },
+  {
+    "name": "乐山嘉苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "余杭",
+    "subzone": "闲林",
+    "builtYear": "2013",
+    "price": "16984",
+    "onSale": "2"
+  },
+  {
+    "name": "清沁花苑",
+    "sold": "0",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "18383",
+    "onSale": "2"
+  },
+  {
+    "name": "运潭公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "1998",
+    "price": "16614",
+    "onSale": "1"
+  },
+  {
+    "name": "径乐家园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "未来科技城",
+    "builtYear": "2004",
+    "price": "13112",
+    "onSale": "4"
+  },
+  {
+    "name": "王家堰40号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "余杭",
+    "subzone": "星桥",
+    "builtYear": "1982",
+    "price": "15729",
+    "onSale": "1"
+  },
+  {
+    "name": "曙光嘉园",
+    "sold": "0",
+    "rent": "3",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2000",
+    "price": "16013",
+    "onSale": "5"
+  },
+  {
+    "name": "周家里",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "良渚",
+    "builtYear": "2009",
+    "price": "23260",
+    "onSale": "4"
+  },
+  {
+    "name": "风清苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "余杭",
+    "subzone": "临平",
+    "builtYear": "2003",
+    "price": "22075",
+    "onSale": "2"
+  },
+  {
+    "name": "凤城花苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "余杭",
+    "subzone": "瓶窑",
+    "builtYear": "2005",
+    "price": "18951",
+    "onSale": "6"
+  }
+]

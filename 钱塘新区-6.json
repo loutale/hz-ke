@@ -1,0 +1,212 @@
+[
+  {
+    "name": "新雁公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "沿江北",
+    "builtYear": "2010",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "江盛江南岸",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2016",
+    "price": "18970",
+    "onSale": "0"
+  },
+  {
+    "name": "七格幸福家园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "工业园南",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "明意公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "18967",
+    "onSale": "0"
+  },
+  {
+    "name": "朗湾宋都橄榄墅",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大学城北",
+    "builtYear": "未知年建成",
+    "price": "40694",
+    "onSale": "0"
+  },
+  {
+    "name": "金逸雅苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "1998",
+    "price": "14507",
+    "onSale": "0"
+  },
+  {
+    "name": "江盛公寓",
+    "sold": "0",
+    "rent": "2",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2011",
+    "price": "15844",
+    "onSale": "0"
+  },
+  {
+    "name": "德意义和苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2009",
+    "price": "18459",
+    "onSale": "0"
+  },
+  {
+    "name": "学林铭城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "2"
+  },
+  {
+    "name": "金沙世纪大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "河中路588",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "1992",
+    "price": "11523",
+    "onSale": "0"
+  },
+  {
+    "name": "居艺空间",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "九堡",
+    "builtYear": "2018",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "东城大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "工业园北",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "东部之星",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "华顺别墅",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "康莱特公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "2012",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "金隅金座",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "沿江南",
+    "builtYear": "2016",
+    "price": "18999",
+    "onSale": "0"
+  },
+  {
+    "name": "春意江南",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "25998",
+    "onSale": "1"
+  },
+  {
+    "name": "东源商厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "沿江北",
+    "builtYear": "未知年建成",
+    "price": "17094",
+    "onSale": "0"
+  },
+  {
+    "name": "文和公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "星野花苑四区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "工业园北",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

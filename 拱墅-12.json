@@ -1,0 +1,272 @@
+[
+  {
+    "name": "湖墅北路95号",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "2000",
+    "price": "28388",
+    "onSale": "0"
+  },
+  {
+    "name": "贾家弄2号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "2000",
+    "price": "33955",
+    "onSale": "0"
+  },
+  {
+    "name": "德胜巷98号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "德胜",
+    "builtYear": "1986",
+    "price": "36171",
+    "onSale": "1"
+  },
+  {
+    "name": "绿地中央广场",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "2010",
+    "price": "42922",
+    "onSale": "0"
+  },
+  {
+    "name": "新世纪大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "2001",
+    "price": "28511",
+    "onSale": "1"
+  },
+  {
+    "name": "大关路268号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1998",
+    "price": "15180",
+    "onSale": "1"
+  },
+  {
+    "name": "绿城青亭",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "半山家苑",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2014",
+    "price": "28084",
+    "onSale": "1"
+  },
+  {
+    "name": "新河坝",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1992",
+    "price": "37545",
+    "onSale": "1"
+  },
+  {
+    "name": "吉祥寺弄",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2000",
+    "price": "69196",
+    "onSale": "2"
+  },
+  {
+    "name": "玉兔路小区",
+    "sold": "0",
+    "rent": "3",
+    "zone": "拱墅",
+    "subzone": "大关",
+    "builtYear": "1989",
+    "price": "41241",
+    "onSale": "3"
+  },
+  {
+    "name": "宁和弄",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "1979",
+    "price": "29557",
+    "onSale": "3"
+  },
+  {
+    "name": "康馨苑",
+    "sold": "0",
+    "rent": "17",
+    "zone": "拱墅",
+    "subzone": "半山",
+    "builtYear": "2005",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "萍水人家",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "中梁申花百悦公馆",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "七古登人家",
+    "sold": "0",
+    "rent": "12",
+    "zone": "拱墅",
+    "subzone": "拱宸桥",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "假山路33号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "德胜",
+    "builtYear": "1995",
+    "price": "30812",
+    "onSale": "0"
+  },
+  {
+    "name": "和睦路9号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "未知年建成",
+    "price": "32613",
+    "onSale": "0"
+  },
+  {
+    "name": "密渡桥路8号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1993",
+    "price": "35076",
+    "onSale": "0"
+  },
+  {
+    "name": "北城天地",
+    "sold": "0",
+    "rent": "10",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "2000",
+    "price": "19213",
+    "onSale": "0"
+  },
+  {
+    "name": "湖墅南路419号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1989",
+    "price": "32789",
+    "onSale": "1"
+  },
+  {
+    "name": "祥符路",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "申花",
+    "builtYear": "1998",
+    "price": "24345",
+    "onSale": "1"
+  },
+  {
+    "name": "宗坛巷",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1988",
+    "price": "48705",
+    "onSale": "3"
+  },
+  {
+    "name": "假山路5弄",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "德胜",
+    "builtYear": "2002",
+    "price": "35461",
+    "onSale": "1"
+  },
+  {
+    "name": "莫干山路94号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "拱墅",
+    "subzone": "湖墅",
+    "builtYear": "1980",
+    "price": "42440",
+    "onSale": "2"
+  },
+  {
+    "name": "小河路338号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "拱墅",
+    "subzone": "桥西",
+    "builtYear": "1995",
+    "price": "39932",
+    "onSale": "0"
+  },
+  {
+    "name": "观音桥小区",
+    "sold": "0",
+    "rent": "2",
+    "zone": "拱墅",
+    "subzone": "信义坊",
+    "builtYear": "1985",
+    "price": "33419",
+    "onSale": "5"
+  }
+]

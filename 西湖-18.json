@@ -1,0 +1,292 @@
+[
+  {
+    "name": "保俶北路90号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1988",
+    "price": "58218",
+    "onSale": "5"
+  },
+  {
+    "name": "云桂花园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三西路",
+    "builtYear": "1998",
+    "price": "75059",
+    "onSale": "3"
+  },
+  {
+    "name": "玉古路139号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1985",
+    "price": "68660",
+    "onSale": "2"
+  },
+  {
+    "name": "莫干山路",
+    "sold": "0",
+    "rent": "12",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1985",
+    "price": "53755",
+    "onSale": "10"
+  },
+  {
+    "name": "留下街石油小区",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1989",
+    "price": "27219",
+    "onSale": "1"
+  },
+  {
+    "name": "西溪花园紫菱苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪九号",
+    "sold": "0",
+    "rent": "10",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2020",
+    "price": "36622",
+    "onSale": "3"
+  },
+  {
+    "name": "天目山路",
+    "sold": "1",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1985",
+    "price": "53724",
+    "onSale": "14"
+  },
+  {
+    "name": "武林巷37号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1986",
+    "price": "67913",
+    "onSale": "0"
+  },
+  {
+    "name": "武林巷38号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1984",
+    "price": "64712",
+    "onSale": "2"
+  },
+  {
+    "name": "和家园臻园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "文三路105号",
+    "sold": "0",
+    "rent": "2",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1998",
+    "price": "63316",
+    "onSale": "0"
+  },
+  {
+    "name": "马塍路18号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1983",
+    "price": "64436",
+    "onSale": "0"
+  },
+  {
+    "name": "马塍路4号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1998",
+    "price": "45915",
+    "onSale": "0"
+  },
+  {
+    "name": "青石桥24幢",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1986",
+    "price": "58095",
+    "onSale": "1"
+  },
+  {
+    "name": "古荡桥",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "2000",
+    "price": "52542",
+    "onSale": "1"
+  },
+  {
+    "name": "混堂巷20号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文三",
+    "builtYear": "1990",
+    "price": "54595",
+    "onSale": "2"
+  },
+  {
+    "name": "西溪河下76号",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "1988",
+    "price": "55232",
+    "onSale": "2"
+  },
+  {
+    "name": "文二路27号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "学军",
+    "builtYear": "1982",
+    "price": "84354",
+    "onSale": "2"
+  },
+  {
+    "name": "天目山路101号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1985",
+    "price": "49840",
+    "onSale": "2"
+  },
+  {
+    "name": "紫润国际",
+    "sold": "0",
+    "rent": "20",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2018",
+    "price": "25372",
+    "onSale": "11"
+  },
+  {
+    "name": "杭房揽翠",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "文教",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "古荡湾新村",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "翠苑",
+    "builtYear": "1998",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "定北家园",
+    "sold": "0",
+    "rent": "20",
+    "zone": "西湖",
+    "subzone": "转塘",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "之江之芯",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "之江",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "郡原公元里",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "曙光路125号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "黄龙",
+    "builtYear": "1988",
+    "price": "66175",
+    "onSale": "0"
+  },
+  {
+    "name": "西城博司",
+    "sold": "0",
+    "rent": "1",
+    "zone": "西湖",
+    "subzone": "三墩",
+    "builtYear": "2013",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "西溪花园红柿苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "西湖",
+    "subzone": "西溪",
+    "builtYear": "1995",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]

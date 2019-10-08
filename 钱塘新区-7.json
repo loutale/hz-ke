@@ -1,0 +1,212 @@
+[
+  {
+    "name": "瓯江大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "2013",
+    "price": "11336",
+    "onSale": "0"
+  },
+  {
+    "name": "群桥人力公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "工业园南",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "金凌花园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2006",
+    "price": "14070",
+    "onSale": "0"
+  },
+  {
+    "name": "宏景园",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2000",
+    "price": "14025",
+    "onSale": "0"
+  },
+  {
+    "name": "江东壹号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2018",
+    "price": "19859",
+    "onSale": "1"
+  },
+  {
+    "name": "杭州恒创公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "工业园北",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "金蜂小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "锦阳人力",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "工业园北",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "金湾创业大厦",
+    "sold": "0",
+    "rent": "1",
+    "zone": "钱塘新区",
+    "subzone": "工业园北",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "新元社区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "下沙社区创意大厦",
+    "sold": "0",
+    "rent": "2",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "育才公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "工业园北",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "2号大街1035号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "高教园区西",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "春益小区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "蓝湖国际6幢",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "郡原公元时代",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "金沙湖",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "阳光创富中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "高教园区东",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "诚意公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "2010",
+    "price": "16486",
+    "onSale": "0"
+  },
+  {
+    "name": "义蓬名苑",
+    "sold": "0",
+    "rent": "1",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "融创城",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "东江公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "钱塘新区",
+    "subzone": "大江东",
+    "builtYear": "未知年建成",
+    "price": "14749",
+    "onSale": "0"
+  }
+]

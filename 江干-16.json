@@ -1,0 +1,242 @@
+[
+  {
+    "name": "三堡家园",
+    "sold": "0",
+    "rent": "8",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "杭州湾公寓",
+    "sold": "0",
+    "rent": "1",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "三堡北苑",
+    "sold": "0",
+    "rent": "4",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "交投绿城明珠国际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2017",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "普福家园北区",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2015",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "闸弄口农药厂宿舍",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "闸弄口",
+    "builtYear": "1986",
+    "price": "31446",
+    "onSale": "0"
+  },
+  {
+    "name": "浙江财富金融中心",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "1997",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "圣奥中央商务大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2011",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "亿龙商务楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2017",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "双菱路179号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "未知年建成",
+    "price": "36131",
+    "onSale": "0"
+  },
+  {
+    "name": "万银国际",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "2014",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "三里新城董家苑",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2001",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "君合商务楼",
+    "sold": "0",
+    "rent": "2",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "2012",
+    "price": "22558",
+    "onSale": "1"
+  },
+  {
+    "name": "健风大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "1999",
+    "price": "28290",
+    "onSale": "1"
+  },
+  {
+    "name": "清泰商务大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "四季青",
+    "builtYear": "2000",
+    "price": "46747",
+    "onSale": "3"
+  },
+  {
+    "name": "观音堂路102号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "四季青",
+    "builtYear": "1990",
+    "price": "43021",
+    "onSale": "1"
+  },
+  {
+    "name": "佰富时代中心写字楼",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2005",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "五福天星龙大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "钱江新城",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "庆春东路47号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "采荷",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "润广天地",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "九堡",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "庆春广场商业街",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "南肖埠",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "东恒大厦",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "火车东站",
+    "builtYear": "2019",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "秋涛北路一弄18号",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "景芳",
+    "builtYear": "未知年建成",
+    "price": "暂无",
+    "onSale": "0"
+  },
+  {
+    "name": "范家天成公寓",
+    "sold": "0",
+    "rent": "0",
+    "zone": "江干",
+    "subzone": "三里亭",
+    "builtYear": "2000",
+    "price": "暂无",
+    "onSale": "0"
+  }
+]
